@@ -1,0 +1,24 @@
+---
+title: "Greg Ridgeway"
+format:
+  html:
+    toc: false
+    number-sections: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+**Rebecca W. Bushnell Professor of Criminology**  
+University of Pennsylvania
+
+I am a professor in the Department of Criminology at the University of Pennsylvania, with secondary appointments in statistics and data science. My research focuses on statistical methods for criminal justice data, including police use of force, causal inference, benchmarking, and text-as-data applications for public safety.
+
+- **Curriculum Vitae:** [CV](/cv/)
+- **Google Scholar:** https://scholar.google.com/citations?user=YOURID
+- **GitHub:** https://github.com/gregridgeway
+
+::: {.callout-note appearance="minimal"}
+This site replaces my former Google Sites page
+:::

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Greg Ridgeway"
+  site-url: https://YOUR-USERNAME.github.io
+  repo-url: https://github.com/YOUR-USERNAME/YOUR-REPO
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/YOUR-USERNAME
+      - icon: google
+        href: https://scholar.google.com/citations?user=YOURID
+  page-footer:
+    left: |
+      © Greg Ridgeway
+    right: |
+      Built with <a href="https://quarto.org">Quarto</a>
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
