@@ -28,7 +28,7 @@ University of Pennsylvania — Philadelphia, PA
 ## Education
 
 - **Ph.D. – Statistics (1999)**  
-  Dissertation: *Generalization of Boosting Algorithms and Applications of Bayesian Inference to Massive Datasets*  
+  Dissertation: *[Generalization of Boosting Algorithms and Applications of Bayesian Inference to Massive Datasets](docs/thesis.pdf)*  
   Department of Statistics, University of Washington, Seattle, WA  
   Advisors: David Madigan and Thomas Richardson
 
