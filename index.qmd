@@ -10,14 +10,24 @@ execute:
   message: false
 ---
 
+<!-- quarto publish gh-pages -->
+
 **Rebecca W. Bushnell Professor of Criminology**  
 University of Pennsylvania
 
-I am a professor in the Department of Criminology at the University of Pennsylvania, with secondary appointments in statistics and data science. My research focuses on statistical methods for criminal justice data, including police use of force, causal inference, benchmarking, and text-as-data applications for public safety.
+I am a professor in the Department of Criminology and the Department of Statistics and Data Science at the University of Pennsylvania. My research involves the development of statistical, computational, and analytical methods to improve our understanding of crime and the functioning of the justice system. 
+
+Previously, I was the Acting Director of the National Institute of Justice and a member of the Senior Executive Service, where I managed a staff of 80 employees and a budget of \$250M.
+
+Prior to NIJ, I was the Director of the RAND Safety and Justice Program and the RAND Center on Quality Policing where I worked with numerous criminal justice organizations around the world. 
+
+I am an elected Fellow of the American Statistical Association, the Academy of Experimental Criminology, and the American Society of Criminology and I have eight US patents.
+
 
 - **Curriculum Vitae:** [CV](/cv/)
-- **Google Scholar:** https://scholar.google.com/citations?user=YOURID
-- **GitHub:** https://github.com/gregridgeway
+- **Penn Criminology:** [https://crim.sas.upenn.edu/people/greg-ridgeway](https://crim.sas.upenn.edu/people/greg-ridgeway)
+- **Google Scholar:** [https://scholar.google.com/citations?user=r_PiKGMAAAAJ](https://scholar.google.com/citations?user=r_PiKGMAAAAJ)
+- **GitHub:** [https://github.com/gregridgeway](https://github.com/gregridgeway)
 
 ::: {.callout-note appearance="minimal"}
 This site replaces my former Google Sites page
