@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Greg Ridgeway"
-  site-url: https://YOUR-USERNAME.github.io
-  repo-url: https://github.com/YOUR-USERNAME/YOUR-REPO
-  repo-actions: [edit, issue]
+  site-url: https://gregridgeway.github.io
+  repo-url: https://github.com/gregridgeway/gregridgeway.github.io
+  repo-actions: [issue]
   navbar:
     left:
       - text: "Home"
@@ -15,9 +15,9 @@ website:
         href: cv.qmd
     right:
       - icon: github
-        href: https://github.com/YOUR-USERNAME
+        href: https://github.com/gregridgeway
       - icon: google
-        href: https://scholar.google.com/citations?user=YOURID
+        href: https://scholar.google.com/citations?user=r_PiKGMAAAAJ
   page-footer:
     left: |
       © Greg Ridgeway
