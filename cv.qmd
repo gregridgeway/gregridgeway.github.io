@@ -156,43 +156,73 @@ University of Pennsylvania — Philadelphia, PA
 
 ### Working papers
 
-- Ridgeway, G., & Loeffler, C. (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.  
-- Gyourko, J. R., & Ridgeway, G. “Safeguarding the Credit Records of Youth in Foster Care: What Interventions Reduce Risk of Child Identity Fraud?”
+Ridgeway, G., & Loeffler, C. (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.  
+Gyourko, J. R., & Ridgeway, G. “Safeguarding the Credit Records of Youth in Foster Care: What Interventions Reduce Risk of Child Identity Fraud?”
 
 ### Peer-reviewed articles
 
-- G. Ridgeway (to appear). “[A Conditional Ordinal Stereotype Model to Estimate Police Officers' Propensity to Escalate Force](https://doi.org/10.1080/01621459.2025.2597050),” *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  
-- F.A. Amaral, C. Loeffler, & G. Ridgeway (2024). “[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624),” *Journal of Criminal Justice*, 95:102313.  
-- J.R. Gyourko & G. Ridgeway (2024). “[Predictors of Identity Fraud Victimization of Adolescent Youth in Foster Care](https://doi.org/10.1080/15564886.2024.2314693),” *Victims & Offenders*.  
-- V. Nguyen & G. Ridgeway (2023). “[Judges on the Benchmark: Developing a Sentencing Feedback System](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738),” *Justice Quarterly*, 41(1):1–37.  
-- E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, C.C. Branas (2023). "[Effect of Abandoned Housing Interventions on Gun Violence, Perceptions of Safety, and Substance Use in Black Neighborhoods: A Citywide Cluster Randomized Trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.  
-- Z. F. Meisel, F. Shofer, A. Dolan, E. B. Goldberg, K. V. Rhodes, E. P. Hess, V. R. Bellamkonda, J. Perrone, C. C. Cannuscio, L. Becker, M. A. Rodgers, M. M. Zyla, J. J. Bell, S. McCollum, E. Engel-Rebitzer, M. J. Nguemeni Tiako, G. Ridgeway, and M. M. Schapira (2022). “[A multicentered randomized controlled trial comparing the effectiveness of pain treatment communication tools in emergency department patients with back pain or kidney stone pain](https://pubmed.ncbi.nlm.nih.gov/35143273/),” *American Journal of Public Health* 112(S1):S45-S55.  
-- G. Ridgeway, J. Rosenberger, and L. Xue (2021). “[Statisticians Engage in Gun Violence Research](https://doi.org/10.1080/2330443X.2021.1978354),” *Statistics and Public Policy* 8(1):73-79.  
-- Y. Wu and G. Ridgeway (2021). “[Effect of Public Transit on Crime: Evidence from SEPTA strikes in Philadelphia](https://rdcu.be/b0Mp3),” *Journal of Experimental Criminology* 17:267-286.  
-- G. Ridgeway, B. Cave, J. Grieco, and C.E. Loeffler (2021). “[A Conditional Likelihood Model of the Relationship Between Officer Features and Rounds Discharged in Police Shootings](https://rdcu.be/b51im),” *Journal of Quantitative Criminology* 37(1):303-326.  
-- R. Moyer and G. Ridgeway (2020). “[The Effect of Outpatient Methadone Maintenance Treatment Facilities on Place-Based Crime](http://doi.org/10.1007/s11292-018-9347-1),” *Journal of Experimental Criminology* 16(2):227–245.  
-- G. Ridgeway, R. Moyer, and S. Bushway (2020). “[Sentencing Scorecards: Reducing Racial Disparities in Prison Sentences at Their Source](https://onlinelibrary.wiley.com/share/author/BUGDV9CQXWXNY4K2YTFR?target=10.1111/1745-9133.12529),” *Criminology & Public Policy* 19(4):1113-1138.  
-- G. Ridgeway (2020). “[The Role of Individual Officer Characteristics in Police Shootings](https://doi.org/10.1177/0002716219896553),” *The ANNALS of the American Academy of Political and Social Science* 687(1):58-66. ([technical appendix](docs/Ridgeway2020AAPSSTechnicalAppendix.pdf) showing the decomposition of information)  
-- G. Ridgeway, J. Grogger, R.A. Moyer, and J.M. MacDonald (2019). “[Effect of Gang Injunctions on Crime: A Study of Los Angeles from 1988-2014](https://rdcu.be/baAEp),” *Journal of Quantitative Criminology* 35(3):517-541.  
-- C.E. Loeffler, J.M. Hyatt, and G. Ridgeway (2019). “[Measuring Self-Reported Wrongful Convictions Among Prisoners](https://rdcu.be/KRH7),” *Journal of Quantitative Criminology* 35(2):259-286.  
-- R. Moyer, J.M. MacDonald, G. Ridgeway, and C. Branas (2019). “[Effect of Remediating Blighted Vacant Land on Shootings: A Citywide Cluster Randomized Trial](http://doi.org/10.2105/AJPH.2018.304752),” *American Journal of Public Health* 109(1):140-144.  
-- G. Ridgeway, M. Nørgaard, T.B. Rasmussen, W.D. Finkle, L. Pedersen, H.E. Bøtker, and H.T. Sørensen (2019). “[Benchmarking Danish Hospitals on Mortality and Readmission Rates After Cardiovascular Admission](https://doi.org/10.2147/CLEP.S189263),” *Clinical Epidemiology* 11:67-80.  
-- Ridgeway, G. (2019). “[Experiments in Criminology](http://www.annualreviews.org/eprint/e9hbESDQURNcFEnASzYW/full/10.1146/annurev-statistics-030718-105057),” *Annual Review of Statistics and Its Applications*, 6:37–61.  
-- O. Mitchell and G. Ridgeway (2018). “[Assessing the Fairness and Effectiveness of Bicycle Stops in Tampa](https://doi.org/10.1177/1098611118781344),” *Police Quarterly* 21(4):461-485.  
-- J. Lyons, V. Desai, Y. Xu, G. Ridgeway, W. Finkle, P. Solari, S. Sullivan, S. Lanes (2018). “[Development and Validation of an Algorithm for Identifying Patients with Hemophilia A in an Administrative Claims Database](https://doi.org/10.1016/j.jval.2018.03.008),” *Value in Health* 21(9):1098-1103.  
-- S.F. Jacoby, L.M. Kollar, G. Ridgeway, S.A. Sumner (2018). “[Health System and Law Enforcement Synergies for Injury Surveillance, Control and Prevention: A Scoping Review](https://doi.org/10.1136/injuryprev-2017-042416),” *Injury Prevention* 24:305-311.  
-- V. Bacak and G. Ridgeway (2018). “[Availability of Health-Related Programs in Private and Public Prisons](http://journals.sagepub.com/doi/10.1177/1078345817728078),” *Journal of Correctional Health Care* 24(1):62-70.  
-- S.-L. Faraji, G. Ridgeway, and Y. Wu (2018). “[Effect of Emergency Winter Homeless Shelters on Property Crime](http://rdcu.be/Eto7),” *Journal of Experimental Criminology* 14(2):129-140.  
-- G. Ridgeway (2018). “[Policing in the Era of Big Data](http://www.annualreviews.org/eprint/fGjUaHWKMFbuqxpn7a7J/full/10.1146/annurev-criminol-062217-114209),” *Annual Review of Criminology*, 1:401–419.  
-- R. Umbach, A. Raine, and G. Ridgeway (2017). “[Aggression and Lost Sleep: a Daylight Saving Time Natural Experiment](http://dx.doi.org/10.1007/s11292-017-9299-x),” *Journal of Experimental Criminology* 13(4):439-453.  
-- G. Ridgeway (2017). “[Stop-and-Frisk is Essential… and Requires Restraint](http://onlinelibrary.wiley.com/doi/10.1002/pam.21990/full),” *Journal of Policy Analysis and Management* 36(3):683–689 (with discussion and rejoinder).  
-- G. Ridgeway and J.M. MacDonald (2017). “[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](https://rdcu.be/6lfH),” *Journal of Quantitative Criminology* 33(2):277-291.  
-- G. Ridgeway and B. Kilmer (2016). “[Bayesian inference for the distribution of grams of marijuana in a joint](https://crim.sas.upenn.edu/sites/crim.sas.upenn.edu/files/WP2016-01_Ridgeway_Joints_01.22.2016.pdf),” *Drug and Alcohol Dependence* 165:175–180.  
-- G. Ridgeway (2016). “[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](http://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2015.1129918),” *Statistics and Public Policy* 3(1):1-6.  
-- G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). “[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml),” *Journal of Causal Inference* 3(2):237-249.  
-- J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Placed-Based Crime Interventions](http://link.springer.com/article/10.1007%2Fs10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
-- W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
-- G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](http://cad.sagepub.com/content/60/1/145),” *Crime & Delinquency*, 60(1):145–162.  
+G. Ridgeway (to appear). “[A Conditional Ordinal Stereotype Model to Estimate Police Officers' Propensity to Escalate Force](https://doi.org/10.1080/01621459.2025.2597050),” *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  
+
+F.A. Amaral, C. Loeffler, & G. Ridgeway (2024). “[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624),” *Journal of Criminal Justice*, 95:102313.  
+
+J.R. Gyourko & G. Ridgeway (2024). “[Predictors of Identity Fraud Victimization of Adolescent Youth in Foster Care](https://doi.org/10.1080/15564886.2024.2314693),” *Victims & Offenders*.  
+
+V. Nguyen & G. Ridgeway (2023). “[Judges on the Benchmark: Developing a Sentencing Feedback System](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738),” *Justice Quarterly*, 41(1):1–37.  
+
+E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, C.C. Branas (2023). "[Effect of Abandoned Housing Interventions on Gun Violence, Perceptions of Safety, and Substance Use in Black Neighborhoods: A Citywide Cluster Randomized Trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.  
+
+Z. F. Meisel, F. Shofer, A. Dolan, E. B. Goldberg, K. V. Rhodes, E. P. Hess, V. R. Bellamkonda, J. Perrone, C. C. Cannuscio, L. Becker, M. A. Rodgers, M. M. Zyla, J. J. Bell, S. McCollum, E. Engel-Rebitzer, M. J. Nguemeni Tiako, G. Ridgeway, and M. M. Schapira (2022). “[A multicentered randomized controlled trial comparing the effectiveness of pain treatment communication tools in emergency department patients with back pain or kidney stone pain](https://pubmed.ncbi.nlm.nih.gov/35143273/),” *American Journal of Public Health* 112(S1):S45-S55.  
+
+G. Ridgeway, J. Rosenberger, and L. Xue (2021). “[Statisticians Engage in Gun Violence Research](https://doi.org/10.1080/2330443X.2021.1978354),” *Statistics and Public Policy* 8(1):73-79.  
+
+Y. Wu and G. Ridgeway (2021). “[Effect of Public Transit on Crime: Evidence from SEPTA strikes in Philadelphia](https://rdcu.be/b0Mp3),” *Journal of Experimental Criminology* 17:267-286.  
+
+G. Ridgeway, B. Cave, J. Grieco, and C.E. Loeffler (2021). “[A Conditional Likelihood Model of the Relationship Between Officer Features and Rounds Discharged in Police Shootings](https://rdcu.be/b51im),” *Journal of Quantitative Criminology* 37(1):303-326.  
+
+R. Moyer and G. Ridgeway (2020). “[The Effect of Outpatient Methadone Maintenance Treatment Facilities on Place-Based Crime](http://doi.org/10.1007/s11292-018-9347-1),” *Journal of Experimental Criminology* 16(2):227–245.  
+
+G. Ridgeway, R. Moyer, and S. Bushway (2020). “[Sentencing Scorecards: Reducing Racial Disparities in Prison Sentences at Their Source](https://onlinelibrary.wiley.com/share/author/BUGDV9CQXWXNY4K2YTFR?target=10.1111/1745-9133.12529),” *Criminology & Public Policy* 19(4):1113-1138.  
+
+G. Ridgeway (2020). “[The Role of Individual Officer Characteristics in Police Shootings](https://doi.org/10.1177/0002716219896553),” *The ANNALS of the American Academy of Political and Social Science* 687(1):58-66. ([technical appendix](docs/Ridgeway2020AAPSSTechnicalAppendix.pdf) showing the decomposition of information)  
+
+G. Ridgeway, J. Grogger, R.A. Moyer, and J.M. MacDonald (2019). “[Effect of Gang Injunctions on Crime: A Study of Los Angeles from 1988-2014](https://rdcu.be/baAEp),” *Journal of Quantitative Criminology* 35(3):517-541.  
+
+C.E. Loeffler, J.M. Hyatt, and G. Ridgeway (2019). “[Measuring Self-Reported Wrongful Convictions Among Prisoners](https://rdcu.be/KRH7),” *Journal of Quantitative Criminology* 35(2):259-286.  
+
+R. Moyer, J.M. MacDonald, G. Ridgeway, and C. Branas (2019). “[Effect of Remediating Blighted Vacant Land on Shootings: A Citywide Cluster Randomized Trial](http://doi.org/10.2105/AJPH.2018.304752),” *American Journal of Public Health* 109(1):140-144.  
+
+G. Ridgeway, M. Nørgaard, T.B. Rasmussen, W.D. Finkle, L. Pedersen, H.E. Bøtker, and H.T. Sørensen (2019). “[Benchmarking Danish Hospitals on Mortality and Readmission Rates After Cardiovascular Admission](https://doi.org/10.2147/CLEP.S189263),” *Clinical Epidemiology* 11:67-80.  
+
+Ridgeway, G. (2019). “[Experiments in Criminology](http://www.annualreviews.org/eprint/e9hbESDQURNcFEnASzYW/full/10.1146/annurev-statistics-030718-105057),” *Annual Review of Statistics and Its Applications*, 6:37–61.  
+
+O. Mitchell and G. Ridgeway (2018). “[Assessing the Fairness and Effectiveness of Bicycle Stops in Tampa](https://doi.org/10.1177/1098611118781344),” *Police Quarterly* 21(4):461-485.  
+
+J. Lyons, V. Desai, Y. Xu, G. Ridgeway, W. Finkle, P. Solari, S. Sullivan, S. Lanes (2018). “[Development and Validation of an Algorithm for Identifying Patients with Hemophilia A in an Administrative Claims Database](https://doi.org/10.1016/j.jval.2018.03.008),” *Value in Health* 21(9):1098-1103.  
+
+S.F. Jacoby, L.M. Kollar, G. Ridgeway, S.A. Sumner (2018). “[Health System and Law Enforcement Synergies for Injury Surveillance, Control and Prevention: A Scoping Review](https://doi.org/10.1136/injuryprev-2017-042416),” *Injury Prevention* 24:305-311.  
+
+V. Bacak and G. Ridgeway (2018). “[Availability of Health-Related Programs in Private and Public Prisons](http://journals.sagepub.com/doi/10.1177/1078345817728078),” *Journal of Correctional Health Care* 24(1):62-70.  
+
+S.-L. Faraji, G. Ridgeway, and Y. Wu (2018). “[Effect of Emergency Winter Homeless Shelters on Property Crime](http://rdcu.be/Eto7),” *Journal of Experimental Criminology* 14(2):129-140.  
+
+G. Ridgeway (2018). “[Policing in the Era of Big Data](http://www.annualreviews.org/eprint/fGjUaHWKMFbuqxpn7a7J/full/10.1146/annurev-criminol-062217-114209),” *Annual Review of Criminology*, 1:401–419.  
+
+R. Umbach, A. Raine, and G. Ridgeway (2017). “[Aggression and Lost Sleep: a Daylight Saving Time Natural Experiment](http://dx.doi.org/10.1007/s11292-017-9299-x),” *Journal of Experimental Criminology* 13(4):439-453.  
+
+G. Ridgeway (2017). “[Stop-and-Frisk is Essential… and Requires Restraint](http://onlinelibrary.wiley.com/doi/10.1002/pam.21990/full),” *Journal of Policy Analysis and Management* 36(3):683–689 (with discussion and rejoinder).  
+G. Ridgeway and J.M. MacDonald (2017). “[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](https://rdcu.be/6lfH),” *Journal of Quantitative Criminology* 33(2):277-291.  
+
+G. Ridgeway and B. Kilmer (2016). “[Bayesian inference for the distribution of grams of marijuana in a joint](https://crim.sas.upenn.edu/sites/default/files/WP2016-01_Ridgeway_Joints_01.22.2016%281%29.pdf),” *Drug and Alcohol Dependence* 165:175–180.  
+
+G. Ridgeway (2016). “[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](http://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2015.1129918),” *Statistics and Public Policy* 3(1):1-6.  
+
+G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). “[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml),” *Journal of Causal Inference* 3(2):237-249.  
+
+J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Placed-Based Crime Interventions](http://link.springer.com/article/10.1007%2Fs10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
+
+W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
+
+G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](http://cad.sagepub.com/content/60/1/145),” *Crime & Delinquency*, 60(1):145–162.  
 
 A.A. Braga, G.J. Wintemute, G.L. Pierce, P.J. Cook, and G. Ridgeway (2012). “[Interpreting the empirical evidence on illegal gun market dynamics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462834/pdf/11524_2012_Article_9681.pdf),” *Journal of Urban Health* 89(5):779-93.
 
@@ -254,14 +284,174 @@ G. Ridgeway (2002). “[Looking for Lumps: Boosting and bagging for density esti
 
 G. Ridgeway, D. Madigan, T. Richardson, and J. O'Kane (1998). “[Interpretable boosted naïve Bayes classification](https://www.aaai.org/Papers/KDD/1998/KDD98-015.pdf),” *Proceedings, Fourth International Conference on Knowledge Discovery and Data Mining* (R. Agrawal, P. Stolorz, G. Piatetsky-Shapiro, eds.), 101-104.
 
+### Peer-reviewed reports
+
+G. Ridgeway, O. Mitchell, S. Gunderman, C. Alexander, J. Letten (2016).
+  [*An Examination of Racial Disparities in Bicycle Stops and Citations Made by the Tampa Police Department*](https://portal.cops.usdoj.gov/resourcecenter/content.ashx/cops-w0801-pub.pdf),
+  COPS-W0801.
+
+T. Fain, S. Turner, and G. Ridgeway (2012).
+  [*Los Angeles County Juvenile Justice Crime Prevention Act: Fiscal Year 2009-2010 Report*](https://www.rand.org/pubs/technical_reports/TR988.html),
+  RAND TR-988.
+
+N.M. Pace, G. Ridgeway, J.M. Anderson, C. Fan, M. Horta (2011).
+  [*Case Weights for Federal Defender Organizations*](https://www.rand.org/pubs/technical_reports/TR1007.html),
+  RAND TR-1007-AOUSC.
+
+T. Fain, S. Turner, and G. Ridgeway (2011).
+  [*Los Angeles County Juvenile Justice Crime Prevention Act: Fiscal Year 2008-2009 Report*](https://www.rand.org/pubs/technical_reports/TR832.html),
+  RAND TR-832.
+
+G. Ridgeway, L.W. Castaneda, A.B. Cross, E. Wilke, and J. Saunders (2010).
+  “The Experience of Domestic Agencies: Police, Fire, and Federal Agencies,” in
+  [*Sexual Orientation and U.S. Military Personnel Policy*](https://www.rand.org/pubs/monographs/2010/RAND_MG1056.pdf),
+  RAND MG-1056-OSD. Volume received 2011 Policy Impact Award from the American Association for Public Opinion Research.
+
+L.W. Castaneda and G. Ridgeway (2010).
+  [*Today's Police and Sheriff Recruits: Insights from the Newest Members of America's Law Enforcement Community*](https://www.rand.org/pubs/monographs/MG992.html),
+  RAND MG-992-DOJ.
+
+T. Fain, S. Turner, and G. Ridgeway (2010).
+  [*Los Angeles County Juvenile Justice Crime Prevention Act: Fiscal Year 2007-2008 Report*](https://www.rand.org/pubs/technical_reports/TR746.html),
+  RAND TR-746.
+
+G. Ridgeway (2009).
+  [*Cincinnati Police Department's Traffic Stops: Applying RAND’s Framework to Analyze Racial Disparities*](https://www.rand.org/pubs/monographs/MG914.html),
+  RAND MG-914-CC.
+
+N. Lim, C. Matthies, G. Ridgeway, B. Gifford (2009).
+  [*To Protect and to Serve: Enhancing the Efficiency of LAPD Recruiting*](https://www.rand.org/pubs/monographs/MG881.html),
+  RAND MG-881-RMPF. (Nominated by LAPD and received honorable mention from IACP's Excellence in Law Enforcement Research Award.)
+
+G.F. Treverton, C. Matthies, K.J. Cunningham, J. Goulka, G. Ridgeway, A. Wong (2009).
+  [*Film Piracy, Organized Crime, and Terrorism*](https://www.rand.org/pubs/monographs/MG742.html),
+  RAND MG-742-MPA.
+
+G. Ridgeway, T.L. Schell, B. Gifford, J. Saunders, S. Turner, K.J. Riley, T.L. Dixon (2009).
+  [*Police-Community Relations in Cincinnati*](https://www.rand.org/pubs/monographs/MG853.html),
+  RAND MG-853-CC.
+
+G. Ridgeway, N. Lim, B. Gifford, C. Koper, C. Matthies, S. Hajiamiri, A. Huynh (2008).
+  [*Strategies for Improving Officer Recruitment in the San Diego Police Department*](https://www.rand.org/pubs/monographs/MG724.html),
+  RAND MG-724-SDPD.
+
+B.D. Rostker, L.M. Hanser, W.M. Hix, C. Jensen, A.R. Morral, G. Ridgeway, T.L. Schell (2008).
+  [*Evaluation of the New York City Police Department Firearm Training and Firearm-Discharge Review Process*](https://www.rand.org/pubs/monographs/MG717.html),
+  RAND MG-717-NYPD.
+
+G. Ridgeway, G.L. Pierce, A.A. Braga, G. Tita, G. Wintemute, W. Roberts (2008).
+  [*Strategies for Disrupting Illegal Firearm Markets: A Case Study of Los Angeles*](https://www.rand.org/pubs/technical_reports/TR512.html),
+  RAND TR-512-NIJ.
+
+G. Ridgeway (2007).
+  [*Analysis of Racial Disparities in the New York Police Department's Stop, Question, and Frisk Practices*](https://www.rand.org/pubs/technical_reports/TR534.html),
+  RAND TR-534-NYCPF.
+
+T.L. Schell, G. Ridgeway, T.L. Dixon, S. Turner, K.J. Riley (2007).
+  [*Police-Community Relations in Cincinnati: Year Three Evaluation Report*](https://www.rand.org/pubs/technical_reports/TR535.html),
+  RAND TR-535-CC.
+
+G. Ridgeway, T. Schell, K.J. Riley, S. Turner, T.L. Dixon (2006).
+  [*Police-Community Relations in Cincinnati: Year Two Evaluation Report*](https://www.rand.org/pubs/technical_reports/TR445.html),
+  RAND TR-445-CC.
+
+A.R. Morral, D.F. McCaffrey, G. Ridgeway, A. Mukherji, C. Beighley (2006).
+  [*The Relative Effectiveness of 10 Adolescent Substance Abuse Treatment Programs in the United States*](https://www.rand.org/pubs/technical_reports/TR346.html),
+  TR-346.
+
+K. Jack Riley, S. Turner, J. MacDonald, G. Ridgeway, T. Schell, J. Wilson, T.L. Dixon, T. Fain, D. Barnes-Proby, and B. Fulton (2005).
+  [*Police-Community Relations in Cincinnati*](https://www.rand.org/pubs/technical_reports/TR333.html),
+  RAND TR-333.
+
+K.J. Riley, N. Rodriguez, G. Ridgeway, D. Barnes-Proby, N. Griffith Forge, V. Webb (2005).
+  [*Just Cause or Just Because? Prosecution and Plea-Bargaining Resulting in Prison Sentences on Low-Level Drug Charges in California and Arizona*](https://www.rand.org/pubs/monographs/2005/RAND_MG288.pdf),
+  RAND MG-288-RWJ.
+
+D.A. Relles, G. Ridgeway, G.M. Carter, M. Beeuwkes Buntin (2005).
+  [*Possible Refinements to the Construction of Function-Related Groups for the Inpatient Rehabilitation Facility Prospective Payment System*](https://www.rand.org/pubs/technical_reports/2005/RAND_TR207.pdf),
+  TR-207-CMS.
+
+L.M. Davis, K.J. Riley, G. Ridgeway, J.E. Pace, S. Cotton-Nelson, P. Steinberg, K. Damphousse, and B.L. Smith (2004).
+  [*When Terrorism Hits Home: How Prepared Are State and Local Law Enforcement?*](https://www.rand.org/pubs/monographs/2004/RAND_MG104.pdf),
+  RAND MG-104-MIPT. [Download research brief (pdf)](https://www.rand.org/pubs/research_briefs/RB9093.html)
+
+G. Ridgeway, K.J. Riley, J. Grogger (2004).
+  *Analysis of Oakland's stop and search data*,
+  Chapter 9 in [*Promoting Cooperative Strategies to Reduce Racial Profiling*](docs/TechnicalGuidev8.pdf), Oakland Police Department.
+
+G. Tita, K.J. Riley, G. Ridgeway, C. Grammich, A.F. Abrahamse, and P. Greenwood (2003).
+  [*Reducing Gun Violence in East Los Angeles: Results from an Intervention*](https://www.rand.org/pubs/monograph_reports/MR1764-1.html),
+  RAND MR-1764-NIJ. (Listed in the 2004 guide of University Press Books Selected for Public and Secondary School Libraries.)
+
+L.J. Hickman, T. Fain, S. Turner, G.K. Ridgeway, B. Raymond, and J.R. Lockwood (2003).
+  [*Evaluation of the Impact of Seattle's DWLS Impound Law*](https://www.rand.org/pubs/working_papers/WR117.html),
+  WR-117-SEA.
+
+G.M. Carter, M. Beeuwkes Buntin, O. Hayden, S.M. Paddock, D.A. Relles, G.K. Ridgeway, M.E. Totten, B.O. Wynn (2002). [*Analyses for the Initial Implementation of the Inpatient Rehabilitation Facility Prospective Payment System*](http://www.rand.org/publications/MR/MR1500/). MR-1500.
+
+### Book chapters
+
+## Book chapters
+
+- **G. Ridgeway and J.M. MacDonald (2010).**  
+  [*Methods for Assessing Racially Biased Policing*](http://www.rand.org/pubs/reprints/RP1427.html) in [*Race, Ethnicity and Policing: New and Essential Readings*](https://nyupress.org/9780814759650/race-ethnicity-and-policing) (S.K. Rice & M.D. White, eds.), New York University Press.
+
+- **G. Ridgeway (2003).**  
+  [*Strategies and Methods for Prediction*](docs/DMHandbookPrediction.pdf) in [*The Handbook of Data Mining*](https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
+
+- **D. Madigan and G. Ridgeway (2003).**  
+  [*Bayesian Learning and Inference*](docs/bayes.pdf) in *The Handbook of Data Mining*(https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
+
+- **A. Morral, M. Reti, D. McCaffrey, G. Ridgeway (2001).**  
+  *Phoenix Academy treatment outcomes: Preliminary findings from the adolescent outcomes study.* NIDA Research Monograph 182:111–112.
+
+- **D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2001).**  
+  [*Instance Construction via Likelihood-Based Data Squashing*](docs/lds.pdf) in [*Instance Selection and Construction for Data Mining*](https://link.springer.com/chapter/10.1007/978-1-4615-0928-2_14) (H. Liu & H. Motoda, eds.), Kluwer Academic Publishers.
+
+### Commentaries and letters
+
+- G. Ridgeway (2020). “[Transparency, Statistics, and Justice System Knowledge Is Essential for Science of Risk Assessment](https://hdsr.mitpress.mit.edu/pub/vu6rc1yv/release/7),” *Harvard Data Science Review* 2(1).
+
+- G. Ridgeway (2013). “[Linking Prediction and Prevention](https://doi.org/10.1111/1745-9133.12057),” Policy Essay, *Criminology & Public Policy* 12(3):545–550.
+
+- G. Ridgeway and P. Heaton (2011). “[Save Money - Hire Police](https://www.rand.org/pubs/commentary/2011/11/save-money--hire-police.html),” Commentary, *Los Angeles Times*, November 22, 2011.
+
+- G. Ridgeway and N. Lim (2009). “[The Decline of Racial Profiling](https://www.rand.org/pubs/commentary/2009/07/the-decline-of-racial-profiling.html),” Commentary on cnn.com, July 30, 2009.
+
+- G. Ridgeway (2009). “[Summary of the RAND Report on NYPD’s Stop, Question, and Frisk](https://www.rand.org/pubs/testimonies/CT329.html),” Testimony presented before the New York City Council Committee on Public Safety and Committee on Civil Rights on April 30, 2009, CT-329.
+
+- G. Ridgeway (2008). "[Study Focuses on NYPD Racial Profiling](https://www.npr.org/2008/05/08/90280100/study-focuses-on-nypd-racial-profiling)." NPR News & Notes, 8 May 2008.
+
+- K.J. Riley and G. Ridgeway (2007). “[Police Need to Do a Better Job of Explaining Stop-and-Frisk](https://www.rand.org/pubs/commentary/2007/12/police-need-to-do-a-better-job-of-explaining-stop-and.html),” Commentary, *New York Daily News*, December 6, 2007.
+
+- G. Ridgeway (2007). “[Laws Are No Substitute to Vigilance](docs/SJ_Cmmt_LawsNoSubstituteVigilance.pdf),” Special to washingtonpost.com's Think Tank Town, April 18, 2007.
+
+- K.J. Riley and G. Ridgeway (2005). “[Racial Profiling Won't Stop Terror](https://www.rand.org/pubs/commentary/2006/10/racial-profiling-wont-stop-terror.html),” Special to washingtonpost.com's Think Tank Town, October 11, 2006.
+
+- G. Ridgeway (2005). “[Racial Profiling: Still a Worry](docs/WAPost050906.pdf),” Letter to the Editor, *Washington Post*, September 6, 2005, Page A24.
+
+- G. Ridgeway (2004). “[Commentary: Racial Profiling, Not Always Black and White](https://www.rand.org/content/dam/rand/pubs/corporate_pubs/2007/RAND_CP22-2004-08.pdf),” *RAND Review* 28(2):46.
+
+- K.J. Riley and G. Ridgeway (2004). “[Measuring racial profiling by police](https://www.rand.org/pubs/commentary/2004/07/measuring-racial-profiling-by-police.html),” *Law Enforcement News.*
+
+- G. Ridgeway and K.J. Riley (2004). “[Police-search statistics don't lie, but statisticians can](docs/CQP_Cmmt_PoliceSearchStatsDntLie.pdf),” Op-ed, *Dallas Morning News*, February 22, 2004.
+
+
 ## Software development
 
+- **Conditional ordinal stereotype model for police use-of-force**  
+  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (C++/R)
+
 - **fastDR — Fast Doubly Robust Estimation**  
-  Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs.  
+  Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs  
   Development: https://github.com/gregridgeway/fastDR
 
+- **gbm3 — Generalized Boosted Regression Models**  
+  Latest version of gradient boosting and related models (C++ engine, R frontend)  
+  Development: https://github.com/gbm-developers/gbm
+
 - **gbm — Generalized Boosted Regression Models**  
-  Gradient boosting and related models (C++ engine, R frontend).  
+  Original version of gradient boosted models (C++ engine, R frontend)  
   Development: https://github.com/gbm-developers/gbm
 
 ## Presentations
