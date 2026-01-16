@@ -156,7 +156,8 @@ University of Pennsylvania — Philadelphia, PA
 
 ### Working papers
 
-Ridgeway, G., & Loeffler, C. (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.  
+Ridgeway, G., & Loeffler, C. (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.
+
 Gyourko, J. R., & Ridgeway, G. “Safeguarding the Credit Records of Youth in Foster Care: What Interventions Reduce Risk of Child Identity Fraud?”
 
 ### Peer-reviewed articles
@@ -209,7 +210,8 @@ G. Ridgeway (2018). “[Policing in the Era of Big Data](http://www.annualreview
 
 R. Umbach, A. Raine, and G. Ridgeway (2017). “[Aggression and Lost Sleep: a Daylight Saving Time Natural Experiment](http://dx.doi.org/10.1007/s11292-017-9299-x),” *Journal of Experimental Criminology* 13(4):439-453.  
 
-G. Ridgeway (2017). “[Stop-and-Frisk is Essential... and Requires Restraint](http://onlinelibrary.wiley.com/doi/10.1002/pam.21990/full),” *Journal of Policy Analysis and Management* 36(3):683–689 (with discussion and rejoinder).  
+G. Ridgeway (2017). “[Stop-and-Frisk is Essential... and Requires Restraint](http://onlinelibrary.wiley.com/doi/10.1002/pam.21990/full),” *Journal of Policy Analysis and Management* 36(3):683–689 (with discussion and rejoinder).
+
 G. Ridgeway and J.M. MacDonald (2017). “[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](https://rdcu.be/6lfH),” *Journal of Quantitative Criminology* 33(2):277-291.  
 
 G. Ridgeway and B. Kilmer (2016). “[Bayesian inference for the distribution of grams of marijuana in a joint](https://crim.sas.upenn.edu/sites/default/files/WP2016-01_Ridgeway_Joints_01.22.2016%281%29.pdf),” *Drug and Alcohol Dependence* 165:175–180.  
@@ -222,7 +224,7 @@ J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Sy
 
 W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
 
-G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](http://cad.sagepub.com/content/60/1/145),” *Crime & Delinquency*, 60(1):145–162.  
+G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](http://cad.sagepub.com/content/60/1/145),” *Crime & Delinquency* 60(1):145–162.  
 
 A.A. Braga, G.J. Wintemute, G.L. Pierce, P.J. Cook, and G. Ridgeway (2012). “[Interpreting the empirical evidence on illegal gun market dynamics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462834/pdf/11524_2012_Article_9681.pdf),” *Journal of Urban Health* 89(5):779-93.
 
@@ -480,27 +482,204 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics �
 ## Software development
 
 - **Conditional ordinal stereotype model for police use-of-force**  
-  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (C++/R)
+  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (C++/R)  
+  Development: [https://github.com/gregridgeway/COS-police-use-of-force](https://github.com/gregridgeway/COS-police-use-of-force)
 
 - **fastDR — Fast Doubly Robust Estimation**  
   Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs  
-  Development: https://github.com/gregridgeway/fastDR
+  Development: [https://github.com/gregridgeway/fastDR](https://github.com/gregridgeway/fastDR)
 
 - **gbm3 — Generalized Boosted Regression Models**  
   Latest version of gradient boosting and related models (C++ engine, R frontend)  
-  Development: https://github.com/gbm-developers/gbm
+  Development: [https://github.com/gbm-developers/gbm3](https://github.com/gbm-developers/gbm3)
 
 - **gbm — Generalized Boosted Regression Models**  
   Original version of gradient boosted models (C++ engine, R frontend)  
-  Development: https://github.com/gbm-developers/gbm
+  Development: [https://github.com/gbm-developers/gbm](https://github.com/gbm-developers/gbm)
 
 ## Presentations
 
-*(This section is long on the original page; paste in additional items as needed. A few examples follow.)*
+### 2025
 
-- 2020 — “Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops,” Keynote, Health Policy Statistics Section, Joint Statistical Meetings (virtual).
-- 2019 — “Officer Features and Shooting Risk,” Inaugural Ingram Olkin S3 Forum, American Statistical Association, Alexandria, VA.
-- 2018 — “Criminological Data Science,” Fields Institute, University of Toronto, Toronto, Canada.
+- “[Fairness Regularized Risk Assessment Models: Balancing Risk Prediction and Racial and Ethnic Equality](docs/ASC_25_Pres_pattern_fairness.pdf),” November, Washington DC, American Society of Criminology. (with Rhys Hester and Ryan Labrecque).
+
+- “[Landscape of Criminal Justice Data Sources](docs/crim_data_sources-v2.pdf),” March, American Statistical Association, [Committee on Law and Justice Statistics](https://community.amstat.org/lawandjusticestatistics/webinarseries) public webinar. [video](https://us06web.zoom.us/rec/share/5e0AhacrnfraNIO44sCO-fGnyYBFTS8NQwK5WauY1K4YJeqACb_Vp0mA3mlvRpYs._FKXiUmuImacVNhU?iet=sy2DjRuvnzKMHpJ0IonBSKrwDTvNCyt3WclhjOefUKU.AG.sDCQKu9PgUmjTxf5rgDBcXGyvxw-R68crA9OGV5q7flcGQUr7TktzQhF0ynO7ooXJQK-EGJY0pTduqNyWSyKidgut2J-vZJRgQXztkZV3cro5mRf6yC6KedzxD7LYiA.-vVFnwxeL41qXpcj6bjvYA.Fwv1k69farPtu0Mm) (password: M7P=o$Df)
+
+### 2024
+
+- “[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides_UTM_biostat.pdf)” September, University of Tennessee - Memphis, Biostatistics seminar series.
+
+### 2023
+
+- “[Conditional Likelihood for Use-of-Force](Conditional_likelihood_and_use_of_force__NISS_UoF__slides.pdf),” November, [Ingram Olkin Forum: Statistical Challenges in the Analysis of Police Use of Force](https://www.niss.org/events/findings-ingram-olkin-forum-statistical-analysis-police-use-force), Carleton College, Northfield, MN.  
+- “[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_Census.pdf),” July, Center for Statistical Research and Methodology, United States Bureau of the Census.  
+- “[Conditional likelihood and use-of-force](docs/Conditional_likelihood_and_use_of_force__UML.pdf),” March, University of Massachusetts, Lowell.  
+- “[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_PASEF.pdf),” February, [Penn Association of Senior and Emeritus Faculty (PASEF)](https://provost.upenn.edu/pasef).  
+
+### 2021
+
+- “[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-ENAR.pdf),” March, ENAR, virtual.  
+- “[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_scorecards_CSG.pdf),” March, Council of State Governments.  
+- “[Exploring a RAND Approach to Measuring Racial Disparity: A Case Example and Dialogue](docs/Racial_disparity_RAND_1_28_2021.pdf),” January, Center to Advance Racial Equity Policy, RAND Corporation.
+
+### 2020
+
+- “[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-APPAM.pdf),” November, [APPAM Fall Research Conference](https://www.appam.org/2020appam/), virtual.  
+- “[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](docs/JSM_health_policy_lunch_keynote_benchmarking-v2.pdf),” [Keynote, Health Policy Statistics Section](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=314083), August, Joint Statistical Meetings, virtual.  
+- “[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-JSM.pdf),” August, Joint Statistical Meetings, virtual.
+
+### 2019
+
+- “[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-NISS-v2.pdf),” June, [Inaugural Ingram Olkin S3 Forum: Gun Violence - The Statistical Issues](https://www.niss.org/events/inaugural-ingram-olkin-s3-forum-gun-violence-statistical-issues), American Statistical Association, Alexandria, VA.   [video](https://www.youtube.com/watch?v=0t1CMCRI7QM)
+- “[Statistics of Police Shootings and Racial Profiling](docs/Statistics_of_Police_Shootings_and_Racial_Profiling_NYU.pdf),” April, [Center for Practice and Research at the Intersection of Information, Society, and Methodology](https://steinhardt.nyu.edu/priism), New York University, New York, NY.  
+- “[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings_Iowa_State.pdf),” March, Department of Statistics, Iowa State University, Ames, IA.  
+- “[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings-Colgate.pdf),” February, Natural Sciences Colloquium, Colgate University, Hamilton, NY.  
+- “[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-AAPSS.pdf),” February, AAPSS Workshop on Police Shootings, University of Pennsylvania, Philadelphia, PA.
+
+### 2018
+
+- “[Criminological Data Science](docs/fields_institute_ridgeway.pdf),” September, Fields Institute, University of Toronto, Toronto, Canada.
+
+### 2017
+
+- “[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings_SDAL.pdf),” November, [Social and Decision Analytics Lab](https://analytics.cs.vt.edu/), Virginia Tech, Arlington, VA.
+- “Criminal Justice Predictions,” September, National Academy of Sciences, Workshop on Predictive Analytics for Human Services and Education, Washington, DC.
+- “Computation and Criminology,” September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
+- “Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study,” February, American Association for the Advancement of Science (AAAS), Boston, MA.
+- “Propensity score analysis with survey weighted data,” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
+- “[Statistical Applications in Crime and Justice](docs/ASW.pdf),” March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA.
+
+### 2016
+
+- “Racial Profiling, Bad Cops, and Police Shootings,” March, Department of Statistics Colloquium, University of Pennsylvania, Philadelphia, PA.
+- “Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014,” January, Population Studies Center Colloquium, Philadelphia, PA.
+
+### 2015
+
+- “Criminal justice system benchmarking: An approach for studying sentencing disparities in New York State,” October, New York Sentencing Commission, New York, NY.
+- “Transit systems and their effect on crime in communities: Three decades of crime and transit in Los Angeles,” November, Association for Public Policy Analysis and Management, Miami, FL.
+- “Benchmarking Justice Performance,” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- “Discussion of Plea Bargaining in Wisconsin,” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- “Advancing forensic science at the National Institute of Justice,” April, Committee on Strengthening Forensic Science at the National Institute of Justice, National Academy of Sciences, Washington, DC.
+
+### 2014
+
+- “Estimating officer risk factors for police shootings,” December, Department of Criminology, University of Pennsylvania, Philadelphia.
+
+### 2012
+
+- “Methods for racial profiling analysis,” March, Claremont Colleges, Claremont.
+
+### 2011
+
+- “[Analysis in Support of Public Safety](docs/Ridgeway Buenos Aires workshop-v2.pdf),” September, Contemporary Challenges for Strategic Planning of Public Safety, Ministerio de Seguridad, Buenos Aires, Argentina.
+- “[Racial Profiling Analysis in a Post-Beer Summit World](https://www.youtube.com/watch?v=Oot0BOaQTZI),” March, Google Tech Talks, Santa Monica. ([video](https://www.youtube.com/watch?v=Oot0BOaQTZI))
+
+### 2010
+
+- “What research can do for policing,” September, International Association of Law Enforcement Planners, Scottsdale.
+- “Police Performance and the Analysis of Racial Profiling,” September, International Association of Law Enforcement Planners, Scottsdale.
+- “What research can do for policing,” April, Southern California Chiefs of Police Association, Palm Springs.
+
+### 2009
+
+- “[Methods for racial profiling analysis](docs/racialprofiling2009.pdf),” October, University of Pennsylvania, Philadelphia, Department of Criminology.
+- “[Operación cese al fuego, Los Ángeles](docs/ridgeway-cedan.pdf),” Crimen organizado, pandillas y tráfico de armas, triángulo de inseguridad, September, CEDAN - Centro de Diálogo y Análisis Sobre América del Norte, Tecnológico de Monterrey, Campus Ciudad de México.
+
+### 2008
+
+- “[Methods for racial profiling analysis](docs/racialprofiling2008.pdf),” October, University of California, Santa Barbara, Department of Probability and Statistics.
+- “[A Discussion of Disease Prediction and Model Validation](docs/discussJSM2008.pdf),” Discussion for an invited session at the Joint Statistical Meetings, August, Denver.
+- “[Racial Disparities in the New York Police Department's Stop, Question, Frisk Practices](docs/SQF report briefing-v1.pdf),” February, The 2nd Fyfe Police Accountability Conference: Stop and Frisk Policy, Practice and Research, [John Jay College](https://www.jjay.cuny.edu/), New York.
+
+### 2007
+
+- “The criminal purchase of firearm ammunition,” March, Association for Criminal Justice Research, Sacramento.
+- “[Methods for racial profiling analysis](docs/racialprofiling2007.pdf),” February, University of Cincinnati.
+- “Improving Community-Police Relations: Year 2 Results,” January, Testimony to the Public Safety Subcommittee of the Cincinnati City Council.
+
+### 2006
+
+- “[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](https://www.i-pensieri.com/ridgeway/psinternalbenchmarking.pdf),” November, American Society of Criminology, Los Angeles.
+- “[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](https://www.i-pensieri.com/ridgeway/psinternalbenchmarking.pdf),” September, Junior Empirical Legal Scholars Conference, Cornell Law School.
+- “[Racial profiling](https://sites.google.com/site/gregridgeway/cv),” February, [UCLA Biostatistics](https://www.biostat.ucla.edu/) Seminar Series.
+
+### 2005
+
+- “[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](docs/poststopASC2005.pdf),” November, [American Society of Criminology](https://www.asc41.com/), Toronto, Canada.
+- “[Ammunition Purchases in the City of Los Angeles](docs/LA ammo.pdf),” November, [American Society of Criminology](https://www.asc41.com/), Toronto, Canada.
+- “[Model Selection for Estimating Propensity Scores](docs/ModelSelectionPS.pdf),” June, WNAR Conference, Fairbanks, AK.
+- “[Analysis of Post-Stop Outcomes: Citations, Search, and Stop Duration](docs/poststop-analysis-slides.pdf),” April, [Fourth National Symposium on Racial Profiling](https://server.traffic.northwestern.edu/projects/racial_profiling/), Rosemont, IL.
+- “Strategies for the analysis of observational data,” January, UCLA Division of Geriatrics, Los Angeles, CA.
+
+### 2004
+
+- “[Just Cause or Just Because? Prosecution and Plea Bargaining among Low-Level Drug Offenders in California](https://www.i-pensieri.com/ridgeway/justcause.pdf),” November, American Society of Criminology, Nashville, TN.
+- “Not Always Black and White: More Credible Approaches for Detecting Racial Profiling,” November, RAND Board of Trustees Meeting, Santa Monica, CA.
+- “Racial Profiling: Not Always Black and White,” October, Statistics and Computer Science Seminar Series, University of California, Irvine, CA.
+- “[Racial Profiling: Not Always Black and White](docs/onerand-5.pdf),” September, One RAND Colloquium, Washington, DC.
+- “Racial Profiling: Not Always Black and White,” September, Biostatistics Seminar Series, Johns-Hopkins University, Baltimore, MD.
+- “[Racial Profiling: Not Always Black and White](docs/RidgewayRacialProfilingICJ.pdf),” September, RAND Civil Justice Board of Overseers Meeting, Washington, DC.
+- “[Post-processing boosted regression models: model and variable selection](docs/oobvarselect.pdf),” Invited session at the [Joint Statistical Meetings](https://www.amstat.org/), August, Toronto, Canada. 
+- “Enhancing Evidence: Causal Modeling Using Observational Treatment Data,” with Dan McCaffrey and Andrew Morral. Research Methodology Workshop at [Complexities of Co-Occurring Conditions](https://www.cccconference.com/), June, Washington, DC.
+- “Racial Profiling: Not Always Black and White,” June, Congressional briefing, Washington, DC.
+- “[Estimating the causal effect of time in treatment using propensity scores](docs/Ridgeway CPDD poster.pdf),” with Dan McCaffrey and Andrew Morral. Poster presentation at the 2004 meeting of the [College on Problems of Drug Dependence](https://www.cpdd.vcu.edu/), June, San Juan, Puerto Rico. 
+- “[Racial Profiling: Not Always Black and White](docs/onerand-5.pdf),” May, One RAND Colloquium, Santa Monica, CA.
+- “Statistics, Machine Learning, and Public Policy Analysis - Propensity score analysis of observational data,” April, [Stern Business School](https://www.stern.nyu.edu/), New York University, New York. [Download slides pdf](https://www.i-pensieri.com/ridgeway/stern2004.pdf)
+- “[Retooling propensity score techniques with machine learning for evaluating solutions to the Los Angeles drug abuse epidemic](docs/DIMACS2.pdf),” March, [DIMACS Working Group on Data Mining and Epidemiology](https://dimacs.rutgers.edu/), Rutgers University, Piscataway, NJ. [Download slides](https://www.i-pensieri.com/ridgeway/dimacs2004.pdf)
+
+### 2003
+
+- “[A Bayesian assessment of the impact of a gun violence reduction initiative in Hollenbeck](docs/HollenbeckGunViolencePoster.pdf),” September, [The 7th Case Studies in Bayesian Statistics Workshop](https://lib.stat.cmu.edu/), Carnegie Mellon University, Pittsburgh, PA. Poster.
+- “Propensity scores and causal analysis of observational data,” May, [Division of General Internal Medicine & Health Services Research Seminar Series](https://gim.med.ucla.edu/), UCLA, Los Angeles, CA.
+
+### 2002
+
+- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” November, [Department of Statistics](https://www.stat.ucla.edu/), UCLA, Los Angeles, CA.  
+- “Generalized boosted modeling with application to propensity scores,” October, [Department of Statistics and Actuarial Science](https://www.cas.ucf.edu/), University of Central Florida, Orlando, FL.   
+- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” October, [Department of Statistics](https://stat.fsu.edu/), Florida State University, Tallahassee, FL.  
+- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” July, The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ([KDD2002](https://www.acm.org/)), Edmonton, Canada.  
+- “[Statistical Techniques for the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/Ridgeway-AHSR.pdf),” June, [Academy for Health Services Research and Health Policy Annual Research Meeting](https://www.academyhealth.org/), Washington, DC. Invited paper for the session on Medicare Reimbursement for Post Acute & Long Term Care: Research Informing Policy.
+- “Data Mining for the Development of Public Policy,” April, 34th Symposium on the Interface of Computing and Statistics ([Interface 2002](https://www.galaxy.gmu.edu/)), Montreal, Canada. Invited paper for the KDD Featured Session on Data Mining.
+- “Predicting Dropouts: Boosting Algorithms and the Identification of Academically At-Risk Youth,” (with [Paul LePore](https://www.soc.washington.edu/)) February, University of Washington, Center for Statistics and the Social Sciences ([CSSS](https://www.csss.washington.edu/)), Seattle, Washington. CSSS Seminar Series.
+
+### 2001
+
+- “[Data mining and the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/ICHPR.pdf),” December, [2001 International Conference on Health Policy Research](https://dcc2.bumc.bu.edu/), Boston. Invited paper for the session on Data Mining for Health Services Research.
+- “Strategies for Boosting and Prediction,” October, [Department of Statistics](https://cnas.ucr.edu), California Polytechnic State University, San Luis Obispo. 
+- “Strategies for Boosting and Prediction,” May, [Department of Statistics](https://cnas.ucr.edu), University of California Riverside.  
+- “Hypothesis Screening for Serologic Characteristics Associated with Prednisone Using SurroMed Technology,” April, [SurroMed](https://www.surromed.com), Mountain View, CA.
+
+### 2000
+
+- “Strategies for Boosting and Prediction,” December, Information and Computer Sciences, University of California Irvine.  
+- “Strategies for Boosting and Prediction,” Statistics and Applied Probability Seminar, November, University of California Santa Barbara.  
+- “[Prediction in the Era of Massive Datasets](docs/SMDM-Pavia.pdf),” Workshop on Statistics and Data Mining (SDM2000), October, Pavia, Italy. Invited tutorial presentation.
+- “[Looking for Lumps: Boosting and Bagging for density estimation](docs/DensitySlides2.pdf),” International Meeting on Nonlinear Methods and Data Mining ([NMDM 2000](https://www.econ.uniurb.it/)), Rome, Italy, September. Invited presentation. [Download pdf](https://www.i-pensieri.com/ridgeway/nmdm2000.pdf)
+- “Data mining,” RAND short course series, Santa Monica, CA, September.
+- “[Modern prediction methods using Bagging and Boosting](docs/csss.pdf),” [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/), February, Seattle, Washington. CSSS Seminar Series.
+
+### 1999
+
+- “Combining Estimators to Improve Performance: Bundling, Bagging, Boosting, and Bayesian Model Averaging,” (with [John Elder](https://www.datamininglab.com)) Fifth International Conference on Knowledge Discovery and Data Mining ([KDD-99](https://www.digimine.com)), August, San Diego, California. Tutorial presentation. [Download pdf](https://www.i-pensieri.com/ridgeway/kdd99tutorial.pdf)
+- “[The state of boosting](docs/Interface99slides.pdf),” 31st Symposium on the Interface: Models, Predictions, and Computing ([Interface 1999](https://www.math.niu.edu)), June, Schaumburg, Illinois. Invited talk for the session on Data Mining.
+- “[A Method for Bayesian Inference in Massive Datasets](docs/MassiveBayesBoeing.pdf),” [Boeing](https://www.boeing.com), March, Bellevue, Washington. Invited seminar presentation.
+- “[Boosting Methodology for Regression Problems](docs/Uncertainty99.pdf),” Seventh International Workshop on Artificial Intelligence and Statistics ([Uncertainty 1999](https://www.microsoft.com/en-us/research/event/uncertainty-99/)), January, Fort Lauderdale, Florida.
+
+### 1998
+
+- “[Interpretable Boosted Naïve Bayes Classification](docs/KDD98.pdf),” Fourth International Conference on Knowledge Discovery and Data Mining ([KDD-98](https://aaai.org/conference/kdd/kdd98/)), August, New York, New York. Plenary presentation on classification research.  
+- “[Boosting and the naïve Bayes classifier](docs/BNB-talk for MS.pdf),” [Microsoft Research](https://www.microsoft.com), July, Redmond, Washington.  
+- “[Application of finite discrete Markov process clustering for understanding Web usage](docs/SRC98.pdf),” Spring Research Conference on Statistics in Industry and Technology ([SRC98](https://community.amstat.org/spes/events/spring-research-conference)), Section on Physical and Engineering Sciences, June, Santa Fe, New Mexico.
+
+### 1997
+
+- Mathematical Techniques to Mine Massive Data Sets ([M3D](https://www.lac.uic.edu/)), August, Chicago, Illinois. Invited participant.
+
+### 1996
+
+- Second International Conference on Knowledge Discovery and Data Mining ([KDD-96](https://aaai.org/)), August, Portland, Oregon. Conference participant.
+
 
 ## Professional activities
 
