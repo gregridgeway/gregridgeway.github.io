@@ -538,37 +538,39 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics �
 
 ### 2018
 
+
+- “[What to Do About Georaphic Interventions](docs/fields_institute_ridgeway.pdf),” September, Fields Institute, University of Toronto, Toronto, Canada.
 - “[Criminological Data Science](docs/fields_institute_ridgeway.pdf),” September, Fields Institute, University of Toronto, Toronto, Canada.
 
 ### 2017
 
 - “[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings_SDAL.pdf),” November, [Social and Decision Analytics Lab](https://analytics.cs.vt.edu/), Virginia Tech, Arlington, VA.
 - “Criminal Justice Predictions,” September, National Academy of Sciences, Workshop on Predictive Analytics for Human Services and Education, Washington, DC.
-- “Computation and Criminology,” September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
-- “Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study,” February, American Association for the Advancement of Science (AAAS), Boston, MA.
-- “Propensity score analysis with survey weighted data,” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
+- “[Computation and Criminology](docs/ccubed ridgeway-v3.pdf),” September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
+- “[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](docs/Ridgeway NYPD shootings - AAAS.pdf),” February, American Association for the Advancement of Science (AAAS), Boston, MA.
+- “[Propensity score analysis with survey weighted data](docsprop scores with survey weighted data-v2.pdf),” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
 - “[Statistical Applications in Crime and Justice](docs/ASW.pdf),” March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA.
 
 ### 2016
 
 - “Racial Profiling, Bad Cops, and Police Shootings,” March, Department of Statistics Colloquium, University of Pennsylvania, Philadelphia, PA.
-- “Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014,” January, Population Studies Center Colloquium, Philadelphia, PA.
+- “[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](docs/transit and crime PSC.pdf),” January, Population Studies Center Colloquium, Philadelphia, PA.
 
 ### 2015
 
-- “Criminal justice system benchmarking: An approach for studying sentencing disparities in New York State,” October, New York Sentencing Commission, New York, NY.
-- “Transit systems and their effect on crime in communities: Three decades of crime and transit in Los Angeles,” November, Association for Public Policy Analysis and Management, Miami, FL.
-- “Benchmarking Justice Performance,” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
-- “Discussion of Plea Bargaining in Wisconsin,” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
-- “Advancing forensic science at the National Institute of Justice,” April, Committee on Strengthening Forensic Science at the National Institute of Justice, National Academy of Sciences, Washington, DC.
+- “[Criminal justice system benchmarking: An approach for studying sentencing disparities in New York State](docs/benchmarking overview NY Sentencing Commission.pdf),” October, New York Sentencing Commission, New York, NY.
+- “[Transit systems and their effect on crime in communities: Three decades of crime and transit in Los Angeles](docs/transit and crime APPAM.pdf),” November, Association for Public Policy Analysis and Management, Miami, FL.
+- “[Benchmarking Justice Performance](docs/benchmarking performance poster v2.pdf),” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- “[Discussion of Plea Bargaining in Wisconsin](docs/Stemen discussion - Albany pleas RCN.pdf),” June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- “[Advancing forensic science at the National Institute of Justice](docs/NAS forensics review.pdf),” April, Committee on Strengthening Forensic Science at the National Institute of Justice, National Academy of Sciences, Washington, DC.
 
 ### 2014
 
-- “Estimating officer risk factors for police shootings,” December, Department of Criminology, University of Pennsylvania, Philadelphia.
+- “[Estimating officer risk factors for police shootings](docs/NYPD shootings.pdf),” December, Department of Criminology, University of Pennsylvania, Philadelphia.
 
 ### 2012
 
-- “Methods for racial profiling analysis,” March, Claremont Colleges, Claremont.
+- “[Methods for racial profiling analysis](docs/Racial Profiling Methods-v4.pdf),” March, Claremont Colleges, Claremont.
 
 ### 2011
 
@@ -577,9 +579,9 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics �
 
 ### 2010
 
-- “What research can do for policing,” September, International Association of Law Enforcement Planners, Scottsdale.
-- “Police Performance and the Analysis of Racial Profiling,” September, International Association of Law Enforcement Planners, Scottsdale.
-- “What research can do for policing,” April, Southern California Chiefs of Police Association, Palm Springs.
+- “[What research can do for policing](docs/RAND Scottsdale IALEP-research.pdf),” September, International Association of Law Enforcement Planners, Scottsdale.
+- “[Police Performance and the Analysis of Racial Profiling](docs/RAND Scottsdale IALEP-racial profiling.pdf),” September, International Association of Law Enforcement Planners, Scottsdale.
+- “[What research can do for policing](docs/RAND SoCal Chiefs.pdf),” April, Southern California Chiefs of Police Association, Palm Springs.
 
 ### 2009
 
@@ -594,7 +596,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics �
 
 ### 2007
 
-- “The criminal purchase of firearm ammunition,” March, Association for Criminal Justice Research, Sacramento.
+- “[The criminal purchase of firearm ammunition](docs/ACJR2007ammo.pdf),” March, Association for Criminal Justice Research, Sacramento.
 - “[Methods for racial profiling analysis](docs/racialprofiling2007.pdf),” February, University of Cincinnati.
 - “Improving Community-Police Relations: Year 2 Results,” January, Testimony to the Public Safety Subcommittee of the Cincinnati City Council.
 
