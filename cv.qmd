@@ -47,15 +47,15 @@ University of Pennsylvania -- Philadelphia, PA
 
 ## Education
 
-- **Ph.D. - Statistics (1999)**  
+- **Ph.D. -- Statistics (1999)**  
   Dissertation: *[Generalization of Boosting Algorithms and Applications of Bayesian Inference to Massive Datasets](docs/thesis.pdf)*  
   [Department of Statistics](http://www.stat.washington.edu/), University of Washington, Seattle, WA  
   Advisors: [David Madigan](https://www.khoury.northeastern.edu/people/david-madigan/) and [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php)
 
-- **M.S. - Statistics (1997)**  
+- **M.S. -- Statistics (1997)**  
   [Department of Statistics](http://www.stat.washington.edu/), University of Washington, Seattle, WA
 
-- **B.S. - Statistics (1995)**  
+- **B.S. -- Statistics (1995)**  
   [California Polytechnic State University](http://www.calpoly.edu/), San Luis Obispo, CA
 
 ## Professional Experience
