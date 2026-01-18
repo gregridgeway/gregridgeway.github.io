@@ -34,7 +34,7 @@ I am an elected Fellow of the American Statistical Association, the Academy of E
 
 
 
-- **Curriculum Vitae:** [CV](/cv/)
+- **Curriculum Vitae:** [CV](cv.html)
 - **Penn Criminology:** [https://crim.sas.upenn.edu/people/greg-ridgeway](https://crim.sas.upenn.edu/people/greg-ridgeway)
 - **Google Scholar:** [https://scholar.google.com/citations?user=r_PiKGMAAAAJ](https://scholar.google.com/citations?user=r_PiKGMAAAAJ)
 - **GitHub:** [https://github.com/gregridgeway](https://github.com/gregridgeway)
