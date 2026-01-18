@@ -1,0 +1,24 @@
+1. The full set of slides are in ASW.pdf
+
+2. We will cover two "exercises" using the R script ASW.R
+
+3. Download and have available the Connecticut dataset for doing the veil of darkness analysis
+
+   - Look up table for when it gets dark, civt.RData
+   - All traffic stops in Connecticut, dataCT.RData
+
+4. Download and have available the 2011 New York stop-and-frisk dataset, dataNYPD.RData
+
+5. Have R and RStudio installed and ready to run
+
+   - Have installed R packages: lubridate, splines, ks, survey, grid, Matrix, survival
+   - Also install the latest versions of gbm and fastDR from github
+
+6. dataprep.R is not needed, but it shows where I got the data sources and how I prepared them
+
+Ideally you can install gbm3 and fastDR with
+
+library(devtools)
+install_github("gbm-developers/gbm3")
+install_github("gregridgeway/survey","patch-1")
+install_github("gregridgeway/fastDR")
