@@ -21,6 +21,8 @@ execute:
 
 ::: {.callout-note appearance="minimal"}
 **Rebecca W. Bushnell Professor of Criminology**  
+[Department of Criminology](https://crim.sas.upenn.edu/)  
+[Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/)  
 University of Pennsylvania -- Philadelphia, PA  
 (215) 573-9109 · gridge@upenn.edu
 :::
