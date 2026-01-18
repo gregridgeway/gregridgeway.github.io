@@ -20,7 +20,7 @@
 
 Ideally you can install gbm3 and fastDR with
 
-library(devtools)
-install_github("gbm-developers/gbm3")
-install_github("gregridgeway/survey","patch-1")
-install_github("gregridgeway/fastDR")
+    library(devtools)
+    install_github("gbm-developers/gbm3")
+    install_github("gregridgeway/survey","patch-1")
+    install_github("gregridgeway/fastDR")
