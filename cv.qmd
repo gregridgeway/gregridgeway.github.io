@@ -509,6 +509,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 ### 2024
 
 - “[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides_UTM_biostat.pdf)” September, University of Tennessee - Memphis, Biostatistics seminar series.
+- “[Which police officers have a high propensity to escalate force?](docs/WarrenCenterResearchMixer2024_Conditional_ordinal_stereotype.pdf),” September, [Warren Center & ASSET Center Research Mixer](https://warrencenter.upenn.edu/events/warren-center-asset-center-research-mixer/), University of Pennsylvania, Philadelphia, PA.  
 
 ### 2023
 
