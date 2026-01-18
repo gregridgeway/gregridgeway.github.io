@@ -19,6 +19,24 @@ execute:
   message: false
 ---
 
+<!-- add lt modified date -->
+```{r last-updated, echo=FALSE, results='asis'}
+if (knitr::is_latex_output()) {
+  cat(
+    "\\begingroup\n",
+    "\\hfill\\footnotesize Last updated: ",
+    format(Sys.Date(), "%B %Y"),
+    "\n\\endgroup\n\n",
+    sep = ""
+  )
+} else {
+  cat(sprintf(
+    "<div style='text-align:right;font-size:0.8em;color:#666;'>Last updated: %s</div>",
+    format(Sys.Date(), "%B %Y")
+  ))
+}
+```
+
 ::: {.callout-note appearance="minimal"}
 **Rebecca W. Bushnell Professor of Criminology**  
 [Department of Criminology](https://crim.sas.upenn.edu/)  
@@ -133,7 +151,7 @@ University of Pennsylvania -- Philadelphia, PA
 
 ## Grants and Contracts
 
-- **2020-2023** -- Principal Investigator, “[Prosecutors and Criminal Justice Reform: Independent Research Partnership with the Philadelphia District Attorney’s Office](https://medium.com/philadelphia-justice/district-attorney-krasner-announces-dao-transparency-accountability-research-collaboration-27b12ad833db),” Arnold Ventures, $2,509,009 (with Aurelie Ouss)  
+- **2020-2023** -- Principal Investigator, “[Prosecutors and Criminal Justice Reform: Independent Research Partnership with the Philadelphia District Attorney’s Office](https://medium.com/philadelphia-justice/district-attorney-krasner-announces-dao-transparency-accountability-research-collaboration-27b12ad833db),” Arnold Ventures, $2,509,009 (with Aurélie Ouss)  
 - **2020-2022** -- Co-Principal Investigator, “Evaluation of Philadelphia Group Violence Intervention,” Urban Affairs Coalition and Philadelphia Office of Violence Prevention, $150,269 (with Ruth Moyer)  
 - **2020-2022** -- Principal Investigator, “Crime Prevention Through Intelligence & Information Sharing,” Neubauer Family Foundation, $543,298 (with Aaron Chalfin)  
 - **2016** -- Site PI, “Disrupting Illegal Gun Transfers,” NIJ (prime: RAND), 2013-R2-CX-0016, $42,118  
@@ -222,7 +240,7 @@ G. Ridgeway (2016). “[Officer Risk Factors Associated with Police Shootings: A
 
 G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). “[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml),” *Journal of Causal Inference* 3(2):237-249.  
 
-J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Placed-Based Crime Interventions](http://link.springer.com/article/10.1007%2Fs10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
+J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Place-Based Crime Interventions](http://link.springer.com/article/10.1007%2Fs10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
 
 W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
 
@@ -540,7 +558,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ### 2018
 
-- “[What to Do About Georaphic Interventions?](docs/effect of geographic interventions.pdf),” November, Center for Causal Inference, University of Pennsylvania, Philadelphia, PA.
+- “[What to Do About Geographic Interventions?](docs/effect of geographic interventions.pdf),” November, Center for Causal Inference, University of Pennsylvania, Philadelphia, PA.
 - “[Criminological Data Science](docs/fields_institute_ridgeway.pdf),” September, Fields Institute, University of Toronto, Toronto, Canada.
 
 ### 2017
