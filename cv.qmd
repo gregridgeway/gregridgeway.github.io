@@ -568,7 +568,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 - “[Computation and Criminology](docs/ccubed ridgeway-v3.pdf),” September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
 - “[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](docs/Ridgeway NYPD shootings - AAAS.pdf),” February, American Association for the Advancement of Science (AAAS), Boston, MA.
 - “[Propensity score analysis with survey weighted data](docsprop scores with survey weighted data-v2.pdf),” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
-- “[Statistical Applications in Crime and Justice](docs/ASW.pdf),” March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA.
+- “[Statistical Applications in Crime and Justice](docs/ASW2017/ASW.pdf),” March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA. [Complete slides, scripts, and datasets](https://github.com/gregridgeway/gregridgeway.github.io/tree/main/docs/ASW2017)
 
 ### 2016
 
