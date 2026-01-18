@@ -19,6 +19,9 @@ execute:
   message: false
 ---
 
+<!-- Periodically check https://www.deadlinkchecker.com/ -->
+<!-- Last: January 2026 -->
+
 <!-- add lt modified date -->
 ```{r last-updated, echo=FALSE, results='asis'}
 if (knitr::is_latex_output()) {
@@ -126,7 +129,7 @@ University of Pennsylvania -- Philadelphia, PA
 
 - **2025**, [Fellow](https://asc41.org/wp-content/uploads/ASC-Fellows.pdf), American Society of Criminology  
 - **2024**, [Fellow](https://expcrim.org/whats-aec/), Academy of Experimental Criminology  
-- **2013**, [Fellow](https://www.amstat.org/newsroom/pressreleases/2013ASAFellows.pdf), American Statistical Association  
+- **2013**, [Fellow](assets/2013ASAFellows.pdf), American Statistical Association  
 - **2007**, American Statistical Association [Outstanding Statistical Application Award](https://www.amstat.org/your-career/awards/outstanding-statistical-application-award) (with J. Grogger) for “Testing for racial profiling in traffic stops from behind a veil of darkness.”  
   RAND Gold Medal Award for contributions advancing RAND’s mission.
 - **2005**, Commendation by ATF Los Angeles Field Division and the Attorney General of California for contributions to reducing firearms-related crimes in Los Angeles.  
@@ -202,7 +205,7 @@ G. Ridgeway, B. Cave, J. Grieco, and C.E. Loeffler (2021). “[A Conditional Lik
 
 R. Moyer and G. Ridgeway (2020). “[The Effect of Outpatient Methadone Maintenance Treatment Facilities on Place-Based Crime](http://doi.org/10.1007/s11292-018-9347-1),” *Journal of Experimental Criminology* 16(2):227-245.  
 
-G. Ridgeway, R. Moyer, and S. Bushway (2020). “[Sentencing Scorecards: Reducing Racial Disparities in Prison Sentences at Their Source](https://onlinelibrary.wiley.com/share/author/BUGDV9CQXWXNY4K2YTFR?target=10.1111/1745-9133.12529),” *Criminology & Public Policy* 19(4):1113-1138.  
+G. Ridgeway, R. Moyer, and S. Bushway (2020). “[Sentencing Scorecards: Reducing Racial Disparities in Prison Sentences at Their Source](https://doi.org/10.1111/1745-9133.12529),” *Criminology & Public Policy* 19(4):1113-1138.  
 
 G. Ridgeway (2020). “[The Role of Individual Officer Characteristics in Police Shootings](https://doi.org/10.1177/0002716219896553),” *The ANNALS of the American Academy of Political and Social Science* 687(1):58-66. ([technical appendix](docs/Ridgeway2020AAPSSTechnicalAppendix.pdf) showing the decomposition of information)  
 
@@ -240,11 +243,11 @@ G. Ridgeway (2016). “[Officer Risk Factors Associated with Police Shootings: A
 
 G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). “[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml),” *Journal of Causal Inference* 3(2):237-249.  
 
-J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Place-Based Crime Interventions](http://link.springer.com/article/10.1007%2Fs10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
+J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Synthetic Control Approach to Evaluating Place-Based Crime Interventions](https://doi.org/10.1007/s10940-014-9226-5),” *Journal of Quantitative Criminology* 31(3):413-434.  
 
 W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
 
-G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](http://cad.sagepub.com/content/60/1/145),” *Crime & Delinquency* 60(1):145-162.  
+G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](https://doi.org/10.1177/0011128713514802),” *Crime & Delinquency* 60(1):145-162.  
 
 A.A. Braga, G.J. Wintemute, G.L. Pierce, P.J. Cook, and G. Ridgeway (2012). “[Interpreting the empirical evidence on illegal gun market dynamics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462834/pdf/11524_2012_Article_9681.pdf),” *Journal of Urban Health* 89(5):779-93.
 
@@ -252,9 +255,9 @@ D. Golinelli, G. Ridgeway, H. Rhoades, J. Tucker and S. Wenzel (2012). “[Bias 
 
 W.D. Finkle, J.S. Der, S. Greenland, J.L. Adams, G. Ridgeway, T. Blaschke, Z. Wang, R.M. Dell, and K.B. VanRiper (2011). “[Risk of Fractures Requiring Hospitalization After an Initial Prescription for Zolpidem, Alprazolam, Lorazepam, or Diazepam in Older Adults](https://doi.org/10.1111/j.1532-5415.2011.03591.x),” *Journal of the American Geriatrics Society* 59(10):1883-1890.
 
-G. Ridgeway, A. Braga, G. Tita, and G. Pierce (2011). “[Intervening in gun markets: An experiment to assess the impact of targeted gun law messaging](http://www.springerlink.com/content/vl64617884153g11/fulltext.pdf),” *Journal of Experimental Criminology* 7(1):103-109.
+G. Ridgeway, A. Braga, G. Tita, and G. Pierce (2011). “[Intervening in gun markets: An experiment to assess the impact of targeted gun law messaging](https://doi.org/10.1007/s11292-010-9113-5),” *Journal of Experimental Criminology* 7(1):103-109.
 
-J.M. MacDonald, R.J. Stokes, D. Cohen, A. Kofner, and G. Ridgeway (2010). “[The Effect of Light Rail Transit on Body Mass Index and Physical Activity](http://www.ajpm-online.net/webfiles/images/journals/amepre/AMEPRE2836.pdf),” *American Journal of Preventive Medicine* 39(2):105-112.
+J.M. MacDonald, R.J. Stokes, D. Cohen, A. Kofner, and G. Ridgeway (2010). “[The Effect of Light Rail Transit on Body Mass Index and Physical Activity](https://doi.org/10.1016/j.amepre.2010.03.016),” *American Journal of Preventive Medicine* 39(2):105-112.
 
 P. Karaca-Mandic and G. Ridgeway (2010). “[Behavioral Impact of Graduated Driver Licensing on Teenage Driving Risk and Exposure](https://www.sciencedirect.com/science/article/abs/pii/S0167629609001131),” *Journal of Health Economics* 29:48-61.
 
@@ -264,17 +267,17 @@ R. Lin, T.A. Louis, S.M. Paddock, G. Ridgeway (2009). “[Ranking USRDS provider
 
 R.J. Stokes, J.M. MacDonald, and G. Ridgeway (2008). “[Estimating the effects of light rail transit on health care costs](https://doi.org/10.1016/j.healthplace.2007.04.002),” *Health & Place* 14(1):45-58.
 
-MacDonald, J.M., R.J. Stokes, G. Ridgeway, and K.J. Riley (2007). “[Race, Neighborhood context, and perceptions of injustice by the police](http://usj.sagepub.com/cgi/content/abstract/44/13/2567),” *Urban Studies* 44(13):2567-2585.
+MacDonald, J.M., R.J. Stokes, G. Ridgeway, and K.J. Riley (2007). “[Race, Neighborhood context, and perceptions of injustice by the police](https://doi.org/10.1080/00420980701558400),” *Urban Studies* 44(13):2567-2585.
 
 D.F. McCaffrey, A.R. Morral, and G. Ridgeway, B.A. Griffin (2007). “[Interpreting treatment effects when cases are institutionalized after treatment](http://www.rand.org/pubs/reprints/2007/RAND_RP1259.pdf),” *Drug and Alcohol Dependence* 89(2-3):126-138.
 
-G. Tita and G. Ridgeway (2007). “[The impact of gang formation on local patterns and levels of crime](http://jrc.sagepub.com/cgi/content/abstract/44/2/208),” *Journal of Research in Crime and Delinquency* 44(2):208-237.
+G. Tita and G. Ridgeway (2007). “[The impact of gang formation on local patterns and levels of crime](https://doi.org/10.1177/0022427806298356),” *Journal of Research in Crime and Delinquency* 44(2):208-237.
 
 R.N. Bluthenthal, G. Ridgeway, T. Schell, R. Anderson, N.M. Flynn, and A.H. Kral (2007). “[Examination of the association between syringe exchange program (SEP) dispensation policy and SEP client-level syringe coverage among injection drug users](http://www.ncbi.nlm.nih.gov/pubmed/17286637),” *Addiction* 102(4):638-646.
 
 R. Boer, Y. Zheng, A. Overton, G. Ridgeway, D. Cohen (2007). “[Neighborhood Design and Walking Trips in 10 U.S. Metropolitan Areas](https://doi.org/10.1016/j.amepre.2006.12.012),” *American Journal of Preventive Medicine* 32(4):298-304.
 
-R. Lin, T.A. Louis, S.M. Paddock, and G. Ridgeway (2006). “[Loss Function Based Ranking in Two-Stage Hierarchical Models](http://ba.stat.cmu.edu/journal/2006/vol01/issue04/lin.pdf),” *Bayesian Analysis* 1(4):915-946.
+R. Lin, T.A. Louis, S.M. Paddock, and G. Ridgeway (2006). “[Loss Function Based Ranking in Two-Stage Hierarchical Models](https://doi.org/10.1214/06-ba130),” *Bayesian Analysis* 1(4):915-946.
 
 G. Tita, A. Braga, G. Ridgeway, G. Pierce (2006). “[The criminal purchase of firearm ammunition in Los Angeles, California](http://www.rand.org/pubs/reprints/RP1243),” *Injury Prevention* 12:308-311.
 
@@ -292,15 +295,15 @@ D. McCaffrey, G. Ridgeway, A. Morral (2004). “[Propensity score estimation wit
 
 A.R. Morral, D.F. McCaffrey, G. Ridgeway (2004). “[Effectiveness of community-based treatment for substance abusing adolescents: 12-month outcomes from a case-control evaluation of a Phoenix Academy](https://psycnet.apa.org/doi/10.1037/0893-164X.18.3.257),” *Psychology of Addictive Behaviors* 18(3):257-268.
 
-G. Ridgeway and D. Madigan (2003). “[A sequential Monte Carlo method for Bayesian analysis of massive datasets](https://link.springer.com/article/10.1023/A:1024084221803),” *Data Mining and Knowledge Discovery* 7(3):301-319.
+G. Ridgeway and D. Madigan (2003). “[A sequential Monte Carlo method for Bayesian analysis of massive datasets](https://doi.org/10.1023/A:1024084221803),” *Data Mining and Knowledge Discovery* 7(3):301-319.
 
 D. Relles, G. Ridgeway, and G. Carter (2003). “[Data mining and the implementation of a prospective payment system for inpatient rehabilitation](https://link.springer.com/article/10.1023%2FA%3A1025862214778),” *Health Services and Outcomes Research Methodology* 3:247-266.
 
 G.M. Carter, D.A. Relles, G. Ridgeway, C.M. Rimes (2003). “[Measuring function for Medicare inpatient rehabilitation payment](https://pubmed.ncbi.nlm.nih.gov/12894633/),” *Health Care Financing Review* 24(3):25-44.
 
-G. Ridgeway and D. Madigan (2002). “[Bayesian analysis of massive datasets via particle filters](https://dl.acm.org/doi/10.1145/775047.775049),” *Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 5-13.
+G. Ridgeway and D. Madigan (2002). “[Bayesian analysis of massive datasets via particle filters](https://doi.org/10.1145/775047.775049),” *Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 5-13.
 
-D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2002). “[Instance construction via likelihood-based data squashing](https://link.springer.com/article/10.1023/A:1014095614948),” *Data Mining and Knowledge Discovery* 6(2):173-190.
+D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2002). “[Likelihood-Based Data Squashing: A Modeling Approach to Instance Construction](https://link.springer.com/article/10.1023/A:1014095614948),” *Data Mining and Knowledge Discovery* 6(2):173-190.
 
 G. Ridgeway (2002). “[Looking for Lumps: Boosting and bagging for density estimation](https://www.sciencedirect.com/science/article/abs/pii/S0167947301000664),” *Computational Statistics and Data Analysis* 38(4):379-392. ([R script](docs/density.boost.R))
 
@@ -423,7 +426,7 @@ D. Madigan and G. Ridgeway (2003). [*Bayesian Learning and Inference*](docs/baye
 
 A. Morral, M. Reti, D. McCaffrey, G. Ridgeway (2001). *Phoenix Academy treatment outcomes: Preliminary findings from the adolescent outcomes study.* NIDA Research Monograph 182:111-112.
 
-D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2001). [*Instance Construction via Likelihood-Based Data Squashing*](docs/lds.pdf) in [*Instance Selection and Construction for Data Mining*](https://link.springer.com/chapter/10.1007/978-1-4615-0928-2_14) (H. Liu & H. Motoda, eds.), Kluwer Academic Publishers.
+D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2001). [*Likelihood-based Data Squashing: A Modeling Approach to Instance Construction*](docs/lds.pdf) in [*Instance Selection and Construction for Data Mining*](https://doi.org/10.1007/978-1-4757-3359-4) (H. Liu & H. Motoda, eds.), Kluwer Academic Publishers.
 
 ### Commentaries and letters
 
@@ -531,7 +534,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ### 2023
 
-- “[Conditional Likelihood for Use-of-Force](Conditional_likelihood_and_use_of_force__NISS_UoF__slides.pdf),” November, [Ingram Olkin Forum: Statistical Challenges in the Analysis of Police Use of Force](https://www.niss.org/events/findings-ingram-olkin-forum-statistical-analysis-police-use-force), Carleton College, Northfield, MN.  
+- “[Conditional Likelihood for Use-of-Force](docs/Conditional_likelihood_and_use_of_force__NISS_UoF__slides.pdf),” November, [Ingram Olkin Forum: Statistical Challenges in the Analysis of Police Use of Force](https://www.niss.org/events/findings-ingram-olkin-forum-statistical-analysis-police-use-force), Carleton College, Northfield, MN.  
 - “[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_Census.pdf),” July, Center for Statistical Research and Methodology, United States Bureau of the Census.  
 - “[Conditional likelihood and use-of-force](docs/Conditional_likelihood_and_use_of_force__UML.pdf),” March, University of Massachusetts, Lowell.  
 - “[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_PASEF.pdf),” February, [Penn Association of Senior and Emeritus Faculty (PASEF)](https://provost.upenn.edu/pasef).  
@@ -567,7 +570,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 - “[Criminal Justice Predictions](docs/NAS prediction ridgeway.pdf),” September, National Academy of Sciences, Workshop on Predictive Analytics for Human Services and Education, Washington, DC.
 - “[Computation and Criminology](docs/ccubed ridgeway-v3.pdf),” September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
 - “[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](docs/Ridgeway NYPD shootings - AAAS.pdf),” February, American Association for the Advancement of Science (AAAS), Boston, MA.
-- “[Propensity score analysis with survey weighted data](docsprop scores with survey weighted data-v2.pdf),” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
+- “[Propensity score analysis with survey weighted data](docs/prop scores with survey weighted data-v2.pdf),” March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
 - “[Statistical Applications in Crime and Justice](docs/ASW2017/ASW.pdf),” March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA. [Complete slides, scripts, and datasets](https://github.com/gregridgeway/gregridgeway.github.io/tree/main/docs/ASW2017)
 
 ### 2016
@@ -623,14 +626,14 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 - “[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](docs/internal benchmarking ASC2006.pdf),” November, American Society of Criminology, Los Angeles.
 - “[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](docs/ridgeway jels 2006.pdf),” September, Junior Empirical Legal Scholars Conference, Cornell Law School.
-- “Racial profiling,” February, [UCLA Biostatistics](https://www.biostat.ucla.edu/) Seminar Series.
+- “Racial profiling,” February, UCLA Biostatistics Seminar Series.
 
 ### 2005
 
-- “[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](docs/poststopASC2005.pdf),” November, [American Society of Criminology](https://www.asc41.com/), Toronto, Canada.
-- “[Ammunition Purchases in the City of Los Angeles](docs/LA ammo.pdf),” November, [American Society of Criminology](https://www.asc41.com/), Toronto, Canada.
+- “[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](docs/poststopASC2005.pdf),” November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
+- “[Ammunition Purchases in the City of Los Angeles](docs/LA ammo.pdf),” November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
 - “[Model Selection for Estimating Propensity Scores](docs/ModelSelectionPS.pdf),” June, WNAR Conference, Fairbanks, AK.
-- “[Analysis of Post-Stop Outcomes: Citations, Search, and Stop Duration](docs/poststop-analysis-slides.pdf),” April, [Fourth National Symposium on Racial Profiling](https://server.traffic.northwestern.edu/projects/racial_profiling/), Rosemont, IL.
+- “[Analysis of Post-Stop Outcomes: Citations, Search, and Stop Duration](docs/poststop-analysis-slides.pdf),” April, Fourth National Symposium on Racial Profiling, Rosemont, IL.
 - “[Strategies for the analysis of observational data](docs/propscoreintroUCLA.pdf),” January, UCLA Division of Geriatrics, Los Angeles, CA.
 
 ### 2004
@@ -644,29 +647,29 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 - “[Post-processing boosted regression models: model and variable selection](docs/oobvarselect.pdf),” Invited session at the [Joint Statistical Meetings](https://www.amstat.org/), August, Toronto, Canada. 
 - “Enhancing Evidence: Causal Modeling Using Observational Treatment Data,” with Dan McCaffrey and Andrew Morral. Research Methodology Workshop at [Complexities of Co-Occurring Conditions](https://www.cccconference.com/), June, Washington, DC.
 - “[Racial Profiling: Not Always Black and White](docs/ridgewaycongbrief61004.pdf),” June, Congressional briefing, Washington, DC.
-- “[Estimating the causal effect of time in treatment using propensity scores](docs/Ridgeway CPDD poster.pdf),” with Dan McCaffrey and Andrew Morral. Poster presentation at the 2004 meeting of the [College on Problems of Drug Dependence](https://www.cpdd.vcu.edu/), June, San Juan, Puerto Rico. 
+- “[Estimating the causal effect of time in treatment using propensity scores](docs/Ridgeway CPDD poster.pdf),” with Dan McCaffrey and Andrew Morral. Poster presentation at the 2004 meeting of the College on Problems of Drug Dependence, June, San Juan, Puerto Rico. 
 - “[Racial Profiling: Not Always Black and White](docs/onerand-5.pdf),” May, One RAND Colloquium, Santa Monica, CA.
-- “[Statistics, Machine Learning, and Public Policy Analysis - Propensity score analysis of observational data](docs/stern2004.pdf),” April, [Stern Business School](https://www.stern.nyu.edu/), New York University, New York.
+- “[Statistics, Machine Learning, and Public Policy Analysis - Propensity score analysis of observational data](docs/stern2004.pdf),” April, Stern Business School, New York University, New York.
 - “[Retooling propensity score techniques with machine learning for evaluating solutions to the Los Angeles drug abuse epidemic](docs/DIMACS2.pdf),” March, [DIMACS Working Group on Data Mining and Epidemiology](https://dimacs.rutgers.edu/), Rutgers University, Piscataway, NJ.
 
 ### 2003
 
 - “[A Bayesian assessment of the impact of a gun violence reduction initiative in Hollenbeck](docs/HollenbeckGunViolencePoster.pdf),” September, [The 7th Case Studies in Bayesian Statistics Workshop](https://lib.stat.cmu.edu/), Carnegie Mellon University, Pittsburgh, PA. Poster.
-- “[Propensity scores and causal analysis of observational data](docs/PropScoreTalkUCLA.pdf),” May, [Division of General Internal Medicine & Health Services Research Seminar Series](https://gim.med.ucla.edu/), UCLA, Los Angeles, CA.
+- “[Propensity scores and causal analysis of observational data](docs/PropScoreTalkUCLA.pdf),” May, Division of General Internal Medicine & Health Services Research Seminar Series, UCLA, Los Angeles, CA.
 
 ### 2002
 
-- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” November, [Department of Statistics](https://www.stat.ucla.edu/), UCLA, Los Angeles, CA.  
-- “Generalized boosted modeling with application to propensity scores,” October, [Department of Statistics and Actuarial Science](https://www.cas.ucf.edu/), University of Central Florida, Orlando, FL.   
-- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” October, [Department of Statistics](https://stat.fsu.edu/), Florida State University, Tallahassee, FL.  
+- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” November, Department of Statistics, UCLA, Los Angeles, CA.  
+- “Generalized boosted modeling with application to propensity scores,” October, Department of Statistics and Actuarial Science, University of Central Florida, Orlando, FL.   
+- “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” October, Department of Statistics, Florida State University, Tallahassee, FL.  
 - “[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf),” July, The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ([KDD2002](https://www.acm.org/)), Edmonton, Canada.  
-- “[Statistical Techniques for the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/Ridgeway-AHSR.pdf),” June, [Academy for Health Services Research and Health Policy Annual Research Meeting](https://www.academyhealth.org/), Washington, DC. Invited paper for the session on Medicare Reimbursement for Post Acute & Long Term Care: Research Informing Policy.
-- “[Data Mining for the Development of Public Policy](docs/DataMiningforPublicPolicy.pdf),” April, 34th Symposium on the Interface of Computing and Statistics ([Interface 2002](https://www.galaxy.gmu.edu/)), Montreal, Canada. Invited paper for the KDD Featured Session on Data Mining.
+- “[Statistical Techniques for the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/Ridgeway-AHSR.pdf),” June, Academy for Health Services Research and Health Policy Annual Research Meeting, Washington, DC. Invited paper for the session on Medicare Reimbursement for Post Acute & Long Term Care: Research Informing Policy.
+- “[Data Mining for the Development of Public Policy](docs/DataMiningforPublicPolicy.pdf),” April, 34th Symposium on the Interface of Computing and Statistics (Interface 2002), Montreal, Canada. Invited paper for the KDD Featured Session on Data Mining.
 - “Predicting Dropouts: Boosting Algorithms and the Identification of Academically At-Risk Youth,” (with [Paul LePore](https://www.soc.washington.edu/)) February, University of Washington, Center for Statistics and the Social Sciences ([CSSS](https://www.csss.washington.edu/)), Seattle, Washington. CSSS Seminar Series.
 
 ### 2001
 
-- “[Data mining and the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/ICHPR.pdf),” December, [2001 International Conference on Health Policy Research](https://dcc2.bumc.bu.edu/), Boston. Invited paper for the session on Data Mining for Health Services Research.
+- “[Data mining and the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/ICHPR.pdf),” December, 2001 International Conference on Health Policy Research, Boston. Invited paper for the session on Data Mining for Health Services Research.
 - “Strategies for Boosting and Prediction,” October, [Department of Statistics](https://cnas.ucr.edu), California Polytechnic State University, San Luis Obispo. 
 - “Strategies for Boosting and Prediction,” May, [Department of Statistics](https://cnas.ucr.edu), University of California Riverside.  
 - “Hypothesis Screening for Serologic Characteristics Associated with Prednisone Using SurroMed Technology,” April, [SurroMed](https://www.surromed.com), Mountain View, CA.
@@ -676,14 +679,14 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 - “Strategies for Boosting and Prediction,” December, Information and Computer Sciences, University of California Irvine.  
 - “Strategies for Boosting and Prediction,” Statistics and Applied Probability Seminar, November, University of California Santa Barbara.  
 - “[Prediction in the Era of Massive Datasets](docs/SMDM-Pavia.pdf),” Workshop on Statistics and Data Mining (SDM2000), October, Pavia, Italy. Invited tutorial presentation.
-- “[Looking for Lumps: Boosting and Bagging for density estimation](docs/DensitySlides2.pdf),” International Meeting on Nonlinear Methods and Data Mining ([NMDM 2000](https://www.econ.uniurb.it/)), Rome, Italy, September. Invited presentation.
+- “[Looking for Lumps: Boosting and Bagging for density estimation](docs/DensitySlides2.pdf),” International Meeting on Nonlinear Methods and Data Mining (NMDM 2000), Rome, Italy, September. Invited presentation.
 - “Data mining,” RAND short course series, Santa Monica, CA, September.
 - “[Modern prediction methods using Bagging and Boosting](docs/csss.pdf),” [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/), February, Seattle, Washington. CSSS Seminar Series.
 
 ### 1999
 
-- “Combining Estimators to Improve Performance: Bundling, Bagging, Boosting, and Bayesian Model Averaging,” (with [John Elder](https://www.datamininglab.com)) Fifth International Conference on Knowledge Discovery and Data Mining ([KDD-99](https://www.digimine.com)), August, San Diego, California. Tutorial presentation.
-- “[The state of boosting](docs/Interface99slides.pdf),” 31st Symposium on the Interface: Models, Predictions, and Computing ([Interface 1999](https://www.math.niu.edu)), June, Schaumburg, Illinois. Invited talk for the session on Data Mining.
+- “Combining Estimators to Improve Performance: Bundling, Bagging, Boosting, and Bayesian Model Averaging,” (with John Elder) Fifth International Conference on Knowledge Discovery and Data Mining ([KDD-99](https://www.digimine.com)), August, San Diego, California. Tutorial presentation.
+- “[The state of boosting](docs/Interface99slides.pdf),” 31st Symposium on the Interface: Models, Predictions, and Computing (Interface 1999), June, Schaumburg, Illinois. Invited talk for the session on Data Mining.
 - “[A Method for Bayesian Inference in Massive Datasets](docs/MassiveBayesBoeing.pdf),” [Boeing](https://www.boeing.com), March, Bellevue, Washington. Invited seminar presentation.
 - “[Boosting Methodology for Regression Problems](docs/Uncertainty99.pdf),” Seventh International Workshop on Artificial Intelligence and Statistics ([Uncertainty 1999](https://www.microsoft.com/en-us/research/event/uncertainty-99/)), January, Fort Lauderdale, Florida.
 
@@ -701,13 +704,13 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 2023-2024 -- Chair, ASA [Committee on Law and Justice Statistics](https://ww2.amstat.org/committees/commdetails.cfm?txtComm=CCNARS04)
 
-2021-2024 -- Committee member, [Policy Committee](https://asc41.com/about-asc/committees/committee-charges-reporting-schedules/), American Society of Criminology
+2021-2024 -- Committee member, [Policy Committee](https://asc41.org/about-asc/committees/committee-charges-reporting-schedules/), American Society of Criminology
 
 2018-2020 -- Associate Editor, [*Journal of Quantitative Criminology*](http://www.springer.com/social+sciences/criminology/journal/10940)
 
 2016-2018 -- Editorial board, [*Journal of Quantitative Criminology*](http://www.springer.com/social+sciences/criminology/journal/10940)
 
-2019-2020 -- Committee member, [Nominations Committee](https://asc41.com/about-asc/committees/committee-charges-reporting-schedules/), American Society of Criminology
+2019-2020 -- Committee member, [Nominations Committee](https://asc41.org/about-asc/committees/committee-charges-reporting-schedules/), American Society of Criminology
 
 2009-2010 -- Committee member, [ASA Committee on Law and Justice Statistics](http://www.amstat.org/committees/commdetails.cfm?txtComm=CCNARS04)
 
@@ -715,7 +718,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 2004-2008 -- Action Editor, [*Journal of Machine Learning Research*](http://www.jmlr.org/)
 
-2000-2007 -- Associate Editor, [*Journal of Computational and Graphical Statistics*](http://www.amstat.org/publications/jcgs/)
+2000-2007 -- Associate Editor, [*Journal of Computational and Graphical Statistics*](https://www.tandfonline.com/journals/ucgs20)
 
 ### 2025
 
@@ -733,7 +736,7 @@ Analyst, Bailey v. City of Philadelphia, Case 2:10-CV-05952-SD (2023-present)
 
 ### 2020
 
-Program committee, ACM-IMS Foundations of Data Science ([FODS-2020](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf)), October, Seattle, WA
+Program committee, ACM-IMS Foundations of Data Science ([FODS-2020](https://fods.acm.org/)), October, Seattle, WA
 
 Analyst, Chicago PD Consent Decree, Investigation of the Chicago Police Department, Office of the Illinois Attorney General, Case 1:17-CV-06260 (2020-2023)
 
@@ -769,59 +772,59 @@ California Department of Justice, Firearms Division Committee on the AFS Redesig
 
 ### 2006
 
-Program committee, 12th International Conference on Knowledge Discovery and Data Mining ([KDD-2006](http://www.acm.org/sigs/sigkdd/kdd2006/)), August, Philadelphia.
+Program committee, 12th International Conference on Knowledge Discovery and Data Mining (KDD-2006), August, Philadelphia.
 
-Vice-chair, 2006 SIAM International Conference on Data Mining ([SDM-2006](http://www.siam.org/meetings/sdm06/)), April. Bethesda, MD.
+Vice-chair, 2006 SIAM International Conference on Data Mining (SDM-2006), April. Bethesda, MD.
 
 ### 2005
 
-Program committee, The 22nd International Conference on Machine Learning ([ICML-2005](http://icml2005.ais.fraunhofer.de/)), August. Bonn, Germany.
+Program committee, The 22nd International Conference on Machine Learning (ICML-2005), August. Bonn, Germany.
 
-Program committee, 11th International Conference on Knowledge Discovery and Data Mining ([KDD-200](http://www.acm.org/sigs/sigkdd/kdd2005/5), August, Chicago.
+Program committee, 11th International Conference on Knowledge Discovery and Data Mining (KDD-2005), August, Chicago.
 
-Program committee, 2005 SIAM International Conference on Data Mining ([SDM-2005](http://www.siam.org/meetings/sdm05/)), April. Newport Beach, CA.
+Program committee, 2005 SIAM International Conference on Data Mining (SDM-2005), April. Newport Beach, CA.
 
 ### 2004
 
-Program committee, Tenth International Conference on Knowledge Discovery and Data Mining ([KDD-2004](http://www.acm.org/sigkdd/kdd2004/)), August, Seattle.
+Program committee, Tenth International Conference on Knowledge Discovery and Data Mining (KDD-2004), August, Seattle.
 
-Program committee, Fourth SIAM International Conference on Data Mining ([SDM-2004](http://www.siam.org/meetings/sdm04/)), April, Kissimmee, FL.
+Program committee, Fourth SIAM International Conference on Data Mining (SDM-2004), April, Kissimmee, FL.
 
 ### 2003
 
-Program committee, 2003 IEEE International Conference on Data Mining ([ICDM-2003](http://www.cs.uvm.edu/~xwu/icdm-03.html)), November, Melbourne, Florida.
+Program committee, 2003 IEEE International Conference on Data Mining (ICDM-2003), November, Melbourne, Florida.
 
 Chair, Analysis panel for the Centers for Disease Control and Prevention on the analysis plan for the Anthrax Vaccine Research Program, October, Atlanta, GA.
 
-Program committee, Ninth International Conference on Knowledge Discovery and Data Mining ([KDD-2003](http://www.acm.org/sigkdd/kdd2003/)), August, Washington DC.
+Program committee, Ninth International Conference on Knowledge Discovery and Data Mining (KDD-2003), August, Washington DC.
 
-Program committee, Third SIAM International Conference on Data Mining ([SDM-2003](http://www.siam.org/meetings/sdm03/)), May, San Francisco, CA.
+Program committee, Third SIAM International Conference on Data Mining (SDM-2003), May, San Francisco, CA.
 
 ### 2002
 
-Participant, [Workshop on the statistical analysis of massive data streams](http://www7.nationalacademies.org/bms/Massive_Data_Workshop.html), National Academies of Sciences, Committee on Applied & Theoretical Statistics, December.
+Participant, Workshop on the statistical analysis of massive data streams, National Academies of Sciences, Committee on Applied & Theoretical Statistics, December.
 
-Program committee, The 2002 IEEE International Conference on Data Mining ([ICDM02](http://kis.maebashi-it.ac.jp/icdm02/)), December, Maebashi City, Japan.
+Program committee, The 2002 IEEE International Conference on Data Mining (ICDM02), December, Maebashi City, Japan.
 
-Program committee, Eighth International Conference on Knowledge Discovery and Data Mining ([KDD-2002](http://www.acm.org/sigkdd/kdd2002/)), July, Edmonton, Alberta, Canada.
+Program committee, Eighth International Conference on Knowledge Discovery and Data Mining (KDD-2002), July, Edmonton, Alberta, Canada.
 
-Program committee, Second SIAM International Conference on Data Mining ([SDM-2002](http://www.siam.org/meetings/sdm02/)), April, Arlington, VA.
+Program committee, Second SIAM International Conference on Data Mining (SDM-2002), April, Arlington, VA.
 
 ### 2001
 
 Panelist, Anthrax Vaccine Research Program, Centers for Disease Control and Prevention (CDC), September, Atlanta, GA.
 
-Program committee, Seventh International Conference on Knowledge Discovery and Data Mining ([KDD-2001](http://www.acm.org/sigkdd/kdd2001/)), August, San Francisco, CA.
+Program committee, Seventh International Conference on Knowledge Discovery and Data Mining (KDD-2001), August, San Francisco, CA.
 
-Program committee, The Eighteenth International Conference on Machine Learning ([ICML-2001](http://www.ecn.purdue.edu/ICML2001/)), June. Williamstown, Massachusetts.
+Program committee, The Eighteenth International Conference on Machine Learning (ICML-2001), June. Williamstown, Massachusetts.
 
-Organizing and session chair, Session on massive datasets, [Interface 2001](http://www.ics.uci.edu/~datalab/interface/), June, Costa Mesa, CA.
+Organizing and session chair, Session on massive datasets, Interface 2001, June, Costa Mesa, CA.
 
 Member of the Advisory Board for the [Handbook of Data Mining](https://www.erlbaum.com/shop/tek9.asp?pg=products&specific=0-8058-4081-8)
 
 Panelist, National Science Foundation initiative on Information Technology Research (NSF ITR).
 
-Program committee, [Eighth Workshop on Artificial Intelligence and Statistics](http://www.ai.mit.edu/conferences/aistats2001/), January, Key West, FL.
+Program committee, Eighth Workshop on Artificial Intelligence and Statistics, January, Key West, FL.
 
 ### 2000
 

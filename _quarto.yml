@@ -27,7 +27,6 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
     toc-location: right
     smooth-scroll: true
