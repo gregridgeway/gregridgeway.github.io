@@ -818,7 +818,7 @@ Mathematical Techniques to Mine Massive Data Sets (M3D), August, Chicago, Illino
 
 Second International Conference on Knowledge Discovery and Data Mining (KDD-96), August, Portland, Oregon. Conference participant.
 
-## Teaching experience and student advising
+## Teaching and student advising
 
 ### Course notes
 
@@ -854,6 +854,8 @@ Second International Conference on Knowledge Discovery and Data Mining (KDD-96),
 2005 -- Matt Dixon, *The Costs of Aging Aircraft: Insights from Commercial Aviation* (Ph.D. committee member)
 
 2004 -- Joshua Weed, *Effective Capital Provision Within Government* (Ph.D. committee chair)
+
+### Courses
 
 ```{r}
 library(dplyr)
@@ -894,25 +896,25 @@ df <- tibble::tribble(
   2014, "Criminology in Practice",                             12,          "University of Pennsylvania",
   2011, "Applied Statistics",                                  39,          "UC Irvine",
   2010, "Applied Statistics",                                  25,          "UC Irvine",
-  2009, "Empirical Analysis",                                  23,          "Pardee RAND Graduate School",
+  2009, "Empirical Analysis",                                  23,          "RAND School of Public Policy",
   2009, "Applied Statistics",                                  21,          "UC Irvine",
-  2008, "Empirical Analysis",                                  21,          "Pardee RAND Graduate School",
+  2008, "Empirical Analysis",                                  21,          "RAND School of Public Policy",
   2008, "Applied Statistics",                                  20,          "UC Irvine",
-  2007, "Empirical Analysis",                                  18,          "Pardee RAND Graduate School",
+  2007, "Empirical Analysis",                                  18,          "RAND School of Public Policy",
   2007, "Applied Statistics",                                  21,          "UC Irvine",
-  2006, "Modern Prediction and Modeling Methods",              19,          "Pardee RAND Graduate School",
-  2006, "Empirical Analysis",                                  20,          "Pardee RAND Graduate School",
+  2006, "Modern Prediction and Modeling Methods",              19,          "RAND School of Public Policy",
+  2006, "Empirical Analysis",                                  20,          "RAND School of Public Policy",
   2006, "Applied Statistics",                                  24,          "UC Irvine",
   2005, "Applied Statistics",                                  21,          "UC Irvine",
-  2004, "Calculus",                                            15,          "Pardee RAND Graduate School",
-  2004, "Modern Prediction and Modeling Methods",              12,          "Pardee RAND Graduate School",
-  2003, "Mathematics for Policy Analysis",                     15,          "Pardee RAND Graduate School",
-  2002, "Modern Prediction and Modeling Methods",              6,           "Pardee RAND Graduate School",
+  2004, "Calculus",                                            15,          "RAND School of Public Policy",
+  2004, "Modern Prediction and Modeling Methods",              12,          "RAND School of Public Policy",
+  2003, "Mathematics for Policy Analysis",                     15,          "RAND School of Public Policy",
+  2002, "Modern Prediction and Modeling Methods",              6,           "RAND School of Public Policy",
   2000, "Basic Statistics",                                    150,         "University of Washington",
   2000, "Statistical Computing",                               10,          "University of Washington",
   1999, "Basic Statistics",                                    150,         "University of Washington",
   1999, "Introduction to Mathematical Statistics",             45,          "University of Washington",
-  1998, "Probability and Statistics in Engineering and Science",74,          "University of Washington"
+  1998, "Probability and Statistics in Engineering and Science",74,         "University of Washington"
 )
 
 fmt <- if (knitr::is_latex_output()) "latex" else "html"
@@ -920,12 +922,14 @@ fmt <- if (knitr::is_latex_output()) "latex" else "html"
 df |>
   kable(
     format = fmt,
-    booktabs = knitr::is_latex_output(),
+    booktabs = TRUE,
     longtable = knitr::is_latex_output()
   ) |>
   kable_styling(
     full_width = FALSE,
-    position = "left"
+    position = "left",
+    font_size = if (knitr::is_latex_output()) 9 else NULL,
+    latex_options = if (knitr::is_latex_output()) "repeat_header" else NULL
   ) |>
-  collapse_rows(columns = 4, valign = "top")
+  collapse_rows(columns = c(1,4), valign = "top", latex_hline = "none")
 ```
