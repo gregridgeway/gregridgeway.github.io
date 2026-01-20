@@ -187,7 +187,7 @@ R. Hester, G. Ridgeway, and R. Labrecque. "Fairness Regularized Risk Assessment 
 
 ### Peer-reviewed articles
 
-G. Ridgeway (to appear). “[A Conditional Ordinal Stereotype Model to Estimate Police Officers' Propensity to Escalate Force](https://doi.org/10.1080/01621459.2025.2597050),” *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  
+G. Ridgeway (to appear). “[A Conditional Ordinal Stereotype Model to Estimate Police Officers' Propensity to Escalate Force](https://doi.org/10.1080/01621459.2025.2597050),” *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  ([Supplemental appendix](https://ndownloader.figstatic.com/files/60425107)) ([Additional mathematical details](https://github.com/gregridgeway/COS-police-use-of-force/blob/main/COSmathDetails.pdf))
 
 F.A. Amaral, C. Loeffler, and G. Ridgeway (2024). “[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624),” *Journal of Criminal Justice*, 95:102313.  
 
@@ -291,7 +291,7 @@ G. Ridgeway (2006). “[Assessing the effect of race bias in post-traffic stop o
 
 D.A Cohen, T.A. Farley, K. Mason, and G. Ridgeway (2006). “[The collectivity of sexual behaviour](https://journals.sagepub.com/doi/10.1258/095646206775809213),” *International Journal of STD & AIDS* 17(3):151-156.
 
-C. Guarino, G. Ridgeway, M. Chun, and R. Buddin (2005). “[Latent Variable Analysis: A New Approach to University Ranking](https://doi.org/10.1080/03797720500260033),” *Higher Education in Europe* 30(2):147-165.
+C. Guarino, G. Ridgeway, M. Chun, and R. Buddin (2005). “[Latent Variable Analysis: A New Approach to University Ranking](https://doi.org/10.1080/03797720500260033),” *Higher Education in Europe* 30(2):147-165. [Preprint version](docs/UniversityRanking.pdf)
 
 D. McCaffrey, G. Ridgeway, A. Morral (2004). “[Propensity score estimation with boosted regression for evaluating adolescent substance abuse treatment](https://psycnet.apa.org/doi/10.1037/1082-989X.9.4.403),” *Psychological Methods* 9(4):403-425. [Included in J. Miles and B. Stucky (editors) (2014). Quantitative Psychology, SAGE Publications.]
 
