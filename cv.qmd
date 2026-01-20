@@ -179,21 +179,23 @@ University of Pennsylvania -- Philadelphia, PA
 
 ### Working papers
 
-Ridgeway, G., & Loeffler, C. (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.
+G. Ridgeway and C. Loeffler (2027). “Crime Statistics,” *Annual Review of Statistics and Its Applications*, 14.
 
-Gyourko, J. R., & Ridgeway, G. “Safeguarding the Credit Records of Youth in Foster Care: What Interventions Reduce Risk of Child Identity Fraud?”
+J.R. Gyourko and G. Ridgeway. “Safeguarding the Credit Records of Youth in Foster Care: What Interventions Reduce Risk of Child Identity Fraud?”
+
+R. Hester, G. Ridgeway, and R. Labrecque. "Fairness Regularized Risk Assessment Models: Balancing Risk Prediction with Racial and Ethnic Equality"
 
 ### Peer-reviewed articles
 
 G. Ridgeway (to appear). “[A Conditional Ordinal Stereotype Model to Estimate Police Officers' Propensity to Escalate Force](https://doi.org/10.1080/01621459.2025.2597050),” *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  
 
-F.A. Amaral, C. Loeffler, & G. Ridgeway (2024). “[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624),” *Journal of Criminal Justice*, 95:102313.  
+F.A. Amaral, C. Loeffler, and G. Ridgeway (2024). “[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624),” *Journal of Criminal Justice*, 95:102313.  
 
-J.R. Gyourko & G. Ridgeway (2024). “[Predictors of Identity Fraud Victimization of Adolescent Youth in Foster Care](https://doi.org/10.1080/15564886.2024.2314693),” *Victims & Offenders*.  
+J.R. Gyourko and G. Ridgeway (2024). “[Predictors of Identity Fraud Victimization of Adolescent Youth in Foster Care](https://doi.org/10.1080/15564886.2024.2314693),” *Victims & Offenders*.  
 
-V. Nguyen & G. Ridgeway (2023). “[Judges on the Benchmark: Developing a Sentencing Feedback System](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738),” *Justice Quarterly*, 41(1):1-37.  
+V. Nguyen and G. Ridgeway (2023). “[Judges on the Benchmark: Developing a Sentencing Feedback System](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738),” *Justice Quarterly*, 41(1):1-37.  
 
-E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, C.C. Branas (2023). "[Effect of Abandoned Housing Interventions on Gun Violence, Perceptions of Safety, and Substance Use in Black Neighborhoods: A Citywide Cluster Randomized Trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.  
+E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, and C.C. Branas (2023). "[Effect of Abandoned Housing Interventions on Gun Violence, Perceptions of Safety, and Substance Use in Black Neighborhoods: A Citywide Cluster Randomized Trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.  
 
 Z. F. Meisel, F. Shofer, A. Dolan, E. B. Goldberg, K. V. Rhodes, E. P. Hess, V. R. Bellamkonda, J. Perrone, C. C. Cannuscio, L. Becker, M. A. Rodgers, M. M. Zyla, J. J. Bell, S. McCollum, E. Engel-Rebitzer, M. J. Nguemeni Tiako, G. Ridgeway, and M. M. Schapira (2022). “[A multicentered randomized controlled trial comparing the effectiveness of pain treatment communication tools in emergency department patients with back pain or kidney stone pain](https://pubmed.ncbi.nlm.nih.gov/35143273/),” *American Journal of Public Health* 112(S1):S45-S55.  
 
@@ -247,7 +249,7 @@ J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). “[A Sy
 
 W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). “[Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805),” *PLOS One* 9(1):e85805.  
 
-G. Ridgeway & J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](https://doi.org/10.1177/0011128713514802),” *Crime & Delinquency* 60(1):145-162.  
+G. Ridgeway and J.M. MacDonald. “[A Method for Internal Benchmarking of Criminal Justice System Performance](https://doi.org/10.1177/0011128713514802),” *Crime & Delinquency* 60(1):145-162.  
 
 A.A. Braga, G.J. Wintemute, G.L. Pierce, P.J. Cook, and G. Ridgeway (2012). “[Interpreting the empirical evidence on illegal gun market dynamics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462834/pdf/11524_2012_Article_9681.pdf),” *Journal of Urban Health* 89(5):779-93.
 
@@ -287,7 +289,7 @@ S.M. Paddock, G. Ridgeway, R. Lin, T.A. Louis (2006). “[Flexible distributions
 
 G. Ridgeway (2006). “[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](https://link.springer.com/article/10.1007/s10940-005-9000-9),” *Journal of Quantitative Criminology* 22(1):1-29. Example [code](docs/poststop-v2.R) and [dataset](docs/poststop-example.RData).
 
-D.A Cohen, T.A. Farley, K. Mason, G. Ridgeway (2006). “[The collectivity of sexual behaviour](https://journals.sagepub.com/doi/10.1258/095646206775809213),” *International Journal of STD & AIDS* 17(3):151-156.
+D.A Cohen, T.A. Farley, K. Mason, and G. Ridgeway (2006). “[The collectivity of sexual behaviour](https://journals.sagepub.com/doi/10.1258/095646206775809213),” *International Journal of STD & AIDS* 17(3):151-156.
 
 C. Guarino, G. Ridgeway, M. Chun, and R. Buddin (2005). “[Latent Variable Analysis: A New Approach to University Ranking](https://doi.org/10.1080/03797720500260033),” *Higher Education in Europe* 30(2):147-165.
 
