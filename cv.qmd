@@ -526,6 +526,10 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ## Presentations
 
+### 2026
+
+- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)" February, RAND Statistics Group 50th Anniversary Seminar Series.
+
 ### 2025
 
 - "[Fairness Regularized Risk Assessment Models: Balancing Risk Prediction and Racial and Ethnic Equality](docs/ASC_25_Pres_pattern_fairness.pdf)," November, Washington DC, American Society of Criminology. (with Rhys Hester and Ryan Labrecque).
