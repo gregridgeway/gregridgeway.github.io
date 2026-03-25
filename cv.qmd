@@ -189,7 +189,7 @@ R. Hester, G. Ridgeway, and R. Labrecque. "Balancing predictive accuracy with ra
 
 ### Peer-reviewed articles
 
-G. Ridgeway (to appear). "[A conditional ordinal stereotype model to estimate police officers' propensity to escalate force](https://doi.org/10.1080/01621459.2025.2597050)," *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  ([Supplemental appendix](https://ndownloader.figstatic.com/files/60425107)) ([Additional mathematical details](https://github.com/gregridgeway/COS-police-use-of-force/blob/main/COSmathDetails.pdf))
+G. Ridgeway (2026). "[A conditional ordinal stereotype model to estimate police officers' propensity to escalate force](https://doi.org/10.1080/01621459.2025.2597050)," *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  ([Supplemental appendix](https://ndownloader.figstatic.com/files/60425107)) ([Additional mathematical details](https://github.com/gregridgeway/COS-police-use-of-force/blob/main/COSmathDetails.pdf))
 
 F.A. Amaral, C. Loeffler, and G. Ridgeway (2024). "[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624)," *Journal of Criminal Justice*, 95:102313.  
 
@@ -534,6 +534,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 - "[Fairness Regularized Risk Assessment Models: Balancing Risk Prediction and Racial and Ethnic Equality](docs/ASC_25_Pres_pattern_fairness.pdf)," November, Washington DC, American Society of Criminology. (with Rhys Hester and Ryan Labrecque).
 - "[Landscape of Criminal Justice Data Sources](docs/crim_data_sources-v2.pdf)," March, American Statistical Association, [Committee on Law and Justice Statistics](https://community.amstat.org/lawandjusticestatistics/webinarseries) public webinar. [video](https://us06web.zoom.us/rec/share/5e0AhacrnfraNIO44sCO-fGnyYBFTS8NQwK5WauY1K4YJeqACb_Vp0mA3mlvRpYs._FKXiUmuImacVNhU?iet=sy2DjRuvnzKMHpJ0IonBSKrwDTvNCyt3WclhjOefUKU.AG.sDCQKu9PgUmjTxf5rgDBcXGyvxw-R68crA9OGV5q7flcGQUr7TktzQhF0ynO7ooXJQK-EGJY0pTduqNyWSyKidgut2J-vZJRgQXztkZV3cro5mRf6yC6KedzxD7LYiA.-vVFnwxeL41qXpcj6bjvYA.Fwv1k69farPtu0Mm) (password: M7P=o$Df)
+- "Which police officers escalate force?," March, Penn Criminology Department Seminar Series.
 
 ### 2024
 
