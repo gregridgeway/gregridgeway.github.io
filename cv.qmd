@@ -528,7 +528,9 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ### 2026
 
-- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)" February, RAND Statistics Group 50th Anniversary Seminar Series.
+- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__PennAIfellows.pdf)," April, Penn AI Fellows series.
+
+- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)," February, RAND Statistics Group 50th Anniversary Seminar Series.
 
 ### 2025
 
