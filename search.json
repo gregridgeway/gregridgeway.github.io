@@ -11,7 +11,7 @@
     "href": "cv.html",
     "title": "Greg Ridgeway",
     "section": "",
-    "text": "Last updated: April 2026"
+    "text": "Last updated: May 2026"
   },
   {
     "objectID": "cv.html#education",
@@ -67,7 +67,7 @@
     "href": "cv.html#software-development",
     "title": "Greg Ridgeway",
     "section": "Software development",
-    "text": "Software development\n\nConditional ordinal stereotype model for police use-of-force\nA conditional likelihood version of Anderson’s ordinal stereotype model, designed to estimate an individual officer’s propensity to escalate force (C++/R)\nDevelopment: https://github.com/gregridgeway/COS-police-use-of-force\nfastDR – Fast Doubly Robust Estimation\nImplements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs\nDevelopment: https://github.com/gregridgeway/fastDR\ngbm3 – Generalized Boosted Regression Models\nLatest version of gradient boosting and related models (C++ engine, R frontend)\nDevelopment: https://github.com/gbm-developers/gbm3\ngbm – Generalized Boosted Regression Models\nOriginal version of gradient boosted models (C++ engine, R frontend)\nDevelopment: https://github.com/gbm-developers/gbm"
+    "text": "Software development\n\ncosmic – Conditional Ordinal Stereotype Model for Incident-Level Comparison\nA conditional likelihood version of Anderson’s ordinal stereotype model, designed to estimate an individual officer’s propensity to escalate force (Stan/R)\nCRAN, Development, Original (C++/R)\nfastDR – Fast Doubly Robust Estimation\nImplements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs (R) Development: https://github.com/gregridgeway/fastDR\ngbm3 – Generalized Boosted Regression Models\nLatest version of gradient boosting and related models (C++/R)\nDevelopment: https://github.com/gbm-developers/gbm3\ngbm – Generalized Boosted Regression Models\nOriginal version of gradient boosted models (C++/R)\nDevelopment: https://github.com/gbm-developers/gbm"
   },
   {
     "objectID": "cv.html#presentations",
