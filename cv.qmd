@@ -508,20 +508,20 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ## Software development
 
-- **Conditional ordinal stereotype model for police use-of-force**  
-  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (C++/R)  
-  Development: [https://github.com/gregridgeway/COS-police-use-of-force](https://github.com/gregridgeway/COS-police-use-of-force)
+- **cosmic -- Conditional Ordinal Stereotype Model for Incident-Level Comparison**  
+  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (Stan/R)  
+  [CRAN](https://cran.r-project.org/web/packages/cosmic/index.html), [Development](https://github.com/gregridgeway/cosmic), [Original](https://github.com/gregridgeway/COS-police-use-of-force) (C++/R)
 
 - **fastDR -- Fast Doubly Robust Estimation**  
-  Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs  
+  Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs (R)
   Development: [https://github.com/gregridgeway/fastDR](https://github.com/gregridgeway/fastDR)
 
 - **gbm3 -- Generalized Boosted Regression Models**  
-  Latest version of gradient boosting and related models (C++ engine, R frontend)  
+  Latest version of gradient boosting and related models (C++/R)  
   Development: [https://github.com/gbm-developers/gbm3](https://github.com/gbm-developers/gbm3)
 
 - **gbm -- Generalized Boosted Regression Models**  
-  Original version of gradient boosted models (C++ engine, R frontend)  
+  Original version of gradient boosted models (C++/R)  
   Development: [https://github.com/gbm-developers/gbm](https://github.com/gbm-developers/gbm)
 
 ## Presentations
