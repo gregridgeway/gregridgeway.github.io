@@ -70,7 +70,7 @@ University of Pennsylvania -- Philadelphia, PA
   - Chair, Department of Criminology (7/2019-6/2025)  
   - Associate Professor (8/2014-6/2020)  
   - Undergraduate Chair (7/2023-6/2024)  
-  - [Quattrone Center for the Fair Administration of Justice](https://www.law.upenn.edu/institutes/quattronecenter/), Penn Law (8/2015-present)  
+  - [Quattrone Center for the Fair Administration of Justice](https://www.law.upenn.edu/institutes/quattronecenter/), Penn Law (8/2015-present)
   - [Center for Causal Inference](https://dbei.med.upenn.edu/center-of-excellence/cci/), Perelman School of Medicine (8/2016-present)  
   - [Graduate Group in Epidemiology and Biostatistics](http://www.med.upenn.edu/ggeb/), Perelman School of Medicine (12/2017-present)  
   - [Warren Center for Network and Data Science](https://warrencenter.upenn.edu/), SEAS (3/2023-present)  
@@ -78,8 +78,8 @@ University of Pennsylvania -- Philadelphia, PA
 
 - **1/2021-12/2025**, Co-editor-in-chief, *[Journal of Quantitative Criminology](https://www.springer.com/journal/10940)*
 
-- **7/2012-7/2014**, [National Institute of Justice](https://www.nij.gov/), U.S. Department of Justice  
-  Directed the Department of Justice’s science agency (approximately 80 staff; $250M/year), advancing science and innovation in forensics, technology, and social science  
+- **7/2012-7/2014**, [National Institute of Justice](https://www.nij.gov/), U.S. Department of Justice
+  Directed the Department of Justice’s science agency (approximately 80 staff; $250M/year), advancing science and innovation in forensics, technology, and social science
   - Acting Director (1/2013-7/2014)  
   - Deputy Director, Senior Executive Service (7/2012-7/2014)
 
@@ -127,14 +127,15 @@ University of Pennsylvania -- Philadelphia, PA
 
 ## Awards
 
+- **2026**, Journal of the American Statistical Association [Reproducibility Award](https://jasa-acs.github.io/repro-award/) for "A Conditional Ordinal Stereotype Model to Estimate Police Officers’ Propensity to Escalate Force"
 - **2025**, [Fellow](https://asc41.org/wp-content/uploads/ASC-Fellows.pdf), American Society of Criminology  
-- **2024**, [Fellow](https://expcrim.org/whats-aec/), Academy of Experimental Criminology  
-- **2013**, [Fellow](assets/2013ASAFellows.pdf), American Statistical Association  
-- **2007**, American Statistical Association [Outstanding Statistical Application Award](https://www.amstat.org/your-career/awards/outstanding-statistical-application-award) (with J. Grogger) for "Testing for racial profiling in traffic stops from behind a veil of darkness."  
-  RAND Gold Medal Award for contributions advancing RAND’s mission.
-- **2005**, Commendation by ATF Los Angeles Field Division and the Attorney General of California for contributions to reducing firearms-related crimes in Los Angeles.  
+- **2024**, [Fellow](https://expcrim.org/whats-aec/), Academy of Experimental Criminology
+- **2013**, [Fellow](assets/2013ASAFellows.pdf), American Statistical Association
+- **2007**, American Statistical Association [Outstanding Statistical Application Award](https://www.amstat.org/your-career/awards/outstanding-statistical-application-award) (with J. Grogger) for "Testing for racial profiling in traffic stops from behind a veil of darkness"
+  RAND Gold Medal Award for contributions advancing RAND’s mission
+- **2005**, Commendation by ATF Los Angeles Field Division and the Attorney General of California for contributions to reducing firearms-related crimes in Los Angeles
   RAND President’s Choice Award for developing pioneering methods for racial profiling.
-- **1999**, Z.W. Birnbaum Award (UW Department of Statistics) for excellence in research and presentation.
+- **1999**, Z.W. Birnbaum Award (UW Department of Statistics) for excellence in research and presentation
 
 ## Patent Awards
 
