@@ -9,6 +9,7 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     theme: cosmo
+    embed-resources: true
   pdf:
     toc: false
     number-sections: false
@@ -51,7 +52,7 @@ University of Pennsylvania -- Philadelphia, PA
 ## Education
 
 - **Ph.D. -- Statistics (1999)**  
-  Dissertation: *[Generalization of Boosting Algorithms and Applications of Bayesian Inference to Massive Datasets](docs/thesis.pdf)*  
+  Dissertation: *[Generalization of Boosting Algorithms and Applications of Bayesian Inference to Massive Datasets](https://gregridgeway.github.io/docs/thesis.pdf)*  
   [Department of Statistics](http://www.stat.washington.edu/), University of Washington, Seattle, WA  
   Advisors: [David Madigan](https://www.khoury.northeastern.edu/people/david-madigan/) and [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php)
 
@@ -63,74 +64,74 @@ University of Pennsylvania -- Philadelphia, PA
 
 ## Professional Experience
 
-- **8/2014-present**, [Department of Criminology](http://crim.sas.upenn.edu/) and [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), University of Pennsylvania  
-  - Rebecca W. Bushnell Professor of Criminology (7/2022-present)  
-  - Full Professor (7/2020-present)  
-  - [Data-Driven Discovery Initiative](https://datascience.sas.upenn.edu/), Co-director (2021-present)  
-  - Chair, Department of Criminology (7/2019-6/2025)  
-  - Associate Professor (8/2014-6/2020)  
-  - Undergraduate Chair (7/2023-6/2024)  
+- **8/2014-present**, [Department of Criminology](http://crim.sas.upenn.edu/) and [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), University of Pennsylvania
+  - Rebecca W. Bushnell Professor of Criminology (7/2022-present)
+  - Full Professor (7/2020-present)
+  - [Data-Driven Discovery Initiative](https://datascience.sas.upenn.edu/), Co-director (2021-present)
+  - Chair, Department of Criminology (7/2019-6/2025)
+  - Associate Professor (8/2014-6/2020)
+  - Undergraduate Chair (7/2023-6/2024)
   - [Quattrone Center for the Fair Administration of Justice](https://www.law.upenn.edu/institutes/quattronecenter/), Penn Law (8/2015-present)
-  - [Center for Causal Inference](https://dbei.med.upenn.edu/center-of-excellence/cci/), Perelman School of Medicine (8/2016-present)  
-  - [Graduate Group in Epidemiology and Biostatistics](http://www.med.upenn.edu/ggeb/), Perelman School of Medicine (12/2017-present)  
-  - [Warren Center for Network and Data Science](https://warrencenter.upenn.edu/), SEAS (3/2023-present)  
+  - [Center for Causal Inference](https://dbei.med.upenn.edu/center-of-excellence/cci/), Perelman School of Medicine (8/2016-present)
+  - [Graduate Group in Epidemiology and Biostatistics](http://www.med.upenn.edu/ggeb/), Perelman School of Medicine (12/2017-present)
+  - [Warren Center for Network and Data Science](https://warrencenter.upenn.edu/), SEAS (3/2023-present)
   - [Population Studies Center](https://www.pop.upenn.edu/) (1/2024-present)
 
 - **1/2021-12/2025**, Co-editor-in-chief, *[Journal of Quantitative Criminology](https://www.springer.com/journal/10940)*
 
 - **7/2012-7/2014**, [National Institute of Justice](https://www.nij.gov/), U.S. Department of Justice
   Directed the Department of Justice’s science agency (approximately 80 staff; $250M/year), advancing science and innovation in forensics, technology, and social science
-  - Acting Director (1/2013-7/2014)  
+  - Acting Director (1/2013-7/2014)
   - Deputy Director, Senior Executive Service (7/2012-7/2014)
 
-- **7/2000-6/2012**, [RAND Corporation](https://www.rand.org)  
-  Led a major research portfolio on policing, courts, corrections, gangs, guns, drugs, and justice policy (approximately 50-person research team; ~40 proposals/year; ~$10M/year projects)  
-  - RAND Safety & Justice Program, Director (1/2009-6/2012)  
-  - RAND Center on Quality Policing, Director (1/2008-6/2012)  
-  - RAND Safety & Justice Program, Acting Director (11/2007-1/2009)  
-  - [RAND Statistics Group](https://www.rand.org/statistics.html), Senior Statistician (5/2007-6/2012)  
-  - RAND Safety & Justice Program, Associate Director (8/2006-11/2007)  
-  - [RAND Statistics Group](https://www.rand.org/statistics.html, Full Statistician (5/2003-5/2007)  
-  - [RAND Statistics Group](https://www.rand.org/statistics.html, Associate Statistician (7/2000-5/2003)
+- **7/2000-6/2012**, [RAND Corporation](https://www.rand.org)
+  Led a major research portfolio on policing, courts, corrections, gangs, guns, drugs, and justice policy (approximately 50-person research team; ~40 proposals/year; ~$10M/year projects)
+  - RAND Safety & Justice Program, Director (1/2009-6/2012)
+  - RAND Center on Quality Policing, Director (1/2008-6/2012)
+  - RAND Safety & Justice Program, Acting Director (11/2007-1/2009)
+  - [RAND Statistics Group](https://www.rand.org/statistics.html), Senior Statistician (5/2007-6/2012)
+  - RAND Safety & Justice Program, Associate Director (8/2006-11/2007)
+  - [RAND Statistics Group](https://www.rand.org/statistics.html), Full Statistician (5/2003-5/2007)
+  - [RAND Statistics Group](https://www.rand.org/statistics.html), Associate Statistician (7/2000-5/2003)
 
-- **7/2001-8/2001**, Department of Sociology, University of Washington -- Visiting Scholar  
-- **9/1999-6/2000**, Department of Statistics, University of Washington -- Lecturer  
-- **6/1996-9/1997**, [Microsoft Research](https://www.microsoft.com/en-us/research/) -- Research assistant  
-- **9/1993-9/1995**, California Department of Mental Health, [Atascadero State Hospital](https://www.dsh.ca.gov/Atascadero/index.html) -- Research assistant (Clinical Safety Project)  
+- **7/2001-8/2001**, Department of Sociology, University of Washington -- Visiting Scholar
+- **9/1999-6/2000**, Department of Statistics, University of Washington -- Lecturer
+- **6/1996-9/1997**, [Microsoft Research](https://www.microsoft.com/en-us/research/) -- Research assistant
+- **9/1993-9/1995**, California Department of Mental Health, [Atascadero State Hospital](https://www.dsh.ca.gov/Atascadero/index.html) -- Research assistant (Clinical Safety Project)
 - **8/1994-9/1995**, UC Berkeley Cooperative Extension -- Research assistant (Integrated Hardwood Range Management Program)
 
 ## University Service
 
-- **2021-present**, Co-director, Data Driven Discovery Initiative  
+- **2021-present**, Co-director, Data Driven Discovery Initiative
   Launched a new data science initiative; staffing; post-doc program; data science for social good; seed grants; data science minor (with Bhuv Jain)
 
-- **2022-present**, Committee member, Senate Committee on Students and Educational Policy  
+- **2022-present**, Committee member, Senate Committee on Students and Educational Policy
   Advises on admissions, instruction, academic integrity, teaching evaluation, grading policies, student records, disciplinary systems, and campus environment
 
-- **2019-2025**, Chair, Department of Criminology  
+- **2019-2025**, Chair, Department of Criminology
   Stimulated grant- and donor-funded research (especially Philadelphia justice policy analysis); secured strategic senior hires; seeded crime policy lab
 
-- **2021-2024**, Committee member, Committee on Planning and Priorities  
+- **2021-2024**, Committee member, Committee on Planning and Priorities
   Advises SAS on emerging issues in education, research, and operations
 
-- **2019-2021**, SAS Data Driven Discovery Working Group  
+- **2019-2021**, SAS Data Driven Discovery Working Group
   Strategic planning on hiring, programming, data science coverage, and new opportunities
 
-- **2014-2023**, Director, Master of Science in Criminology program  
+- **2014-2023**, Director, Master of Science in Criminology program
   Admissions; career planning; alumni network; placements; joint programs (Fels, SP2, Law)
 
-- **2018-2022**, Committee member, Committee on Undergraduate Education  
+- **2018-2022**, Committee member, Committee on Undergraduate Education
   Advises Dean and faculty on SAS undergraduate educational mission
 
-- **2018-2020**, Committee member, Vice Provost for Education Fellowship Selection Committee  
+- **2018-2020**, Committee member, Vice Provost for Education Fellowship Selection Committee
   Selects nominees for limited-submission fellowships
 
 ## Awards
 
 - **2026**, Journal of the American Statistical Association [Reproducibility Award](https://jasa-acs.github.io/repro-award/) for "A Conditional Ordinal Stereotype Model to Estimate Police Officers’ Propensity to Escalate Force"
-- **2025**, [Fellow](https://asc41.org/wp-content/uploads/ASC-Fellows.pdf), American Society of Criminology  
+- **2025**, [Fellow](https://asc41.org/wp-content/uploads/ASC-Fellows.pdf), American Society of Criminology
 - **2024**, [Fellow](https://expcrim.org/whats-aec/), Academy of Experimental Criminology
-- **2013**, [Fellow](assets/2013ASAFellows.pdf), American Statistical Association
+- **2013**, [Fellow](https://gregridgeway.github.io/assets/2013ASAFellows.pdf), American Statistical Association
 - **2007**, American Statistical Association [Outstanding Statistical Application Award](https://www.amstat.org/your-career/awards/outstanding-statistical-application-award) (with J. Grogger) for "Testing for racial profiling in traffic stops from behind a veil of darkness"
   RAND Gold Medal Award for contributions advancing RAND’s mission
 - **2005**, Commendation by ATF Los Angeles Field Division and the Attorney General of California for contributions to reducing firearms-related crimes in Los Angeles
@@ -140,40 +141,40 @@ University of Pennsylvania -- Philadelphia, PA
 ## Patent Awards
 
 - **2014**  
-  -- US Patent [8,719,210](https://patents.google.com/patent/US8719210B2/en): "System and Method for Medical Treatment Hypothesis Testing." Granted May 6, 2014  
+  -- US Patent [8,719,210](https://patents.google.com/patent/US8719210B2/en): "System and Method for Medical Treatment Hypothesis Testing." Granted May 6, 2014
 - **2013**  
-  -- US Patent [8,538,906](https://patents.google.com/patent/US8538906B2/en): "System and method for medical treatment hypothesis testing using relative likelihood of treatment results." Granted September 17, 2013  
+  -- US Patent [8,538,906](https://patents.google.com/patent/US8538906B2/en): "System and method for medical treatment hypothesis testing using relative likelihood of treatment results." Granted September 17, 2013
 - **2003**  
-  -- US Patent [6,606,613](https://patents.google.com/patent/US6606613B1/en): "Methods and apparatus for using task models to help computer users complete tasks." Granted August 12, 2003  
+  -- US Patent [6,606,613](https://patents.google.com/patent/US6606613B1/en): "Methods and apparatus for using task models to help computer users complete tasks." Granted August 12, 2003
 - **2001**  
   -- US Patent [6,330,554](https://patents.google.com/patent/US6330554B1/en): "Methods and apparatus using task models for targeting marketing information to computer users based on a task being performed." Granted December 11, 2001  
-  -- US Patent [6,195,622](https://patents.google.com/patent/US6195622B1/en): "Methods and apparatus for building attribute transition probability models for use in pre-fetching resources." Granted February 27, 2001  
+  -- US Patent [6,195,622](https://patents.google.com/patent/US6195622B1/en): "Methods and apparatus for building attribute transition probability models for use in pre-fetching resources." Granted February 27, 2001
 - **2000**  
   -- US Patent [6,154,767](https://patents.google.com/patent/US6154767A/en): "Methods and apparatus for using attribute transition probability models for pre-fetching resources." Granted November 28, 2000  
   -- US Patent [6,088,718](https://patents.google.com/patent/US6088718A/en): "Methods and apparatus for using resource transition probability models for pre-fetching resources." Granted July 11, 2000  
-  -- US Patent [6,012,052](https://patents.google.com/patent/US6012052A/en): "Methods and apparatus for building resource transition probability models for use in pre-fetching resources, editing resource link topology, building resource link topology templates, and collaborative filtering." Granted January 4, 2000  
+  -- US Patent [6,012,052](https://patents.google.com/patent/US6012052A/en): "Methods and apparatus for building resource transition probability models for use in pre-fetching resources, editing resource link topology, building resource link topology templates, and collaborative filtering." Granted January 4, 2000
 
 ## Grants and Contracts
 
-- **2020-2023** -- Principal Investigator, "[Prosecutors and Criminal Justice Reform: Independent Research Partnership with the Philadelphia District Attorney’s Office](https://medium.com/philadelphia-justice/district-attorney-krasner-announces-dao-transparency-accountability-research-collaboration-27b12ad833db)," Arnold Ventures, $2,509,009 (with Aurélie Ouss)  
-- **2020-2022** -- Co-Principal Investigator, "Evaluation of Philadelphia Group Violence Intervention," Urban Affairs Coalition and Philadelphia Office of Violence Prevention, $150,269 (with Ruth Moyer)  
-- **2020-2022** -- Principal Investigator, "Crime Prevention Through Intelligence & Information Sharing," Neubauer Family Foundation, $543,298 (with Aaron Chalfin)  
-- **2016** -- Site PI, "Disrupting Illegal Gun Transfers," NIJ (prime: RAND), 2013-R2-CX-0016, $42,118  
-- **2015-2016** -- Site PI, "Replication of the Cardiff Violence Prevention Model in the United States," RWJF (prime: NFCDC&PI), Grant 72352, $213,572  
-- **2011-2012** -- Program Director, "Developing the Center of Research and Security Studies," Ministry of Interior, Abu Dhabi, $1,500,000  
-- **2010-2012** -- Co-PI, "NLECTC Information and Geospatial Technology Center of Excellence," NIJ 2010-IJ-CX-K007, $6,000,000 (with John Hollywood)  
-- **2010-2012** -- Co-PI, "Experimental Evaluation of the BJA DMI Training and Technical Assistance Initiative," BJA 2010-DJ-BX-1672, $2,900,000 (with Beau Kilmer and Jessica Saunders)  
-- **2010-2012** -- Co-PI, "Enabling the Police to Serve the Needs of 21st Century Israel," Israel Ministry of Public Security and RAND Israel Policy Fund, $1,600,000 (with Steven Popper)  
-- **2010-2012** -- Principal Investigator, "Predictive Policing Analytic and Evaluation Research Support," NIJ 2009-IJ-CX-K114, $1,084,846  
-- **2008-2010** -- Principal Investigator, "Case weighting for federal public defender services," AOUSC USCA08F0404, $564,510 (with Nick Pace)  
-- **2008-2012** -- Principal Investigator, "Evaluation of the Los Angeles County Juvenile Justice Crime Prevention Act Programs," LA County Probation, $1,610,000 (with Terry Fain and Susan Turner)  
-- **2008** -- Principal Investigator, "Development of internal benchmarking system," New York City Police Foundation, $32,000  
-- **2007** -- Principal Investigator, "Assessment of racial bias in NYPD stop, question, and frisk practices," New York City Police Foundation, $120,000  
-- **2007-2008** -- Principal Investigator, "Strategies for improving police recruiting," San Diego Police Department, $160,000  
-- **2006-2007** -- Co-PI, "Analysis of Graduate Driver Licensing - Lower Risk Exposure or Better Driving?," NICHD 1R03HD052547-01, $184,122 (with Pinar Karaca-Mandic)  
-- **2004-2009** -- Principal Investigator, "Improving Police-Community Relations in Cincinnati," City of Cincinnati 45X0028, $1,581,300  
-- **2002-2004** -- Principal Investigator, "DOJ Racial Profiling Initiative," City of Oakland EM3.20.02, $75,000  
-- **2001-2008** -- Co-PI, "Strategic Disruption of Firearms Markets," NIJ 2001-IJ-CX-0028, $647,952 (with George Tita)  
+- **2020-2023** -- Principal Investigator, "[Prosecutors and Criminal Justice Reform: Independent Research Partnership with the Philadelphia District Attorney’s Office](https://medium.com/philadelphia-justice/district-attorney-krasner-announces-dao-transparency-accountability-research-collaboration-27b12ad833db)," Arnold Ventures, $2,509,009 (with Aurélie Ouss)
+- **2020-2022** -- Co-Principal Investigator, "Evaluation of Philadelphia Group Violence Intervention," Urban Affairs Coalition and Philadelphia Office of Violence Prevention, $150,269 (with Ruth Moyer)
+- **2020-2022** -- Principal Investigator, "Crime Prevention Through Intelligence & Information Sharing," Neubauer Family Foundation, $543,298 (with Aaron Chalfin)
+- **2016** -- Site PI, "Disrupting Illegal Gun Transfers," NIJ (prime: RAND), 2013-R2-CX-0016, $42,118
+- **2015-2016** -- Site PI, "Replication of the Cardiff Violence Prevention Model in the United States," RWJF (prime: NFCDC&PI), Grant 72352, $213,572
+- **2011-2012** -- Program Director, "Developing the Center of Research and Security Studies," Ministry of Interior, Abu Dhabi, $1,500,000
+- **2010-2012** -- Co-PI, "NLECTC Information and Geospatial Technology Center of Excellence," NIJ 2010-IJ-CX-K007, $6,000,000 (with John Hollywood)
+- **2010-2012** -- Co-PI, "Experimental Evaluation of the BJA DMI Training and Technical Assistance Initiative," BJA 2010-DJ-BX-1672, $2,900,000 (with Beau Kilmer and Jessica Saunders)
+- **2010-2012** -- Co-PI, "Enabling the Police to Serve the Needs of 21st Century Israel," Israel Ministry of Public Security and RAND Israel Policy Fund, $1,600,000 (with Steven Popper)
+- **2010-2012** -- Principal Investigator, "Predictive Policing Analytic and Evaluation Research Support," NIJ 2009-IJ-CX-K114, $1,084,846
+- **2008-2010** -- Principal Investigator, "Case weighting for federal public defender services," AOUSC USCA08F0404, $564,510 (with Nick Pace)
+- **2008-2012** -- Principal Investigator, "Evaluation of the Los Angeles County Juvenile Justice Crime Prevention Act Programs," LA County Probation, $1,610,000 (with Terry Fain and Susan Turner)
+- **2008** -- Principal Investigator, "Development of internal benchmarking system," New York City Police Foundation, $32,000
+- **2007** -- Principal Investigator, "Assessment of racial bias in NYPD stop, question, and frisk practices," New York City Police Foundation, $120,000
+- **2007-2008** -- Principal Investigator, "Strategies for improving police recruiting," San Diego Police Department, $160,000
+- **2006-2007** -- Co-PI, "Analysis of Graduate Driver Licensing - Lower Risk Exposure or Better Driving?," NICHD 1R03HD052547-01, $184,122 (with Pinar Karaca-Mandic)
+- **2004-2009** -- Principal Investigator, "Improving Police-Community Relations in Cincinnati," City of Cincinnati 45X0028, $1,581,300
+- **2002-2004** -- Principal Investigator, "DOJ Racial Profiling Initiative," City of Oakland EM3.20.02, $75,000
+- **2001-2008** -- Co-PI, "Strategic Disruption of Firearms Markets," NIJ 2001-IJ-CX-0028, $647,952 (with George Tita)
 - **2001-2002** -- Principal Investigator, "Data mining and Columbia counterdrug strategies," Office of the Secretary of Defense (three projects) $57,845, $27,965, $19,165
 
 ## Publications
@@ -190,69 +191,71 @@ R. Hester, G. Ridgeway, and R. Labrecque. "Balancing predictive accuracy with ra
 
 ### Peer-reviewed articles
 
+Eugenia C. South, Emily Seeburger, Abby Dolan, Greg Ridgeway, Shoshana Aronowitz, Charles C. Branas, Jeanmarie Perrone, John MacDonald, Douglas Wiebe, David S. Mandell, Kehinde Oyekanmi, Nicole Thomas, Zachary F. Meisel (to appear). "Neighborhood Environmental Interventions and Opioid Overdose Rates in Philadelphia, PA," JAMA Network Open.
+
 G. Ridgeway (2026). "[A conditional ordinal stereotype model to estimate police officers' propensity to escalate force](https://doi.org/10.1080/01621459.2025.2597050)," *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  ([Supplemental appendix](https://ndownloader.figstatic.com/files/60425107)) ([Additional mathematical details](https://github.com/gregridgeway/COS-police-use-of-force/blob/main/COSmathDetails.pdf))
 
-F.A. Amaral, C. Loeffler, and G. Ridgeway (2024). "[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624)," *Journal of Criminal Justice*, 95:102313.  
+F.A. Amaral, C. Loeffler, and G. Ridgeway (2024). "[Prosecutorial discretion not to invoke the criminal process and its impact on firearm cases](https://www.sciencedirect.com/science/article/abs/pii/S0047235224001624)," *Journal of Criminal Justice*, 95:102313.
 
 J.R. Gyourko and G. Ridgeway (2024). "[Predictors of identity fraud victimization of adolescent youth in foster care](https://doi.org/10.1080/15564886.2024.2314693)," *Victims & Offenders* 21(5):1034-1059.
 
-V. Nguyen and G. Ridgeway (2023). "[Judges on the benchmark: Developing a sentencing feedback system](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738)," *Justice Quarterly*, 41(1):1-37.  
+V. Nguyen and G. Ridgeway (2023). "[Judges on the benchmark: Developing a sentencing feedback system](https://www.tandfonline.com/doi/full/10.1080/07418825.2023.2244738)," *Justice Quarterly*, 41(1):1-37.
 
-E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, and C.C. Branas (2023). "[Effect of abandoned housing interventions on gun violence, perceptions of safety, and substance use in Black neighborhoods: A citywide cluster randomized trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.  
+E.C. South, J.M. MacDonald,  V.W. Tam, G. Ridgeway, and C.C. Branas (2023). "[Effect of abandoned housing interventions on gun violence, perceptions of safety, and substance use in Black neighborhoods: A citywide cluster randomized trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2799226)," *JAMA Internal Medicine* 183(1):31-39.
 
-Z. F. Meisel, F. Shofer, A. Dolan, E. B. Goldberg, K. V. Rhodes, E. P. Hess, V. R. Bellamkonda, J. Perrone, C. C. Cannuscio, L. Becker, M. A. Rodgers, M. M. Zyla, J. J. Bell, S. McCollum, E. Engel-Rebitzer, M. J. Nguemeni Tiako, G. Ridgeway, and M. M. Schapira (2022). "[A multicentered randomized controlled trial comparing the effectiveness of pain treatment communication tools in emergency department patients with back pain or kidney stone pain](https://pubmed.ncbi.nlm.nih.gov/35143273/)," *American Journal of Public Health* 112(S1):S45-S55.  
+Z. F. Meisel, F. Shofer, A. Dolan, E. B. Goldberg, K. V. Rhodes, E. P. Hess, V. R. Bellamkonda, J. Perrone, C. C. Cannuscio, L. Becker, M. A. Rodgers, M. M. Zyla, J. J. Bell, S. McCollum, E. Engel-Rebitzer, M. J. Nguemeni Tiako, G. Ridgeway, and M. M. Schapira (2022). "[A multicentered randomized controlled trial comparing the effectiveness of pain treatment communication tools in emergency department patients with back pain or kidney stone pain](https://pubmed.ncbi.nlm.nih.gov/35143273/)," *American Journal of Public Health* 112(S1):S45-S55.
 
-G. Ridgeway, J. Rosenberger, and L. Xue (2021). "[Statisticians engage in gun violence research](https://doi.org/10.1080/2330443X.2021.1978354)," *Statistics and Public Policy* 8(1):73-79.  
+G. Ridgeway, J. Rosenberger, and L. Xue (2021). "[Statisticians engage in gun violence research](https://doi.org/10.1080/2330443X.2021.1978354)," *Statistics and Public Policy* 8(1):73-79.
 
-Y. Wu and G. Ridgeway (2021). "[Effect of public transit on crime: Evidence from SEPTA strikes in Philadelphia](https://rdcu.be/b0Mp3)," *Journal of Experimental Criminology* 17:267-286.  
+Y. Wu and G. Ridgeway (2021). "[Effect of public transit on crime: Evidence from SEPTA strikes in Philadelphia](https://rdcu.be/b0Mp3)," *Journal of Experimental Criminology* 17:267-286.
 
-G. Ridgeway, B. Cave, J. Grieco, and C.E. Loeffler (2021). "[A conditional likelihood model of the relationship between officer features and rounds discharged in police shootings](https://rdcu.be/b51im)," *Journal of Quantitative Criminology* 37(1):303-326.  
+G. Ridgeway, B. Cave, J. Grieco, and C.E. Loeffler (2021). "[A conditional likelihood model of the relationship between officer features and rounds discharged in police shootings](https://rdcu.be/b51im)," *Journal of Quantitative Criminology* 37(1):303-326.
 
-R. Moyer and G. Ridgeway (2020). "[The effect of outpatient methadone maintenance treatment facilities on place-based crime](http://doi.org/10.1007/s11292-018-9347-1)," *Journal of Experimental Criminology* 16(2):227-245.  
+R. Moyer and G. Ridgeway (2020). "[The effect of outpatient methadone maintenance treatment facilities on place-based crime](http://doi.org/10.1007/s11292-018-9347-1)," *Journal of Experimental Criminology* 16(2):227-245.
 
-G. Ridgeway, R. Moyer, and S. Bushway (2020). "[Sentencing scorecards: Reducing racial disparities in prison sentences at their source](https://doi.org/10.1111/1745-9133.12529)," *Criminology & Public Policy* 19(4):1113-1138.  
+G. Ridgeway, R. Moyer, and S. Bushway (2020). "[Sentencing scorecards: Reducing racial disparities in prison sentences at their source](https://doi.org/10.1111/1745-9133.12529)," *Criminology & Public Policy* 19(4):1113-1138.
 
-G. Ridgeway (2020). "[The role of individual officer characteristics in police shootings](https://doi.org/10.1177/0002716219896553)," *The ANNALS of the American Academy of Political and Social Science* 687(1):58-66. ([technical appendix](docs/Ridgeway2020AAPSSTechnicalAppendix.pdf) showing the decomposition of information)  
+G. Ridgeway (2020). "[The role of individual officer characteristics in police shootings](https://doi.org/10.1177/0002716219896553)," *The ANNALS of the American Academy of Political and Social Science* 687(1):58-66. ([technical appendix](https://gregridgeway.github.io/docs/Ridgeway2020AAPSSTechnicalAppendix.pdf) showing the decomposition of information)
 
-G. Ridgeway, J. Grogger, R.A. Moyer, and J.M. MacDonald (2019). "[Effect of gang injunctions on crime: A study of Los Angeles from 1988–2014](https://rdcu.be/baAEp)," *Journal of Quantitative Criminology* 35(3):517-541.  
+G. Ridgeway, J. Grogger, R.A. Moyer, and J.M. MacDonald (2019). "[Effect of gang injunctions on crime: A study of Los Angeles from 1988–2014](https://rdcu.be/baAEp)," *Journal of Quantitative Criminology* 35(3):517-541.
 
-C.E. Loeffler, J.M. Hyatt, and G. Ridgeway (2019). "[Measuring self-reported wrongful convictions among prisoners](https://rdcu.be/KRH7)," *Journal of Quantitative Criminology* 35(2):259-286.  
+C.E. Loeffler, J.M. Hyatt, and G. Ridgeway (2019). "[Measuring self-reported wrongful convictions among prisoners](https://rdcu.be/KRH7)," *Journal of Quantitative Criminology* 35(2):259-286.
 
-R. Moyer, J.M. MacDonald, G. Ridgeway, and C. Branas (2019). "[Effect of remediating blighted vacant land on shootings: A citywide cluster randomized trial](http://doi.org/10.2105/AJPH.2018.304752)," *American Journal of Public Health* 109(1):140-144.  
+R. Moyer, J.M. MacDonald, G. Ridgeway, and C. Branas (2019). "[Effect of remediating blighted vacant land on shootings: A citywide cluster randomized trial](http://doi.org/10.2105/AJPH.2018.304752)," *American Journal of Public Health* 109(1):140-144.
 
-G. Ridgeway, M. Nørgaard, T.B. Rasmussen, W.D. Finkle, L. Pedersen, H.E. Bøtker, and H.T. Sørensen (2019). "[Benchmarking Danish hospitals on mortality and readmission rates after cardiovascular admission](https://doi.org/10.2147/CLEP.S189263)," *Clinical Epidemiology* 11:67-80.  
+G. Ridgeway, M. Nørgaard, T.B. Rasmussen, W.D. Finkle, L. Pedersen, H.E. Bøtker, and H.T. Sørensen (2019). "[Benchmarking Danish hospitals on mortality and readmission rates after cardiovascular admission](https://doi.org/10.2147/CLEP.S189263)," *Clinical Epidemiology* 11:67-80.
 
-Ridgeway, G. (2019). "[Experiments in criminology](http://www.annualreviews.org/eprint/e9hbESDQURNcFEnASzYW/full/10.1146/annurev-statistics-030718-105057)," *Annual Review of Statistics and Its Applications*, 6:37-61.  
+Ridgeway, G. (2019). "[Experiments in criminology](http://www.annualreviews.org/eprint/e9hbESDQURNcFEnASzYW/full/10.1146/annurev-statistics-030718-105057)," *Annual Review of Statistics and Its Applications*, 6:37-61.
 
-O. Mitchell and G. Ridgeway (2018). "[Assessing the fairness and effectiveness of bicycle stops in Tampa](https://doi.org/10.1177/1098611118781344)," *Police Quarterly* 21(4):461-485.  
+O. Mitchell and G. Ridgeway (2018). "[Assessing the fairness and effectiveness of bicycle stops in Tampa](https://doi.org/10.1177/1098611118781344)," *Police Quarterly* 21(4):461-485.
 
-J. Lyons, V. Desai, Y. Xu, G. Ridgeway, W. Finkle, P. Solari, S. Sullivan, S. Lanes (2018). "[Development and validation of an algorithm for identifying patients with Hemophilia A in an administrative claims database](https://doi.org/10.1016/j.jval.2018.03.008)," *Value in Health* 21(9):1098-1103.  
+J. Lyons, V. Desai, Y. Xu, G. Ridgeway, W. Finkle, P. Solari, S. Sullivan, S. Lanes (2018). "[Development and validation of an algorithm for identifying patients with Hemophilia A in an administrative claims database](https://doi.org/10.1016/j.jval.2018.03.008)," *Value in Health* 21(9):1098-1103.
 
-S.F. Jacoby, L.M. Kollar, G. Ridgeway, S.A. Sumner (2018). "[Health system and law enforcement synergies for injury surveillance, control and prevention: A scoping review](https://doi.org/10.1136/injuryprev-2017-042416)," *Injury Prevention* 24:305-311.  
+S.F. Jacoby, L.M. Kollar, G. Ridgeway, S.A. Sumner (2018). "[Health system and law enforcement synergies for injury surveillance, control and prevention: A scoping review](https://doi.org/10.1136/injuryprev-2017-042416)," *Injury Prevention* 24:305-311.
 
-V. Bacak and G. Ridgeway (2018). "[Availability of health-related programs in private and public prisons](http://journals.sagepub.com/doi/10.1177/1078345817728078)," *Journal of Correctional Health Care* 24(1):62-70.  
+V. Bacak and G. Ridgeway (2018). "[Availability of health-related programs in private and public prisons](http://journals.sagepub.com/doi/10.1177/1078345817728078)," *Journal of Correctional Health Care* 24(1):62-70.
 
-S.-L. Faraji, G. Ridgeway, and Y. Wu (2018). "[Effect of emergency winter homeless shelters on property crime](http://rdcu.be/Eto7)," *Journal of Experimental Criminology* 14(2):129-140.  
+S.-L. Faraji, G. Ridgeway, and Y. Wu (2018). "[Effect of emergency winter homeless shelters on property crime](http://rdcu.be/Eto7)," *Journal of Experimental Criminology* 14(2):129-140.
 
-G. Ridgeway (2018). "[Policing in the era of big data](http://www.annualreviews.org/eprint/fGjUaHWKMFbuqxpn7a7J/full/10.1146/annurev-criminol-062217-114209)," *Annual Review of Criminology*, 1:401-419.  
+G. Ridgeway (2018). "[Policing in the era of big data](http://www.annualreviews.org/eprint/fGjUaHWKMFbuqxpn7a7J/full/10.1146/annurev-criminol-062217-114209)," *Annual Review of Criminology*, 1:401-419.
 
-R. Umbach, A. Raine, and G. Ridgeway (2017). "[Aggression and lost sleep: A daylight saving time natural experiment](http://dx.doi.org/10.1007/s11292-017-9299-x)," *Journal of Experimental Criminology* 13(4):439-453.  
+R. Umbach, A. Raine, and G. Ridgeway (2017). "[Aggression and lost sleep: A daylight saving time natural experiment](http://dx.doi.org/10.1007/s11292-017-9299-x)," *Journal of Experimental Criminology* 13(4):439-453.
 
 G. Ridgeway (2017). "[Stop-and-Frisk is essential... and requires restraint](http://onlinelibrary.wiley.com/doi/10.1002/pam.21990/full)," *Journal of Policy Analysis and Management* 36(3):683-689 (with discussion and rejoinder).
 
-G. Ridgeway and J.M. MacDonald (2017). "[Effect of rail transit on crime: A study of Los Angeles from 1988–2014](https://rdcu.be/6lfH)," *Journal of Quantitative Criminology* 33(2):277-291.  
+G. Ridgeway and J.M. MacDonald (2017). "[Effect of rail transit on crime: A study of Los Angeles from 1988–2014](https://rdcu.be/6lfH)," *Journal of Quantitative Criminology* 33(2):277-291.
 
-G. Ridgeway and B. Kilmer (2016). "[Bayesian inference for the distribution of grams of marijuana in a joint](https://crim.sas.upenn.edu/sites/default/files/WP2016-01_Ridgeway_Joints_01.22.2016%281%29.pdf)," *Drug and Alcohol Dependence* 165:175-180.  
+G. Ridgeway and B. Kilmer (2016). "[Bayesian inference for the distribution of grams of marijuana in a joint](https://crim.sas.upenn.edu/sites/default/files/WP2016-01_Ridgeway_Joints_01.22.2016%281%29.pdf)," *Drug and Alcohol Dependence* 165:175-180.
 
-G. Ridgeway (2016). "[Officer risk factors associated with police shootings: A matched case-control study](http://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2015.1129918)," *Statistics and Public Policy* 3(1):1-6.  
+G. Ridgeway (2016). "[Officer risk factors associated with police shootings: A matched case-control study](http://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2015.1129918)," *Statistics and Public Policy* 3(1):1-6.
 
-G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). "[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml)," *Journal of Causal Inference* 3(2):237-249.  
+G. Ridgeway, S. Kovalchik, B.A. Griffin, and M.U. Kabeto (2015). "[Propensity score analysis with survey weighted data](http://www.degruyter.com/view/j/jci.2015.3.issue-2/jci-2014-0039/jci-2014-0039.xml)," *Journal of Causal Inference* 3(2):237-249.
 
-J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). "[A synthetic control approach to evaluating place-based crime interventions](https://doi.org/10.1007/s10940-014-9226-5)," *Journal of Quantitative Criminology* 31(3):413-434.  
+J. Saunders, R. Lundberg, A.A. Braga, G. Ridgeway, and J. Miles (2015). "[A synthetic control approach to evaluating place-based crime interventions](https://doi.org/10.1007/s10940-014-9226-5)," *Journal of Quantitative Criminology* 31(3):413-434.
 
-W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). "[Increased risk of non-fatal myocardial infarction following testosterone therapy prescription in men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805)," *PLOS One* 9(1):e85805.  
+W.D. Finkle, S. Greenland, G. Ridgeway, J.L. Adams, M.A. Frasco, M.B. Cook, J.F. Fraumeni, R.N. Hoover (2014). "[Increased risk of non-fatal myocardial infarction following testosterone therapy prescription in men](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085805)," *PLOS One* 9(1):e85805.
 
-G. Ridgeway and J.M. MacDonald. "[A method for internal benchmarking of criminal justice system performance](https://doi.org/10.1177/0011128713514802)," *Crime & Delinquency* 60(1):145-162.  
+G. Ridgeway and J.M. MacDonald. "[A method for internal benchmarking of criminal justice system performance](https://doi.org/10.1177/0011128713514802)," *Crime & Delinquency* 60(1):145-162.
 
 A.A. Braga, G.J. Wintemute, G.L. Pierce, P.J. Cook, and G. Ridgeway (2012). "[Interpreting the empirical evidence on illegal gun market dynamics](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462834/pdf/11524_2012_Article_9681.pdf)," *Journal of Urban Health* 89(5):779-93.
 
@@ -290,11 +293,11 @@ J. Grogger and G. Ridgeway (2006). "[Testing for racial profiling in traffic sto
 
 S.M. Paddock, G. Ridgeway, R. Lin, T.A. Louis (2006). "[Flexible distributions for triple-goal estimates in two-stage hierarchical models](https://doi.org/10.1016/j.csda.2005.05.008)," *Computational Statistics and Data Analysis* 50(11):3243-3262.
 
-G. Ridgeway (2006). "[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](https://link.springer.com/article/10.1007/s10940-005-9000-9)," *Journal of Quantitative Criminology* 22(1):1-29. Example [code](docs/poststop-v2.R) and [dataset](docs/poststop-example.RData).
+G. Ridgeway (2006). "[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](https://link.springer.com/article/10.1007/s10940-005-9000-9)," *Journal of Quantitative Criminology* 22(1):1-29. Example [code](https://gregridgeway.github.io/docs/poststop-v2.R) and [dataset](https://gregridgeway.github.io/docs/poststop-example.RData).
 
 D.A Cohen, T.A. Farley, K. Mason, and G. Ridgeway (2006). "[The collectivity of sexual behaviour](https://journals.sagepub.com/doi/10.1258/095646206775809213)," *International Journal of STD & AIDS* 17(3):151-156.
 
-C. Guarino, G. Ridgeway, M. Chun, and R. Buddin (2005). "[Latent variable analysis: A new approach to university ranking](https://doi.org/10.1080/03797720500260033)," *Higher Education in Europe* 30(2):147-165. [Preprint version](docs/UniversityRanking.pdf)
+C. Guarino, G. Ridgeway, M. Chun, and R. Buddin (2005). "[Latent variable analysis: A new approach to university ranking](https://doi.org/10.1080/03797720500260033)," *Higher Education in Europe* 30(2):147-165. [Preprint version](https://gregridgeway.github.io/docs/UniversityRanking.pdf)
 
 D. McCaffrey, G. Ridgeway, A. Morral (2004). "[Propensity score estimation with boosted regression for evaluating adolescent substance abuse treatment](https://psycnet.apa.org/doi/10.1037/1082-989X.9.4.403)," *Psychological Methods* 9(4):403-425. [Included in J. Miles and B. Stucky (editors) (2014). Quantitative Psychology, SAGE Publications.]
 
@@ -310,7 +313,7 @@ G. Ridgeway and D. Madigan (2002). "[Bayesian analysis of massive datasets via p
 
 D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2002). "[Likelihood-based data squashing: A modeling approach to instance construction](https://link.springer.com/article/10.1023/A:1014095614948)," *Data Mining and Knowledge Discovery* 6(2):173-190.
 
-G. Ridgeway (2002). "[Looking for lumps: Boosting and bagging for density estimation](https://www.sciencedirect.com/science/article/abs/pii/S0167947301000664)," *Computational Statistics and Data Analysis* 38(4):379-392. ([R script](docs/density.boost.R))
+G. Ridgeway (2002). "[Looking for lumps: Boosting and bagging for density estimation](https://www.sciencedirect.com/science/article/abs/pii/S0167947301000664)," *Computational Statistics and Data Analysis* 38(4):379-392. ([R script](https://gregridgeway.github.io/docs/density.boost.R))
 
 D. Rusk, K. Lin, D. Swartz, and G. Ridgeway (2002). "[Bayesian updating of damage size probabilities for aircraft structural life-cycle management](https://arc.aiaa.org/doi/10.2514/2.2983)," *Journal of Aircraft* 39(4):689-696.
 
@@ -409,7 +412,7 @@ L.M. Davis, K.J. Riley, G. Ridgeway, J.E. Pace, S. Cotton-Nelson, P. Steinberg, 
 
 G. Ridgeway, K.J. Riley, J. Grogger (2004).
   *Analysis of Oakland's stop and search data*,
-  Chapter 9 in [*Promoting Cooperative Strategies to Reduce Racial Profiling*](docs/TechnicalGuidev8.pdf), Oakland Police Department.
+  Chapter 9 in [*Promoting Cooperative Strategies to Reduce Racial Profiling*](https://gregridgeway.github.io/docs/TechnicalGuidev8.pdf), Oakland Police Department.
 
 G. Tita, K.J. Riley, G. Ridgeway, C. Grammich, A.F. Abrahamse, and P. Greenwood (2003).
   [*Reducing Gun Violence in East Los Angeles: Results from an Intervention*](https://www.rand.org/pubs/monograph_reports/MR1764-1.html),
@@ -425,13 +428,13 @@ G.M. Carter, M. Beeuwkes Buntin, O. Hayden, S.M. Paddock, D.A. Relles, G.K. Ridg
 
 G. Ridgeway and J.M. MacDonald (2010). [*Methods for Assessing Racially Biased Policing*](http://www.rand.org/pubs/reprints/RP1427.html) in [*Race, Ethnicity and Policing: New and Essential Readings*](https://nyupress.org/9780814759650/race-ethnicity-and-policing) (S.K. Rice & M.D. White, eds.), New York University Press.
 
-G. Ridgeway (2003). [*Strategies and Methods for Prediction*](docs/DMHandbookPrediction.pdf) in [*The Handbook of Data Mining*](https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
+G. Ridgeway (2003). [*Strategies and Methods for Prediction*](https://gregridgeway.github.io/docs/DMHandbookPrediction.pdf) in [*The Handbook of Data Mining*](https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
 
-D. Madigan and G. Ridgeway (2003). [*Bayesian Learning and Inference*](docs/bayes.pdf) in *The Handbook of Data Mining*(https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
+D. Madigan and G. Ridgeway (2003). [*Bayesian Learning and Inference*](https://gregridgeway.github.io/docs/bayes.pdf) in *The Handbook of Data Mining*(https://www.routledge.com/The-Handbook-of-Data-Mining/Ye/p/book/9780805849073) (N. Ye, ed.), Lawrence Erlbaum Associates, Mahwah, NJ.
 
 A. Morral, M. Reti, D. McCaffrey, G. Ridgeway (2001). *Phoenix Academy treatment outcomes: Preliminary findings from the adolescent outcomes study.* NIDA Research Monograph 182:111-112.
 
-D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2001). [*Likelihood-based Data Squashing: A Modeling Approach to Instance Construction*](docs/lds.pdf) in [*Instance Selection and Construction for Data Mining*](https://doi.org/10.1007/978-1-4757-3359-4) (H. Liu & H. Motoda, eds.), Kluwer Academic Publishers.
+D. Madigan, N. Raghavan, W. DuMouchel, M. Nason, C. Posse, and G. Ridgeway (2001). [*Likelihood-based Data Squashing: A Modeling Approach to Instance Construction*](https://gregridgeway.github.io/docs/lds.pdf) in [*Instance Selection and Construction for Data Mining*](https://doi.org/10.1007/978-1-4757-3359-4) (H. Liu & H. Motoda, eds.), Kluwer Academic Publishers.
 
 ### Commentaries and letters
 
@@ -449,17 +452,17 @@ G. Ridgeway (2008). "[Study Focuses on NYPD Racial Profiling](https://www.npr.or
 
 K.J. Riley and G. Ridgeway (2007). "[Police Need to Do a Better Job of Explaining Stop-and-Frisk](https://www.rand.org/pubs/commentary/2007/12/police-need-to-do-a-better-job-of-explaining-stop-and.html)," Commentary, *New York Daily News*, December 6, 2007.
 
-G. Ridgeway (2007). "[Laws Are No Substitute to Vigilance](docs/SJ_Cmmt_LawsNoSubstituteVigilance.pdf)," Special to washingtonpost.com's Think Tank Town, April 18, 2007.
+G. Ridgeway (2007). "[Laws Are No Substitute to Vigilance](https://gregridgeway.github.io/docs/SJ_Cmmt_LawsNoSubstituteVigilance.pdf)," Special to washingtonpost.com's Think Tank Town, April 18, 2007.
 
 K.J. Riley and G. Ridgeway (2005). "[Racial Profiling Won't Stop Terror](https://www.rand.org/pubs/commentary/2006/10/racial-profiling-wont-stop-terror.html)," Special to washingtonpost.com's Think Tank Town, October 11, 2006.
 
-G. Ridgeway (2005). "[Racial Profiling: Still a Worry](docs/WAPost050906.pdf)," Letter to the Editor, *Washington Post*, September 6, 2005, Page A24.
+G. Ridgeway (2005). "[Racial Profiling: Still a Worry](https://gregridgeway.github.io/docs/WAPost050906.pdf)," Letter to the Editor, *Washington Post*, September 6, 2005, Page A24.
 
 G. Ridgeway (2004). "[Commentary: Racial Profiling, Not Always Black and White](https://www.rand.org/content/dam/rand/pubs/corporate_pubs/2007/RAND_CP22-2004-08.pdf)," *RAND Review* 28(2):46.
 
 K.J. Riley and G. Ridgeway (2004). "[Measuring racial profiling by police](https://www.rand.org/pubs/commentary/2004/07/measuring-racial-profiling-by-police.html)," *Law Enforcement News.*
 
-G. Ridgeway and K.J. Riley (2004). "[Police-search statistics don't lie, but statisticians can](docs/CQP_Cmmt_PoliceSearchStatsDntLie.pdf)," Op-ed, *Dallas Morning News*, February 22, 2004.
+G. Ridgeway and K.J. Riley (2004). "[Police-search statistics don't lie, but statisticians can](https://gregridgeway.github.io/docs/CQP_Cmmt_PoliceSearchStatsDntLie.pdf)," Op-ed, *Dallas Morning News*, February 22, 2004.
 
 ### Reports, discussions, and conference papers
 
@@ -477,236 +480,235 @@ G. Ridgeway (2007). [*Review of All of Nonparametric Statistics by Larry Wasserm
 
 G. Ridgeway (April 15, 2006). [*Generalized Boosted Models: A guide to the gbm package*](https://cran.r-project.org/web/packages/gbm/vignettes/gbm.pdf), R vignette.
 
-G. Ridgeway, D.F. McCaffrey, A.R. Morral (June 26, 2006). [*Toolkit for Weighting and Analysis of Nonequivalent Groups: A tutorial for the twang package*](https://cran.r-project.org/web/packages/twang/vignettes/twang.pdf), R vignette. 
+G. Ridgeway, D.F. McCaffrey, A.R. Morral (June 26, 2006). [*Toolkit for Weighting and Analysis of Nonequivalent Groups: A tutorial for the twang package*](https://cran.r-project.org/web/packages/twang/vignettes/twang.pdf), R vignette.
 
 G. Tita, K.J. Riley, G. Ridgeway, and P.W. Greenwood (2005). [*Reducing Gun Violence: Operation Ceasefire in Los Angeles*](https://nij.ojp.gov/library/publications/reducing-gun-violence-operation-ceasefire-los-angeles), NIJ Research Report NCJ 192378.
 
-D. Madigan and G. Ridgeway (2004). [*Discussion of "Least Angle Regression"*](https://projecteuclid.org/journals/annals-of-statistics/volume-32/issue-2/Least-angle-regression/10.1214/009053604000000067.full), *Annals of Statistics* 32(2):465-469. 
+D. Madigan and G. Ridgeway (2004). [*Discussion of "Least Angle Regression"*](https://projecteuclid.org/journals/annals-of-statistics/volume-32/issue-2/Least-angle-regression/10.1214/009053604000000067.full), *Annals of Statistics* 32(2):465-469.
 
-D. Rusk, K. Lin, D. Swartz, and G. Ridgeway (2001). ["*Bayesian Updating of Damage Size Probabilities for Aircraft Structural Life-Cycle Management*"](docs/rusk.pdf), *Proceedings of the 42nd Structures, Structural Dynamics, and Materials Conference, Non-Deterministic Approaches Forum*. 
+D. Rusk, K. Lin, D. Swartz, and G. Ridgeway (2001). ["*Bayesian Updating of Damage Size Probabilities for Aircraft Structural Life-Cycle Management*"](https://gregridgeway.github.io/docs/rusk.pdf), *Proceedings of the 42nd Structures, Structural Dynamics, and Materials Conference, Non-Deterministic Approaches Forum*.
 
-G. Ridgeway (2000). [*Discussion of "Additive Logistic Regression: a Statistical View of Boosting," by J. Friedman, T. Hastie, and R. Tibshirani*](https://doi.org/10.1214/aos/1016218223), *Annals of Statistics* 28(2):393-400. 
+G. Ridgeway (2000). [*Discussion of "Additive Logistic Regression: a Statistical View of Boosting," by J. Friedman, T. Hastie, and R. Tibshirani*](https://doi.org/10.1214/aos/1016218223), *Annals of Statistics* 28(2):393-400.
 
-G. Ridgeway (2000). [*Looking for Lumps: Boosting and bagging for density estimation*](docs/density.pdf), In *Proceedings of the International Meeting on Nonlinear Methods and Data Mining* (S. Borra & A. Di Ciaccio, eds.), pp. 11-25.
+G. Ridgeway (2000). [*Looking for Lumps: Boosting and bagging for density estimation*](https://gregridgeway.github.io/docs/density.pdf), In *Proceedings of the International Meeting on Nonlinear Methods and Data Mining* (S. Borra & A. Di Ciaccio, eds.), pp. 11-25.
 
-G. Ridgeway (2000). [*Prediction in the Era of Massive Datasets*](docs/prediction.pdf), Proceedings of *Statistical Modelling for Data Mining* (P. Giudici, ed.), pp. 109-119.
+G. Ridgeway (2000). [*Prediction in the Era of Massive Datasets*](https://gregridgeway.github.io/docs/prediction.pdf), Proceedings of *Statistical Modelling for Data Mining* (P. Giudici, ed.), pp. 109-119.
 
-G. Ridgeway (1999). [*The state of boosting*](docs/interface99.pdf), *Computing Science and Statistics* 31:172-181. 
+G. Ridgeway (1999). [*The state of boosting*](https://gregridgeway.github.io/docs/interface99.pdf), *Computing Science and Statistics* 31:172-181.
 
-G. Ridgeway (1999). [*Generalization of Boosting Algorithms and Applications of Bayesian Inference for Massive Datasets*](docs/thesis.pdf), Ph.D. dissertation, Dept. of Statistics, Univ. of Washington.
+G. Ridgeway (1999). [*Generalization of Boosting Algorithms and Applications of Bayesian Inference for Massive Datasets*](https://gregridgeway.github.io/docs/thesis.pdf), Ph.D. dissertation, Dept. of Statistics, Univ. of Washington.
 
-G. Ridgeway, D. Madigan, and T. Richardson (1999). [*Boosting Methodology for Regression Problems*](docs/BNBR.pdf), *Proceedings of Artificial Intelligence and Statistics ‘99* (D. Heckerman & J. Whittaker, eds.), pp. 152-161. 
+G. Ridgeway, D. Madigan, and T. Richardson (1999). [*Boosting Methodology for Regression Problems*](https://gregridgeway.github.io/docs/BNBR.pdf), *Proceedings of Artificial Intelligence and Statistics ‘99* (D. Heckerman & J. Whittaker, eds.), pp. 152-161.
 
 G. Ridgeway, T. Richardson, and D. Madigan (1999). [*Discussion of "Bump Hunting in High-Dimensional Data"*](https://link.springer.com/article/10.1023/A:1008815121360), *Statistics and Computing* 9(2):150-152.
 
-J.W. O’Kane, G. Ridgeway, and D. Madigan (1999). [*Statistical Analysis of Clinical Variables to Predict the Outcome of Surgical Intervention in Patients with Knee Complaints*](docs/knee.pdf), Technical report. 
+J.W. O’Kane, G. Ridgeway, and D. Madigan (1999). [*Statistical Analysis of Clinical Variables to Predict the Outcome of Surgical Intervention in Patients with Knee Complaints*](https://gregridgeway.github.io/docs/knee.pdf), Technical report.
 
-G. Ridgeway and S. Altschuler (1998). [*Clustering Finite Discrete Markov Chains*](docs/jsm1998.pdf), *Proceedings of the Section on Physical and Engineering Sciences*, pp. 228-229.
+G. Ridgeway and S. Altschuler (1998). [*Clustering Finite Discrete Markov Chains*](https://gregridgeway.github.io/docs/jsm1998.pdf), *Proceedings of the Section on Physical and Engineering Sciences*, pp. 228-229.
 
-G. Ridgeway (1997). [*Finite discrete Markov process clustering*](docs/tr-97-24.pdf), Technical report MSR-TR-97-24, Microsoft Research, September 1997. 
+G. Ridgeway (1997). [*Finite discrete Markov process clustering*](https://gregridgeway.github.io/docs/tr-97-24.pdf), Technical report MSR-TR-97-24, Microsoft Research, September 1997.
 
-G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics -- DORUS*](docs/DORUS.pdf), September 1996. 
+G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics -- DORUS*](https://gregridgeway.github.io/docs/DORUS.pdf), September 1996.
 
 ## Software development
 
-- **cosmic -- Conditional Ordinal Stereotype Model for Incident-Level Comparison**  
-  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (Stan/R)  
+- **cosmic -- Conditional Ordinal Stereotype Model for Incident-Level Comparison**
+  A conditional likelihood version of Anderson's ordinal stereotype model, designed to estimate an individual officer's propensity to escalate force (Stan/R)
   [CRAN](https://cran.r-project.org/web/packages/cosmic/index.html), [Development](https://github.com/gregridgeway/cosmic), [Original](https://github.com/gregridgeway/COS-police-use-of-force) (C++/R)
 
-- **fastDR -- Fast Doubly Robust Estimation**  
+- **fastDR -- Fast Doubly Robust Estimation**
   Implements doubly robust treatment effect estimation using boosted propensity scores and weighted GLMs (R)
   Development: [https://github.com/gregridgeway/fastDR](https://github.com/gregridgeway/fastDR)
 
-- **gbm3 -- Generalized Boosted Regression Models**  
-  Latest version of gradient boosting and related models (C++/R)  
+- **gbm3 -- Generalized Boosted Regression Models**
+  Latest version of gradient boosting and related models (C++/R)
   Development: [https://github.com/gbm-developers/gbm3](https://github.com/gbm-developers/gbm3)
 
-- **gbm -- Generalized Boosted Regression Models**  
-  Original version of gradient boosted models (C++/R)  
+- **gbm -- Generalized Boosted Regression Models**
+  Original version of gradient boosted models (C++/R)
   Development: [https://github.com/gbm-developers/gbm](https://github.com/gbm-developers/gbm)
 
 ## Presentations
 
 ### 2026
 
-- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__PennAIfellows.pdf)," April, Penn AI Fellows series.
-
-- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)," February, RAND Statistics Group 50th Anniversary Seminar Series.
+- "[Which police officers escalate force?](https://gregridgeway.github.io/docs/Conditional_ordinal_stereotype__PennAIfellows.pdf)," April, Penn AI Fellows series.
+- "[Which police officers escalate force?](https://gregridgeway.github.io/docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)," February, RAND Statistics Group 50th Anniversary Seminar Series.
 
 ### 2025
 
-- "[Fairness Regularized Risk Assessment Models: Balancing Risk Prediction and Racial and Ethnic Equality](docs/ASC_25_Pres_pattern_fairness.pdf)," November, Washington DC, American Society of Criminology. (with Rhys Hester and Ryan Labrecque).
-- "[Landscape of Criminal Justice Data Sources](docs/crim_data_sources-v2.pdf)," March, American Statistical Association, [Committee on Law and Justice Statistics](https://community.amstat.org/lawandjusticestatistics/webinarseries) public webinar. [video](https://us06web.zoom.us/rec/share/5e0AhacrnfraNIO44sCO-fGnyYBFTS8NQwK5WauY1K4YJeqACb_Vp0mA3mlvRpYs._FKXiUmuImacVNhU?iet=sy2DjRuvnzKMHpJ0IonBSKrwDTvNCyt3WclhjOefUKU.AG.sDCQKu9PgUmjTxf5rgDBcXGyvxw-R68crA9OGV5q7flcGQUr7TktzQhF0ynO7ooXJQK-EGJY0pTduqNyWSyKidgut2J-vZJRgQXztkZV3cro5mRf6yC6KedzxD7LYiA.-vVFnwxeL41qXpcj6bjvYA.Fwv1k69farPtu0Mm) (password: M7P=o$Df)
+- "[Fairness Regularized Risk Assessment Models: Balancing Risk Prediction and Racial and Ethnic Equality](https://gregridgeway.github.io/docs/ASC_25_Pres_pattern_fairness.pdf)," November, Washington DC, American Society of Criminology. (with Rhys Hester and Ryan Labrecque).
+- "[Landscape of Criminal Justice Data Sources](https://gregridgeway.github.io/docs/crim_data_sources-v2.pdf)," March, American Statistical Association, [Committee on Law and Justice Statistics](https://community.amstat.org/lawandjusticestatistics/webinarseries) public webinar. [video](https://us06web.zoom.us/rec/share/5e0AhacrnfraNIO44sCO-fGnyYBFTS8NQwK5WauY1K4YJeqACb_Vp0mA3mlvRpYs._FKXiUmuImacVNhU?iet=sy2DjRuvnzKMHpJ0IonBSKrwDTvNCyt3WclhjOefUKU.AG.sDCQKu9PgUmjTxf5rgDBcXGyvxw-R68crA9OGV5q7flcGQUr7TktzQhF0ynO7ooXJQK-EGJY0pTduqNyWSyKidgut2J-vZJRgQXztkZV3cro5mRf6yC6KedzxD7LYiA.-vVFnwxeL41qXpcj6bjvYA.Fwv1k69farPtu0Mm) (password: M7P=o$Df)
 - "Which police officers escalate force?," March, Penn Criminology Department Seminar Series.
 
 ### 2024
 
-- "[Which police officers escalate force?](docs/Conditional_ordinal_stereotype__slides_UTM_biostat.pdf)" September, University of Tennessee - Memphis, Biostatistics seminar series.
-- "[Which police officers have a high propensity to escalate force?](docs/WarrenCenterResearchMixer2024_Conditional_ordinal_stereotype.pdf)," September, [Warren Center & ASSET Center Research Mixer](https://warrencenter.upenn.edu/events/warren-center-asset-center-research-mixer/), University of Pennsylvania, Philadelphia, PA.  
+- "[Which police officers escalate force?](https://gregridgeway.github.io/docs/Conditional_ordinal_stereotype__slides_UTM_biostat.pdf)" September, University of Tennessee - Memphis, Biostatistics seminar series.
+- "[Which police officers have a high propensity to escalate force?](https://gregridgeway.github.io/docs/WarrenCenterResearchMixer2024_Conditional_ordinal_stereotype.pdf)," September, [Warren Center & ASSET Center Research Mixer](https://warrencenter.upenn.edu/events/warren-center-asset-center-research-mixer/), University of Pennsylvania, Philadelphia, PA.
 
 ### 2023
 
-- "[Conditional Likelihood for Use-of-Force](docs/Conditional_likelihood_and_use_of_force__NISS_UoF__slides.pdf)," November, [Ingram Olkin Forum: Statistical Challenges in the Analysis of Police Use of Force](https://www.niss.org/events/findings-ingram-olkin-forum-statistical-analysis-police-use-force), Carleton College, Northfield, MN.  
-- "[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_Census.pdf)," July, Center for Statistical Research and Methodology, United States Bureau of the Census.  
-- "[Conditional likelihood and use-of-force](docs/Conditional_likelihood_and_use_of_force__UML.pdf)," March, University of Massachusetts, Lowell.  
-- "[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_score_card_PASEF.pdf)," February, [Penn Association of Senior and Emeritus Faculty (PASEF)](https://provost.upenn.edu/pasef).  
+- "[Conditional Likelihood for Use-of-Force](https://gregridgeway.github.io/docs/Conditional_likelihood_and_use_of_force__NISS_UoF__slides.pdf)," November, [Ingram Olkin Forum: Statistical Challenges in the Analysis of Police Use of Force](https://www.niss.org/events/findings-ingram-olkin-forum-statistical-analysis-police-use-force), Carleton College, Northfield, MN.
+- "[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](https://gregridgeway.github.io/docs/benchmarking_and_score_card_Census.pdf)," July, Center for Statistical Research and Methodology, United States Bureau of the Census.
+- "[Conditional likelihood and use-of-force](https://gregridgeway.github.io/docs/Conditional_likelihood_and_use_of_force__UML.pdf)," March, University of Massachusetts, Lowell.
+- "[Scorecards, Benchmarking, and the Search for Unusual Hospitals, Communities, and Cops](https://gregridgeway.github.io/docs/benchmarking_and_score_card_PASEF.pdf)," February, [Penn Association of Senior and Emeritus Faculty (PASEF)](https://provost.upenn.edu/pasef).
 
 ### 2021
 
-- "[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-ENAR.pdf)," March, ENAR, virtual.  
-- "[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](docs/benchmarking_and_scorecards_CSG.pdf)," March, Council of State Governments.  
-- "[Exploring a RAND Approach to Measuring Racial Disparity: A Case Example and Dialogue](docs/Racial_disparity_RAND_1_28_2021.pdf)," January, Center to Advance Racial Equity Policy, RAND Corporation.
+- "[Officer Features and Shooting Risk](https://gregridgeway.github.io/docs/conditional_likelihood_shootings-ENAR.pdf)," March, ENAR, virtual.
+- "[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](https://gregridgeway.github.io/docs/benchmarking_and_scorecards_CSG.pdf)," March, Council of State Governments.
+- "[Exploring a RAND Approach to Measuring Racial Disparity: A Case Example and Dialogue](https://gregridgeway.github.io/docs/Racial_disparity_RAND_1_28_2021.pdf)," January, Center to Advance Racial Equity Policy, RAND Corporation.
 
 ### 2020
 
-- "[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-APPAM.pdf)," November, [APPAM Fall Research Conference](https://www.appam.org/2020appam/), virtual.  
-- "[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](docs/JSM_health_policy_lunch_keynote_benchmarking-v2.pdf)," [Keynote, Health Policy Statistics Section](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=314083), August, Joint Statistical Meetings, virtual.  
-- "[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-JSM.pdf)," August, Joint Statistical Meetings, virtual.
+- "[Officer Features and Shooting Risk](https://gregridgeway.github.io/docs/conditional_likelihood_shootings-APPAM.pdf)," November, [APPAM Fall Research Conference](https://www.appam.org/2020appam/), virtual.
+- "[Modern Benchmarking and the Search for Unusual Hospitals, Communities, and Cops](https://gregridgeway.github.io/docs/JSM_health_policy_lunch_keynote_benchmarking-v2.pdf)," [Keynote, Health Policy Statistics Section](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=314083), August, Joint Statistical Meetings, virtual.
+- "[Officer Features and Shooting Risk](https://gregridgeway.github.io/docs/conditional_likelihood_shootings-JSM.pdf)," August, Joint Statistical Meetings, virtual.
 
 ### 2019
 
-- "[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-NISS-v2.pdf)," June, [Inaugural Ingram Olkin S3 Forum: Gun Violence - The Statistical Issues](https://www.niss.org/events/inaugural-ingram-olkin-s3-forum-gun-violence-statistical-issues), American Statistical Association, Alexandria, VA.   [video](https://www.youtube.com/watch?v=0t1CMCRI7QM)
-- "[Statistics of Police Shootings and Racial Profiling](docs/Statistics_of_Police_Shootings_and_Racial_Profiling_NYU.pdf)," April, [Center for Practice and Research at the Intersection of Information, Society, and Methodology](https://steinhardt.nyu.edu/priism), New York University, New York, NY.  
-- "[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings_Iowa_State.pdf)," March, Department of Statistics, Iowa State University, Ames, IA.  
-- "[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings-Colgate.pdf)," February, Natural Sciences Colloquium, Colgate University, Hamilton, NY.  
-- "[Officer Features and Shooting Risk](docs/conditional_likelihood_shootings-AAPSS.pdf)," February, AAPSS Workshop on Police Shootings, University of Pennsylvania, Philadelphia, PA.
+- "[Officer Features and Shooting Risk](https://gregridgeway.github.io/docs/conditional_likelihood_shootings-NISS-v2.pdf)," June, [Inaugural Ingram Olkin S3 Forum: Gun Violence - The Statistical Issues](https://www.niss.org/events/inaugural-ingram-olkin-s3-forum-gun-violence-statistical-issues), American Statistical Association, Alexandria, VA. [video](https://www.youtube.com/watch?v=0t1CMCRI7QM)
+- "[Statistics of Police Shootings and Racial Profiling](https://gregridgeway.github.io/docs/Statistics_of_Police_Shootings_and_Racial_Profiling_NYU.pdf)," April, [Center for Practice and Research at the Intersection of Information, Society, and Methodology](https://steinhardt.nyu.edu/priism), New York University, New York, NY.
+- "[Racial Profiling, Bad Cops, and Police Shootings](https://gregridgeway.github.io/docs/Racial_Profiling_Bad_Cops_Police_Shootings_Iowa_State.pdf)," March, Department of Statistics, Iowa State University, Ames, IA.
+- "[Racial Profiling, Bad Cops, and Police Shootings](https://gregridgeway.github.io/docs/Racial_Profiling_Bad_Cops_Police_Shootings-Colgate.pdf)," February, Natural Sciences Colloquium, Colgate University, Hamilton, NY.
+- "[Officer Features and Shooting Risk](https://gregridgeway.github.io/docs/conditional_likelihood_shootings-AAPSS.pdf)," February, AAPSS Workshop on Police Shootings, University of Pennsylvania, Philadelphia, PA.
 
 ### 2018
 
-- "[What to Do About Geographic Interventions?](docs/effect of geographic interventions.pdf)," November, Center for Causal Inference, University of Pennsylvania, Philadelphia, PA.
-- "[Criminological Data Science](docs/fields_institute_ridgeway.pdf)," September, Fields Institute, University of Toronto, Toronto, Canada.
+- "[What to Do About Geographic Interventions?](https://gregridgeway.github.io/docs/effect of geographic interventions.pdf)," November, Center for Causal Inference, University of Pennsylvania, Philadelphia, PA.
+- "[Criminological Data Science](https://gregridgeway.github.io/docs/fields_institute_ridgeway.pdf)," September, Fields Institute, University of Toronto, Toronto, Canada.
 
 ### 2017
 
-- "[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial_Profiling_Bad_Cops_Police_Shootings_SDAL.pdf)," November, [Social and Decision Analytics Lab](https://analytics.cs.vt.edu/), Virginia Tech, Arlington, VA.
-- "[Criminal Justice Predictions](docs/NAS prediction ridgeway.pdf)," September, National Academy of Sciences, Workshop on Predictive Analytics for Human Services and Education, Washington, DC.
-- "[Computation and Criminology](docs/ccubed ridgeway-v3.pdf)," September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
-- "[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](docs/Ridgeway NYPD shootings - AAAS.pdf)," February, American Association for the Advancement of Science (AAAS), Boston, MA.
-- "[Propensity score analysis with survey weighted data](docs/prop scores with survey weighted data-v2.pdf)," March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
-- "[Statistical Applications in Crime and Justice](docs/ASW2017/ASW.pdf)," March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA. [Complete slides, scripts, and datasets](https://github.com/gregridgeway/gregridgeway.github.io/tree/main/docs/ASW2017)
+- "[Racial Profiling, Bad Cops, and Police Shootings](https://gregridgeway.github.io/docs/Racial_Profiling_Bad_Cops_Police_Shootings_SDAL.pdf)," November, [Social and Decision Analytics Lab](https://analytics.cs.vt.edu/), Virginia Tech, Arlington, VA.
+- "[Criminal Justice Predictions](https://gregridgeway.github.io/docs/NAS prediction ridgeway.pdf)," September, National Academy of Sciences, Workshop on Predictive Analytics for Human Services and Education, Washington, DC.
+- "[Computation and Criminology](https://gregridgeway.github.io/docs/ccubed ridgeway-v3.pdf)," September, Current Challenges in Computing: Computational Social Science (CCubed), Napa, CA.
+- "[Officer Risk Factors Associated with Police Shootings: A Matched Case-Control Study](https://gregridgeway.github.io/docs/Ridgeway NYPD shootings - AAAS.pdf)," February, American Association for the Advancement of Science (AAAS), Boston, MA.
+- "[Propensity score analysis with survey weighted data](https://gregridgeway.github.io/docs/prop scores with survey weighted data-v2.pdf)," March, Eastern North American Region of the Biometric Society (ENAR), Washington, DC.
+- "[Statistical Applications in Crime and Justice](https://gregridgeway.github.io/docs/ASW2017/ASW.pdf)," March, Southern California chapter of the American Statistical Association (SCASA) Annual Applied Statistics Workshop, Duarte, CA. [Complete slides, scripts, and datasets](https://github.com/gregridgeway/gregridgeway.github.io/tree/main/docs/ASW2017)
 
 ### 2016
 
-- "[Racial Profiling, Bad Cops, and Police Shootings](docs/Racial Profiling Bad Cops Police Shootings.pdf)," March, Department of Statistics Colloquium, University of Pennsylvania, Philadelphia, PA.
-- "[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](docs/transit and crime PSC.pdf)," January, Population Studies Center Colloquium, Philadelphia, PA.
+- "[Racial Profiling, Bad Cops, and Police Shootings](https://gregridgeway.github.io/docs/Racial Profiling Bad Cops Police Shootings.pdf)," March, Department of Statistics Colloquium, University of Pennsylvania, Philadelphia, PA.
+- "[Effect of Rail Transit on Crime: A Study of Los Angeles from 1988-2014](https://gregridgeway.github.io/docs/transit and crime PSC.pdf)," January, Population Studies Center Colloquium, Philadelphia, PA.
 
 ### 2015
 
-- "[Criminal justice system benchmarking: An approach for studying sentencing disparities in New York State](docs/benchmarking overview NY Sentencing Commission.pdf)," October, New York Sentencing Commission, New York, NY.
-- "[Transit systems and their effect on crime in communities: Three decades of crime and transit in Los Angeles](docs/transit and crime APPAM.pdf)," November, Association for Public Policy Analysis and Management, Miami, FL.
-- "[Benchmarking Justice Performance](docs/benchmarking performance poster v2.pdf)," June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
-- "[Discussion of Plea Bargaining in Wisconsin](docs/Stemen discussion - Albany pleas RCN.pdf)," June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
-- "[Advancing forensic science at the National Institute of Justice](docs/NAS forensics review.pdf)," April, Committee on Strengthening Forensic Science at the National Institute of Justice, National Academy of Sciences, Washington, DC.
+- "[Criminal justice system benchmarking: An approach for studying sentencing disparities in New York State](https://gregridgeway.github.io/docs/benchmarking overview NY Sentencing Commission.pdf)," October, New York Sentencing Commission, New York, NY.
+- "[Transit systems and their effect on crime in communities: Three decades of crime and transit in Los Angeles](https://gregridgeway.github.io/docs/transit and crime APPAM.pdf)," November, Association for Public Policy Analysis and Management, Miami, FL.
+- "[Benchmarking Justice Performance](https://gregridgeway.github.io/docs/benchmarking performance poster v2.pdf)," June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- "[Discussion of Plea Bargaining in Wisconsin](https://gregridgeway.github.io/docs/Stemen discussion - Albany pleas RCN.pdf)," June, Research Coordination Network on Understanding Guilty Pleas, Albany, NY.
+- "[Advancing forensic science at the National Institute of Justice](https://gregridgeway.github.io/docs/NAS forensics review.pdf)," April, Committee on Strengthening Forensic Science at the National Institute of Justice, National Academy of Sciences, Washington, DC.
 
 ### 2014
 
-- "[Estimating officer risk factors for police shootings](docs/NYPD shootings.pdf)," December, Department of Criminology, University of Pennsylvania, Philadelphia.
+- "[Estimating officer risk factors for police shootings](https://gregridgeway.github.io/docs/NYPD shootings.pdf)," December, Department of Criminology, University of Pennsylvania, Philadelphia.
 
 ### 2012
 
-- "[Methods for racial profiling analysis](docs/Racial Profiling Methods-v4.pdf)," March, Claremont Colleges, Claremont.
+- "[Methods for racial profiling analysis](https://gregridgeway.github.io/docs/Racial Profiling Methods-v4.pdf)," March, Claremont Colleges, Claremont.
 
 ### 2011
 
-- "[Analysis in Support of Public Safety](docs/Ridgeway Buenos Aires workshop-v2.pdf)," September, Contemporary Challenges for Strategic Planning of Public Safety, Ministerio de Seguridad, Buenos Aires, Argentina.
+- "[Analysis in Support of Public Safety](https://gregridgeway.github.io/docs/Ridgeway Buenos Aires workshop-v2.pdf)," September, Contemporary Challenges for Strategic Planning of Public Safety, Ministerio de Seguridad, Buenos Aires, Argentina.
 - "[Racial Profiling Analysis in a Post-Beer Summit World](https://www.youtube.com/watch?v=Oot0BOaQTZI)," March, Google Tech Talks, Santa Monica. ([video](https://www.youtube.com/watch?v=Oot0BOaQTZI))
 
 ### 2010
 
-- "[What research can do for policing](docs/RAND Scottsdale IALEP-research.pdf)," September, International Association of Law Enforcement Planners, Scottsdale.
-- "[Police Performance and the Analysis of Racial Profiling](docs/RAND Scottsdale IALEP-racial profiling.pdf)," September, International Association of Law Enforcement Planners, Scottsdale.
-- "[What research can do for policing](docs/RAND SoCal Chiefs.pdf)," April, Southern California Chiefs of Police Association, Palm Springs.
+- "[What research can do for policing](https://gregridgeway.github.io/docs/RAND Scottsdale IALEP-research.pdf)," September, International Association of Law Enforcement Planners, Scottsdale.
+- "[Police Performance and the Analysis of Racial Profiling](https://gregridgeway.github.io/docs/RAND Scottsdale IALEP-racial profiling.pdf)," September, International Association of Law Enforcement Planners, Scottsdale.
+- "[What research can do for policing](https://gregridgeway.github.io/docs/RAND SoCal Chiefs.pdf)," April, Southern California Chiefs of Police Association, Palm Springs.
 
 ### 2009
 
-- "[Methods for racial profiling analysis](docs/racialprofiling2009.pdf)," October, University of Pennsylvania, Philadelphia, Department of Criminology.
-- "[Operación cese al fuego, Los Ángeles](docs/ridgeway-cedan.pdf)," Crimen organizado, pandillas y tráfico de armas, triángulo de inseguridad, September, CEDAN - Centro de Diálogo y Análisis Sobre América del Norte, Tecnológico de Monterrey, Campus Ciudad de México.
+- "[Methods for racial profiling analysis](https://gregridgeway.github.io/docs/racialprofiling2009.pdf)," October, University of Pennsylvania, Philadelphia, Department of Criminology.
+- "[Operación cese al fuego, Los Ángeles](https://gregridgeway.github.io/docs/ridgeway-cedan.pdf)," Crimen organizado, pandillas y tráfico de armas, triángulo de inseguridad, September, CEDAN - Centro de Diálogo y Análisis Sobre América del Norte, Tecnológico de Monterrey, Campus Ciudad de México.
 
 ### 2008
 
-- "[Methods for racial profiling analysis](docs/racialprofiling2008.pdf)," October, University of California, Santa Barbara, Department of Probability and Statistics.
-- "[A Discussion of Disease Prediction and Model Validation](docs/discussJSM2008.pdf)," Discussion for an invited session at the Joint Statistical Meetings, August, Denver.
-- "[Racial Disparities in the New York Police Department's Stop, Question, Frisk Practices](docs/SQF report briefing-v1.pdf)," February, The 2nd Fyfe Police Accountability Conference: Stop and Frisk Policy, Practice and Research, [John Jay College](https://www.jjay.cuny.edu/), New York.
+- "[Methods for racial profiling analysis](https://gregridgeway.github.io/docs/racialprofiling2008.pdf)," October, University of California, Santa Barbara, Department of Probability and Statistics.
+- "[A Discussion of Disease Prediction and Model Validation](https://gregridgeway.github.io/docs/discussJSM2008.pdf)," Discussion for an invited session at the Joint Statistical Meetings, August, Denver.
+- "[Racial Disparities in the New York Police Department's Stop, Question, Frisk Practices](https://gregridgeway.github.io/docs/SQF report briefing-v1.pdf)," February, The 2nd Fyfe Police Accountability Conference: Stop and Frisk Policy, Practice and Research, [John Jay College](https://www.jjay.cuny.edu/), New York.
 
 ### 2007
 
-- "[The criminal purchase of firearm ammunition](docs/ACJR2007ammo.pdf)," March, Association for Criminal Justice Research, Sacramento.
-- "[Methods for racial profiling analysis](docs/racialprofiling2007.pdf)," February, University of Cincinnati.
-- "[Improving Community-Police Relations: Year 2 Results](docs/CincyJanuary2007-v2.pdf)," January, Testimony to the Public Safety Subcommittee of the Cincinnati City Council.
+- "[The criminal purchase of firearm ammunition](https://gregridgeway.github.io/docs/ACJR2007ammo.pdf)," March, Association for Criminal Justice Research, Sacramento.
+- "[Methods for racial profiling analysis](https://gregridgeway.github.io/docs/racialprofiling2007.pdf)," February, University of Cincinnati.
+- "[Improving Community-Police Relations: Year 2 Results](https://gregridgeway.github.io/docs/CincyJanuary2007-v2.pdf)," January, Testimony to the Public Safety Subcommittee of the Cincinnati City Council.
 
 ### 2006
 
-- "[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](docs/internal benchmarking ASC2006.pdf)," November, American Society of Criminology, Los Angeles.
-- "[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](docs/ridgeway jels 2006.pdf)," September, Junior Empirical Legal Scholars Conference, Cornell Law School.
+- "[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](https://gregridgeway.github.io/docs/internal benchmarking ASC2006.pdf)," November, American Society of Criminology, Los Angeles.
+- "[Internal benchmarking using propensity scores for detecting racial bias in police traffic stops](https://gregridgeway.github.io/docs/ridgeway jels 2006.pdf)," September, Junior Empirical Legal Scholars Conference, Cornell Law School.
 - "Racial profiling," February, UCLA Biostatistics Seminar Series.
 
 ### 2005
 
-- "[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](docs/poststopASC2005.pdf)," November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
-- "[Ammunition Purchases in the City of Los Angeles](docs/LA ammo.pdf)," November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
-- "[Model Selection for Estimating Propensity Scores](docs/ModelSelectionPS.pdf)," June, WNAR Conference, Fairbanks, AK.
-- "[Analysis of Post-Stop Outcomes: Citations, Search, and Stop Duration](docs/poststop-analysis-slides.pdf)," April, Fourth National Symposium on Racial Profiling, Rosemont, IL.
-- "[Strategies for the analysis of observational data](docs/propscoreintroUCLA.pdf)," January, UCLA Division of Geriatrics, Los Angeles, CA.
+- "[Assessing the effect of race bias in post-traffic stop outcomes using propensity scores](https://gregridgeway.github.io/docs/poststopASC2005.pdf)," November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
+- "[Ammunition Purchases in the City of Los Angeles](https://gregridgeway.github.io/docs/LA ammo.pdf)," November, [American Society of Criminology](https://www.asc41.org/), Toronto, Canada.
+- "[Model Selection for Estimating Propensity Scores](https://gregridgeway.github.io/docs/ModelSelectionPS.pdf)," June, WNAR Conference, Fairbanks, AK.
+- "[Analysis of Post-Stop Outcomes: Citations, Search, and Stop Duration](https://gregridgeway.github.io/docs/poststop-analysis-slides.pdf)," April, Fourth National Symposium on Racial Profiling, Rosemont, IL.
+- "[Strategies for the analysis of observational data](https://gregridgeway.github.io/docs/propscoreintroUCLA.pdf)," January, UCLA Division of Geriatrics, Los Angeles, CA.
 
 ### 2004
 
-- "[Just Cause or Just Because? Prosecution and Plea Bargaining among Low-Level Drug Offenders in California](docs/Ridgeway-DrugPros-ASC2004.pdf)," November, American Society of Criminology, Nashville, TN.
-- "[Not Always Black and White: More Credible Approaches for Detecting Racial Profiling](docs/RidgewayRANDboard2004V4.pdf)," November, RAND Board of Trustees Meeting, Santa Monica, CA.
+- "[Just Cause or Just Because? Prosecution and Plea Bargaining among Low-Level Drug Offenders in California](https://gregridgeway.github.io/docs/Ridgeway-DrugPros-ASC2004.pdf)," November, American Society of Criminology, Nashville, TN.
+- "[Not Always Black and White: More Credible Approaches for Detecting Racial Profiling](https://gregridgeway.github.io/docs/RidgewayRANDboard2004V4.pdf)," November, RAND Board of Trustees Meeting, Santa Monica, CA.
 - "Racial Profiling: Not Always Black and White," October, Statistics and Computer Science Seminar Series, University of California, Irvine, CA.
-- "[Racial Profiling: Not Always Black and White](docs/onerand-5.pdf)," September, One RAND Colloquium, Washington, DC.
+- "[Racial Profiling: Not Always Black and White](https://gregridgeway.github.io/docs/onerand-5.pdf)," September, One RAND Colloquium, Washington, DC.
 - "Racial Profiling: Not Always Black and White," September, Biostatistics Seminar Series, Johns-Hopkins University, Baltimore, MD.
-- "[Racial Profiling: Not Always Black and White](docs/RidgewayRacialProfilingICJ.pdf)," September, RAND Civil Justice Board of Overseers Meeting, Washington, DC.
-- "[Post-processing boosted regression models: model and variable selection](docs/oobvarselect.pdf)," Invited session at the [Joint Statistical Meetings](https://www.amstat.org/), August, Toronto, Canada. 
+- "[Racial Profiling: Not Always Black and White](https://gregridgeway.github.io/docs/RidgewayRacialProfilingICJ.pdf)," September, RAND Civil Justice Board of Overseers Meeting, Washington, DC.
+- "[Post-processing boosted regression models: model and variable selection](https://gregridgeway.github.io/docs/oobvarselect.pdf)," Invited session at the [Joint Statistical Meetings](https://www.amstat.org/), August, Toronto, Canada.
 - "Enhancing Evidence: Causal Modeling Using Observational Treatment Data," with Dan McCaffrey and Andrew Morral. Research Methodology Workshop at [Complexities of Co-Occurring Conditions](https://www.cccconference.com/), June, Washington, DC.
-- "[Racial Profiling: Not Always Black and White](docs/ridgewaycongbrief61004.pdf)," June, Congressional briefing, Washington, DC.
-- "[Estimating the causal effect of time in treatment using propensity scores](docs/Ridgeway CPDD poster.pdf)," with Dan McCaffrey and Andrew Morral. Poster presentation at the 2004 meeting of the College on Problems of Drug Dependence, June, San Juan, Puerto Rico. 
-- "[Racial Profiling: Not Always Black and White](docs/onerand-5.pdf)," May, One RAND Colloquium, Santa Monica, CA.
-- "[Statistics, Machine Learning, and Public Policy Analysis - Propensity score analysis of observational data](docs/stern2004.pdf)," April, Stern Business School, New York University, New York.
-- "[Retooling propensity score techniques with machine learning for evaluating solutions to the Los Angeles drug abuse epidemic](docs/DIMACS2.pdf)," March, [DIMACS Working Group on Data Mining and Epidemiology](https://dimacs.rutgers.edu/), Rutgers University, Piscataway, NJ.
+- "[Racial Profiling: Not Always Black and White](https://gregridgeway.github.io/docs/ridgewaycongbrief61004.pdf)," June, Congressional briefing, Washington, DC.
+- "[Estimating the causal effect of time in treatment using propensity scores](https://gregridgeway.github.io/docs/Ridgeway CPDD poster.pdf)," with Dan McCaffrey and Andrew Morral. Poster presentation at the 2004 meeting of the College on Problems of Drug Dependence, June, San Juan, Puerto Rico.
+- "[Racial Profiling: Not Always Black and White](https://gregridgeway.github.io/docs/onerand-5.pdf)," May, One RAND Colloquium, Santa Monica, CA.
+- "[Statistics, Machine Learning, and Public Policy Analysis - Propensity score analysis of observational data](https://gregridgeway.github.io/docs/stern2004.pdf)," April, Stern Business School, New York University, New York.
+- "[Retooling propensity score techniques with machine learning for evaluating solutions to the Los Angeles drug abuse epidemic](https://gregridgeway.github.io/docs/DIMACS2.pdf)," March, [DIMACS Working Group on Data Mining and Epidemiology](https://dimacs.rutgers.edu/), Rutgers University, Piscataway, NJ.
 
 ### 2003
 
-- "[A Bayesian assessment of the impact of a gun violence reduction initiative in Hollenbeck](docs/HollenbeckGunViolencePoster.pdf)," September, [The 7th Case Studies in Bayesian Statistics Workshop](https://lib.stat.cmu.edu/), Carnegie Mellon University, Pittsburgh, PA. Poster.
-- "[Propensity scores and causal analysis of observational data](docs/PropScoreTalkUCLA.pdf)," May, Division of General Internal Medicine & Health Services Research Seminar Series, UCLA, Los Angeles, CA.
+- "[A Bayesian assessment of the impact of a gun violence reduction initiative in Hollenbeck](https://gregridgeway.github.io/docs/HollenbeckGunViolencePoster.pdf)," September, [The 7th Case Studies in Bayesian Statistics Workshop](https://lib.stat.cmu.edu/), Carnegie Mellon University, Pittsburgh, PA. Poster.
+- "[Propensity scores and causal analysis of observational data](https://gregridgeway.github.io/docs/PropScoreTalkUCLA.pdf)," May, Division of General Internal Medicine & Health Services Research Seminar Series, UCLA, Los Angeles, CA.
 
 ### 2002
 
-- "[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf)," November, Department of Statistics, UCLA, Los Angeles, CA.  
-- "Generalized boosted modeling with application to propensity scores," October, Department of Statistics and Actuarial Science, University of Central Florida, Orlando, FL.   
-- "[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf)," October, Department of Statistics, Florida State University, Tallahassee, FL.  
-- "[Bayesian analysis of massive datasets via particle filters](docs/ParticleFilter.pdf)," July, The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ([KDD2002](https://www.acm.org/)), Edmonton, Canada.  
-- "[Statistical Techniques for the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/Ridgeway-AHSR.pdf)," June, Academy for Health Services Research and Health Policy Annual Research Meeting, Washington, DC. Invited paper for the session on Medicare Reimbursement for Post Acute & Long Term Care: Research Informing Policy.
-- "[Data Mining for the Development of Public Policy](docs/DataMiningforPublicPolicy.pdf)," April, 34th Symposium on the Interface of Computing and Statistics (Interface 2002), Montreal, Canada. Invited paper for the KDD Featured Session on Data Mining.
+- "[Bayesian analysis of massive datasets via particle filters](https://gregridgeway.github.io/docs/ParticleFilter.pdf)," November, Department of Statistics, UCLA, Los Angeles, CA.
+- "Generalized boosted modeling with application to propensity scores," October, Department of Statistics and Actuarial Science, University of Central Florida, Orlando, FL.
+- "[Bayesian analysis of massive datasets via particle filters](https://gregridgeway.github.io/docs/ParticleFilter.pdf)," October, Department of Statistics, Florida State University, Tallahassee, FL.
+- "[Bayesian analysis of massive datasets via particle filters](https://gregridgeway.github.io/docs/ParticleFilter.pdf)," July, The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ([KDD2002](https://www.acm.org/)), Edmonton, Canada.
+- "[Statistical Techniques for the Implementation of a Prospective Payment System for Inpatient Rehabilitation](https://gregridgeway.github.io/docs/Ridgeway-AHSR.pdf)," June, Academy for Health Services Research and Health Policy Annual Research Meeting, Washington, DC. Invited paper for the session on Medicare Reimbursement for Post Acute & Long Term Care: Research Informing Policy.
+- "[Data Mining for the Development of Public Policy](https://gregridgeway.github.io/docs/DataMiningforPublicPolicy.pdf)," April, 34th Symposium on the Interface of Computing and Statistics (Interface 2002), Montreal, Canada. Invited paper for the KDD Featured Session on Data Mining.
 - "Predicting Dropouts: Boosting Algorithms and the Identification of Academically At-Risk Youth," (with [Paul LePore](https://www.soc.washington.edu/)) February, University of Washington, Center for Statistics and the Social Sciences ([CSSS](https://www.csss.washington.edu/)), Seattle, Washington. CSSS Seminar Series.
 
 ### 2001
 
-- "[Data mining and the Implementation of a Prospective Payment System for Inpatient Rehabilitation](docs/ICHPR.pdf)," December, 2001 International Conference on Health Policy Research, Boston. Invited paper for the session on Data Mining for Health Services Research.
-- "Strategies for Boosting and Prediction," October, [Department of Statistics](https://cnas.ucr.edu), California Polytechnic State University, San Luis Obispo. 
-- "Strategies for Boosting and Prediction," May, [Department of Statistics](https://cnas.ucr.edu), University of California Riverside.  
+- "[Data mining and the Implementation of a Prospective Payment System for Inpatient Rehabilitation](https://gregridgeway.github.io/docs/ICHPR.pdf)," December, 2001 International Conference on Health Policy Research, Boston. Invited paper for the session on Data Mining for Health Services Research.
+- "Strategies for Boosting and Prediction," October, [Department of Statistics](https://cnas.ucr.edu), California Polytechnic State University, San Luis Obispo.
+- "Strategies for Boosting and Prediction," May, [Department of Statistics](https://cnas.ucr.edu), University of California Riverside.
 - "Hypothesis Screening for Serologic Characteristics Associated with Prednisone Using SurroMed Technology," April, [SurroMed](https://www.surromed.com), Mountain View, CA.
 
 ### 2000
 
-- "Strategies for Boosting and Prediction," December, Information and Computer Sciences, University of California Irvine.  
-- "Strategies for Boosting and Prediction," Statistics and Applied Probability Seminar, November, University of California Santa Barbara.  
-- "[Prediction in the Era of Massive Datasets](docs/SMDM-Pavia.pdf)," Workshop on Statistics and Data Mining (SDM2000), October, Pavia, Italy. Invited tutorial presentation.
-- "[Looking for Lumps: Boosting and Bagging for density estimation](docs/DensitySlides2.pdf)," International Meeting on Nonlinear Methods and Data Mining (NMDM 2000), Rome, Italy, September. Invited presentation.
+- "Strategies for Boosting and Prediction," December, Information and Computer Sciences, University of California Irvine.
+- "Strategies for Boosting and Prediction," Statistics and Applied Probability Seminar, November, University of California Santa Barbara.
+- "[Prediction in the Era of Massive Datasets](https://gregridgeway.github.io/docs/SMDM-Pavia.pdf)," Workshop on Statistics and Data Mining (SDM2000), October, Pavia, Italy. Invited tutorial presentation.
+- "[Looking for Lumps: Boosting and Bagging for density estimation](https://gregridgeway.github.io/docs/DensitySlides2.pdf)," International Meeting on Nonlinear Methods and Data Mining (NMDM 2000), Rome, Italy, September. Invited presentation.
 - "Data mining," RAND short course series, Santa Monica, CA, September.
-- "[Modern prediction methods using Bagging and Boosting](docs/csss.pdf)," [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/), February, Seattle, Washington. CSSS Seminar Series.
+- "[Modern prediction methods using Bagging and Boosting](https://gregridgeway.github.io/docs/csss.pdf)," [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/), February, Seattle, Washington. CSSS Seminar Series.
 
 ### 1999
 
 - "Combining Estimators to Improve Performance: Bundling, Bagging, Boosting, and Bayesian Model Averaging," (with John Elder) Fifth International Conference on Knowledge Discovery and Data Mining ([KDD-99](https://www.digimine.com)), August, San Diego, California. Tutorial presentation.
-- "[The state of boosting](docs/Interface99slides.pdf)," 31st Symposium on the Interface: Models, Predictions, and Computing (Interface 1999), June, Schaumburg, Illinois. Invited talk for the session on Data Mining.
-- "[A Method for Bayesian Inference in Massive Datasets](docs/MassiveBayesBoeing.pdf)," [Boeing](https://www.boeing.com), March, Bellevue, Washington. Invited seminar presentation.
-- "[Boosting Methodology for Regression Problems](docs/Uncertainty99.pdf)," Seventh International Workshop on Artificial Intelligence and Statistics ([Uncertainty 1999](https://www.microsoft.com/en-us/research/event/uncertainty-99/)), January, Fort Lauderdale, Florida.
+- "[The state of boosting](https://gregridgeway.github.io/docs/Interface99slides.pdf)," 31st Symposium on the Interface: Models, Predictions, and Computing (Interface 1999), June, Schaumburg, Illinois. Invited talk for the session on Data Mining.
+- "[A Method for Bayesian Inference in Massive Datasets](https://gregridgeway.github.io/docs/MassiveBayesBoeing.pdf)," [Boeing](https://www.boeing.com), March, Bellevue, Washington. Invited seminar presentation.
+- "[Boosting Methodology for Regression Problems](https://gregridgeway.github.io/docs/Uncertainty99.pdf)," Seventh International Workshop on Artificial Intelligence and Statistics ([Uncertainty 1999](https://www.microsoft.com/en-us/research/event/uncertainty-99/)), January, Fort Lauderdale, Florida.
 
 ### 1998
 
-- "[Interpretable Boosted Naïve Bayes Classification](docs/KDD98.pdf)," Fourth International Conference on Knowledge Discovery and Data Mining ([KDD-98](https://aaai.org/conference/kdd/kdd98/)), August, New York, New York. Plenary presentation on classification research.  
-- "[Boosting and the naïve Bayes classifier](docs/BNB-talk for MS.pdf)," [Microsoft Research](https://www.microsoft.com), July, Redmond, Washington.  
-- "[Application of finite discrete Markov process clustering for understanding Web usage](docs/SRC98.pdf)," Spring Research Conference on Statistics in Industry and Technology ([SRC98](https://community.amstat.org/spes/events/spring-research-conference)), Section on Physical and Engineering Sciences, June, Santa Fe, New Mexico.
+- "[Interpretable Boosted Naïve Bayes Classification](https://gregridgeway.github.io/docs/KDD98.pdf)," Fourth International Conference on Knowledge Discovery and Data Mining ([KDD-98](https://aaai.org/conference/kdd/kdd98/)), August, New York, New York. Plenary presentation on classification research.
+- "[Boosting and the naïve Bayes classifier](https://gregridgeway.github.io/docs/BNB-talk for MS.pdf)," [Microsoft Research](https://www.microsoft.com), July, Redmond, Washington.
+- "[Application of finite discrete Markov process clustering for understanding Web usage](https://gregridgeway.github.io/docs/SRC98.pdf)," Spring Research Conference on Statistics in Industry and Technology ([SRC98](https://community.amstat.org/spes/events/spring-research-conference)), Section on Physical and Engineering Sciences, June, Santa Fe, New Mexico.
 
 ## Professional activities
 
@@ -736,7 +738,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 External review committee, [Center for Criminal and Sociolegal Studies](https://www.crimsl.utoronto.ca/), University of Toronto
 
-Program committee, ACM Conference on Fairness, Accountability, and Transparency ([ACM FAccT](https://facctconference.org/index.html)), June, Athens, Greece 
+Program committee, ACM Conference on Fairness, Accountability, and Transparency ([ACM FAccT](https://facctconference.org/index.html)), June, Athens, Greece
 
 ### 2023
 
@@ -859,7 +861,7 @@ Second International Conference on Knowledge Discovery and Data Mining (KDD-96),
 ### Course notes
 
 - **Criminal Justice Data Analytics** (CRIM4002/6002) [R4Crim](https://gregridgeway.github.io/R4crim/)
-- **Machine Learning for Social Science** (CRIM4012/6012) [ML4SocialScience](https://gregridgeway.github.io/ML4SocialScience/)  
+- **Machine Learning for Social Science** (CRIM4012/6012) [ML4SocialScience](https://gregridgeway.github.io/ML4SocialScience/)
 
 ### Ph.D. students
 
@@ -900,6 +902,7 @@ library(kableExtra)
 
 df <- tibble::tribble(
   ~Year, ~Course,                                              ~Enrollment, ~Institution,
+  2026, "Machine Learning for Social Science",                 26,          "University of Pennsylvania",
   2025, "Machine Learning for Social Science",                 18,          "University of Pennsylvania",
   2025, "Data Analytics in R",                                 32,          "University of Pennsylvania",
   2024, "Machine Learning for Social Science",                 29,          "University of Pennsylvania",
@@ -953,6 +956,25 @@ df <- tibble::tribble(
   1998, "Probability and Statistics in Engineering and Science",74,         "University of Washington"
 )
 
+i <- 2:nrow(df)
+i <- i[df$Year[i]==df$Year[i-1] & df$Institution[i]==df$Institution[i-1]]
+df$Institution[i] <- ""
+i <- 2:nrow(df)
+i <- i[df$Year[i]==df$Year[i-1]]
+df$Year[i] <- ""
+
+df <- df |>
+  dplyr::mutate(
+    Year = as.character(Year),
+    Institution = if_else(dplyr::row_number() > 1 &
+                          Year == lag(Year) &
+                          Institution == lag(Institution),
+                          "", Institution),
+    Year = if_else(row_number() > 1 &
+                     Year == lag(Year),
+                   "", Year))
+
+
 fmt <- if (knitr::is_latex_output()) "latex" else "html"
 
 df |>
@@ -966,6 +988,5 @@ df |>
     position = "left",
     font_size = if (knitr::is_latex_output()) 9 else NULL,
     latex_options = if (knitr::is_latex_output()) "repeat_header" else NULL
-  ) |>
-  collapse_rows(columns = c(1,4), valign = "top", latex_hline = "none")
+  )
 ```
