@@ -191,7 +191,7 @@ R. Hester, G. Ridgeway, and R. Labrecque. "Balancing predictive accuracy with ra
 
 ### Peer-reviewed articles
 
-Eugenia C. South, Emily Seeburger, Abby Dolan, Greg Ridgeway, Shoshana Aronowitz, Charles C. Branas, Jeanmarie Perrone, John MacDonald, Douglas Wiebe, David S. Mandell, Kehinde Oyekanmi, Nicole Thomas, Zachary F. Meisel (to appear). "Neighborhood Environmental Interventions and Opioid Overdose Rates in Philadelphia, PA," JAMA Network Open.
+Eugenia C. South, Emily Seeburger, Abby Dolan, Greg Ridgeway, Shoshana Aronowitz, Charles C. Branas, Jeanmarie Perrone, John MacDonald, Douglas Wiebe, David S. Mandell, Kehinde Oyekanmi, Nicole Thomas, Zachary F. Meisel (2026). "[Neighborhood Environmental Interventions and Opioid Overdose Rates](https://doi.org/10.1001/jamanetworkopen.2026.26634)," *JAMA Network Open* 9(7):e2626634.
 
 G. Ridgeway (2026). "[A conditional ordinal stereotype model to estimate police officers' propensity to escalate force](https://doi.org/10.1080/01621459.2025.2597050)," *Journal of the American Statistical Association*. ([Data and code](https://github.com/gregridgeway/COS-police-use-of-force))  ([Supplemental appendix](https://ndownloader.figstatic.com/files/60425107)) ([Additional mathematical details](https://github.com/gregridgeway/COS-police-use-of-force/blob/main/COSmathDetails.pdf))
 
