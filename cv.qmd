@@ -532,7 +532,7 @@ G. Ridgeway (1996). [*Distributed Open Resources for Understanding Statistics --
 
 ### 2026
 
-- "[Detecting officer contagion in police use of force](docs/detectContagionASC2026.pdf)," November, Chicago, American Society of Criminology.
+- "[Detecting officer contagion in police use of force](https://gregridgeway.github.io/docs/detectContagionASC2026.pdf)," November, Chicago, American Society of Criminology.
 - "[Which police officers escalate force?](https://gregridgeway.github.io/docs/Conditional_ordinal_stereotype__PennAIfellows.pdf)," April, Penn AI Fellows series.
 - "[Which police officers escalate force?](https://gregridgeway.github.io/docs/Conditional_ordinal_stereotype__slides RAND 202602.pdf)," February, RAND Statistics Group 50th Anniversary Seminar Series.
 
